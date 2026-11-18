@@ -13,10 +13,11 @@ public class Frame {
 }
 public class WindowMotion {
  [StructLayout(LayoutKind.Sequential)] struct RECT { public int l,t,r,b; }
- [DllImport("dwmapi.dll")] static extern int DwmGetWindowAttribute(IntPtr h,int attr,out RECT r,int size);
+ // DWM may temporarily include the invisible resize border during composition.
+ [DllImport("user32.dll")] static extern bool GetWindowRect(IntPtr h,out RECT r);
  public static Frame Read(IntPtr w) {
   RECT r;
-  if(DwmGetWindowAttribute(w,9,out r,16)!=0) throw new Exception("DWM bounds unavailable");
+  if(!GetWindowRect(w,out r)) throw new Exception("Window bounds unavailable");
   return new Frame{ X=r.l, Y=r.t, W=r.r-r.l, H=r.b-r.t };
  }
  public static Task<Frame[]> Sample(IntPtr w) {
