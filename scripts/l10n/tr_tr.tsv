@@ -1,0 +1,503 @@
+Как в системе	Sistemle aynı
+Язык интерфейса	Dil
+Основные	Genel
+Маршруты	Yönlendirme
+Сеть и туннель	Ağ ve tünel
+Соединения	Bağlantılar
+Статистика	İstatistikler
+Журнал	Günlük
+Добавить	Ekle
+Ссылка на подписку от провайдера или ссылки серверов (vless://, vmess://, trojan://, ss://, hysteria2://, tuic://, wireguard://) — по одной в строке.	Sağlayıcınızdan bir abonelik bağlantısı veya sunucu bağlantıları (vless://, vmess://, trojan://, ss://, hysteria2://, tuic://, wireguard://) — her satıra bir tane.
+Из буфера	Panodan
+QR с экрана	Ekrandan QR
+QR-картинка	QR görseli
+Файл	Dosya
+Отмена	İptal
+Добавлен WireGuard «%@»	WireGuard “%@” eklendi
+Автозапуск: %@	Girişte aç: %@
+Не удалось сохранить настройки: %@	Ayarlar kaydedilemedi: %@
+Tutun: сервер сменился	Tutun: sunucu değişti
+Сейчас: %@	Şimdi: %@
+Tutun подключён	Tutun bağlandı
+Tutun: связь восстановлена	Tutun: bağlantı yeniden kuruldu
+Tutun переподключается	Tutun yeniden bağlanıyor
+Связь с сервером пропала	Sunucuyla bağlantı kesildi
+Tutun отключён	Tutun bağlantısı kesildi
+Tutun: ошибка подключения	Tutun: bağlantı hatası
+Служба не запущена — установите её в настройках	Hizmet çalışmıyor — Ayarlar’dan kurun
+Служба устарела — нажмите «Обновить службу» в настройках	Hizmet güncel değil — Ayarlar’da “Hizmeti güncelle”ye tıklayın
+Нет серверов — добавьте подписку	Sunucu yok — bir abonelik ekleyin
+«%@»: %@. Выберите другой сервер.	“%@”: %@. Başka bir sunucu seçin.
+Нет подходящих серверов	Uygun sunucu yok
+Самый быстрый	En hızlı
+Пропущены серверы, которые ядро не приняло: 	Çekirdeğin reddettiği sunucular atlandı: 
+Не удалось подключиться: ядро не приняло несколько серверов подряд	Bağlanılamadı: çekirdek art arda birkaç sunucuyu reddetti
+Не удалось включить перехват трафика	Trafik yakalama başlatılamadı
+Не удалось подключиться	Bağlanılamadı
+ к «%@»	 → “%@”
+Добавленные вручную	Elle eklendi
+Другие	Diğer
+Такая подписка уже есть	Bu abonelik zaten var
+Пропущено: %@ — 	Atlandı: %@ — 
+Подписка «%@» заканчивается	“%@” aboneliğinin süresi doluyor
+Срок истёк	Süresi doldu
+Осталось дней: %@	Kalan gün: %@
+Пусто	Boş
+серверов: %@	sunucu: %@
+профилей маршрутов: %@	yönlendirme profili: %@
+Ничего не распознано	Hiçbir şey tanınmadı
+Добавлено 	Eklendi: 
+. Пропущено: %@	. Atlandı: %@
+QR-код не найден	QR kodu bulunamadı
+пусто	boş
+Нерабочих серверов нет	Ölü sunucu yok
+Убрано нерабочих серверов: %@	Kaldırılan ölü sunucu: %@
+Сервер не принят ядром	Çekirdek sunucuyu reddetti
+%@: не удалось скачать тестовый файл	%@: test dosyası indirilemedi
+Happ (VPN включён)	Happ (VPN açık)
+Гео-базы обновлены	Coğrafi veritabanları güncellendi
+Доверенная сеть «%@»	Güvenilir ağ “%@”
+Профиль «%@» добавлен	“%@” profili eklendi
+Восстановлено: серверов %@, подписок %@	Geri yüklendi: %@ sunucu, %@ abonelik
+Служба установлена	Hizmet kuruldu
+Служба установлена, но не отвечает — смотрите /var/log/tutun.log	Hizmet kurulu ama yanıt vermiyor — bkz. /var/log/tutun.log
+Служба удалена	Hizmet kaldırıldı
+Служба не запущена	Hizmet çalışmıyor
+Нет связи с сервером	Sunucuyla bağlantı yok
+Подключено	Bağlı
+Подключение…	Bağlanıyor…
+Переподключение…	Yeniden bağlanıyor…
+Ошибка подключения	Bağlantı hatası
+Отключено	Bağlantı kesildi
+нет ответа	yanıt yok
+%@ миллисекунд	%@ milisaniye
+не проверен	test edilmedi
+%@ мс	%@ ms
+По правилам	Kurallara göre
+Всё через VPN	Hepsi VPN üzerinden
+Напрямую	Doğrudan
+Российские сайты и банки напрямую, остальное через VPN	Rus siteleri ve bankalar doğrudan, geri kalan her şey VPN üzerinden
+Всё через VPN, включая российские сайты	Rus siteleri dahil her şey VPN üzerinden
+VPN включён, но трафик идёт напрямую	VPN açık, ancak trafik doğrudan gidiyor
+Нет ресурсов приложения	Uygulama kaynakları bulunamadı
+Не найден %@. Запускайте собранное приложение Tutun.app	%@ bulunamadı. Derlenmiş Tutun.app’i çalıştırın
+Отменено	İptal edildi
+Добавить подписку или серверы	Bir abonelik veya sunucu ekleyin
+Настройки	Ayarlar
+Скрыть настройки	Ayarları gizle
+Показать настройки	Ayarları göster
+Серверы	Sunucular
+Скрыть список серверов	Sunucu listesini gizle
+Показать список серверов	Sunucu listesini göster
+Задержка	Gecikme
+Загрузка	İndirme
+В сети	Çevrimiçi
+Отдача	Yükleme
+Установите службу, чтобы подключаться	Bağlanmak için hizmeti kurun
+всё через VPN	hepsi VPN üzerinden
+Нажмите «Подключить»	“Bağlan”a tıklayın
+самый быстрый из списка	listedeki en hızlı
+последний выбранный	son seçilen
+первый в списке	listedeki ilk
+случайный из списка	listeden rastgele
+выбран автоматически	otomatik seçilir
+выбран вручную	elle seçilir
+Tutun выберет сам	Tutun seçecek
+Обновить службу	Hizmeti güncelle
+Установить службу	Hizmeti kur
+Отключить	Bağlantıyı kes
+Подключить	Bağlan
+Осталась служба от прошлой версии — нажмите «Обновить службу».	Önceki sürümden bir hizmet hâlâ kurulu — “Hizmeti güncelle”ye tıklayın.
+Работает другой VPN: %@. Выключите его.	Başka bir VPN çalışıyor: %@. Kapatın.
+Избранное	Favoriler
+Серверов пока нет	Henüz sunucu yok
+Нажмите «Добавить» и вставьте ссылку на подписку	“Ekle”ye tıklayıp bir abonelik bağlantısı yapıştırın
+Добавить подписку	Abonelik ekle
+Tutun выберет сам и переключит при обрыве	Tutun birini seçer ve bağlantı koparsa geçiş yapar
+Свернуть	Daralt
+Развернуть	Genişlet
+Проверить задержку	Gecikmeyi test et
+Информация о подписке	Abonelik bilgisi
+ · сейчас здесь	 · burada bağlı
+Подключиться к самому быстрому серверу страны	Bu ülkedeki en hızlı sunucuya bağlan
+Скрыть серверы	Sunucuları gizle
+Показать серверы страны	Bu ülkedeki sunucuları göster
+сейчас	şimdi
+Подключиться	Bağlan
+Самый быстрый в стране «%@»	%@ içinde en hızlı
+Тест скорости	Hız testi
+Убрать из избранного	Favorilerden kaldır
+В избранное	Favorilere ekle
+Изменить…	Düzenle…
+Скопировать ссылку	Bağlantıyı kopyala
+Показать QR-код	QR kodunu göster
+Удалить	Sil
+Скрыть	Gizle
+В избранное — будет вверху списка	Favorilere ekle — listenin en üstünde görünür
+Открыть окно	Pencereyi aç
+Закрыть Tutun. VPN продолжит работать через службу	Tutun’dan çık. VPN hizmet üzerinden çalışmaya devam eder
+Новый сервер	Yeni sunucu
+Сервер «%@»	Sunucu “%@”
+Сервер из подписки: изменения сохранятся как отдельный сервер, а переименование — для этого же.	Abonelik sunucusu: değişiklikler ayrı bir sunucu olarak kaydedilir; yeniden adlandırma bu sunucuya uygulanır.
+Название	Ad
+Ссылка	Bağlantı
+Сохранить	Kaydet
+Слишком длинно для QR-кода	QR kodu için çok uzun
+Отсканируйте телефоном (Happ, INCY, v2RayTun и др.)	Telefonunuzla tarayın (Happ, INCY, v2RayTun vb.)
+Закрыть	Kapat
+напрямую	doğrudan
+через VPN	VPN üzerinden
+Б	B
+КБ	KB
+МБ	MB
+ГБ	GB
+ТБ	TB
+/с	/sn
+%.1f Мбит/с	%.1f Mbps
+Сеть	Ağ
+Ещё	Diğer
+Принять изменения	Değişiklikleri uygula
+Переподключить VPN с новыми настройками	VPN’i yeni ayarlarla yeniden bağla
+Выбрать	Seç
+Другое значение…	Özel değer…
+От %@ до %@	%@ ile %@ arası
+Число	Sayı
+Подключение	Bağlantı
+Режим	Mod
+Весь трафик мака	Tüm Mac trafiği
+Системный прокси	Sistem proxy’si
+Аварийная блокировка при потере туннеля	Tünel koparsa acil engelleme
+В режиме всего трафика служба блокирует интернет, обнаружив падение туннеля, до его восстановления. Короткий промежуток до обнаружения аварии не защищён.	Tüm trafik modunda, hizmet tünelin çöktüğünü algıladığında tünel yeniden kurulana kadar interneti engeller. Arızanın algılanmasından önceki kısa aralık korunmaz.
+Запасной сервер	Yedek sunucu
+Если выбранный сервер перестал отвечать, Tutun переключится на самый быстрый из отвечающих.	Seçili sunucu yanıt vermeyi bırakırsa Tutun, yanıt veren en hızlı sunucuya geçer.
+Проверять связь каждые	Bağlantıyı şu aralıkla kontrol et
+с	sn
+Сервер не отвечает после	Sunucu şu kadar sonra kapalı sayılır
+проверок	kontrol
+Автопереключение	Otomatik geçiş
+Пока сервер отвечает, Tutun остаётся на нём, даже если другой быстрее. Перестал отвечать — переходит на самый быстрый из рабочих в том же списке (самый быстрый, страна или запасной).	Sunucu yanıt verdiği sürece, başka biri daha hızlı olsa bile Tutun onda kalır. Yanıt vermeyi bırakınca Tutun, aynı listedeki (en hızlı, ülke veya yedek) çalışan en hızlı sunucuya geçer.
+К какому серверу подключаться	Hangi sunucuya bağlanılacak
+Самый быстрый из списка	Listedeki en hızlı
+Последний выбранный в стране	Ülkede son seçilen
+Первый в списке	Listedeki ilk
+Случайный	Rastgele
+Сначала избранные серверы страны	Önce favori sunucular
+Клик по стране	Bir ülkeye tıklanınca
+Запуск	Açılış
+Открывать Tutun при входе в систему	Tutun’u girişte aç
+Подключаться при запуске Tutun	Tutun başlayınca bağlan
+Значок в Dock, пока открыто окно	Pencere açıkken Dock’ta göster
+После перезагрузки мака VPN включается сам, даже без окна: подключение держит служба.	Yeniden başlatmadan sonra VPN pencere olmadan da kendiliğinden açılır: bağlantıyı hizmet sürdürür.
+Уведомления	Bildirimler
+Показывать уведомления	Bildirimleri göster
+Подключение, обрыв, смена сервера, конец подписки.	Bağlantı, kopmalar, sunucu değişiklikleri, abonelik bitişi.
+Автоматически по Wi-Fi	Wi-Fi’ye göre otomatik
+Включать VPN в чужих сетях	Güvenilmeyen ağlarda VPN’i aç
+В доверенных сетях Tutun отключается, в остальных — подключается сам.	Güvenilir ağlarda Tutun bağlantıyı keser; diğer tüm ağlarda kendiliğinden bağlanır.
+Нужен доступ к геопозиции	Konum erişimi gerekli
+Разрешить	İzin ver
+Без него macOS не сообщает приложениям имя сети Wi-Fi.	Bu izin olmadan macOS, uygulamalara Wi-Fi ağ adını bildirmez.
+Текущая сеть	Geçerli ağ
+неизвестна	bilinmiyor
+Доверенные сети	Güvenilir ağlar
+Имя сети Wi-Fi, по одному в строке	Wi-Fi ağ adı, her satıra bir tane
+Добавить «%@» в доверенные	“%@” ağını güvenilirlere ekle
+Tutun берёт самый быстрый сервер страны и при обрыве сам переключается на другой сервер этой страны.	Tutun, ülkedeki en hızlı sunucuyu seçer; bağlantı koparsa o ülkedeki başka bir sunucuya geçer.
+Tutun подключается к серверу, который вы последним выбрали в этой стране вручную. Если такого нет — к самому быстрому.	Tutun, bu ülkede en son elle seçtiğiniz sunucuya bağlanır. Yoksa en hızlısına bağlanır.
+Tutun подключается к первому серверу страны по алфавиту.	Tutun, ülkenin alfabetik olarak ilk sunucusuna bağlanır.
+Tutun подключается к случайному рабочему серверу страны.	Tutun, ülkedeki çalışan rastgele bir sunucuya bağlanır.
+ Если в стране есть серверы со звёздочкой, выбор идёт только среди них.	 Ülkede yıldızlı sunucular varsa yalnızca onlar dikkate alınır.
+Что пускать через VPN	VPN’den neler geçer
+Всё	Her şey
+Ничего (напрямую)	Hiçbiri (doğrudan)
+Российские сайты — напрямую	Rus siteleri — doğrudan
+Банки, Госуслуги, .ru, .рф и российские IP идут без VPN — так они не ломаются.	Bankalar, Gosuslugi, .ru, .рф ve Rus IP’leri çalışmaya devam etmesi için VPN’i atlar.
+Блокировать рекламу и трекеры	Reklamları ve izleyicileri engelle
+Профиль маршрутов	Yönlendirme profili
+Профиль	Profil
+Нет	Yok
+Напрямую: %@ · через VPN: %@ · блок: %@	Doğrudan: %@ · VPN üzerinden: %@ · engellenen: %@
+happ://routing/add/… или JSON профиля	happ://routing/add/… veya profil JSON’u
+Профиль не распознан	Profil tanınmadı
+Всегда через VPN	Her zaman VPN üzerinden
+Всегда напрямую	Her zaman doğrudan
+Блокировать	Engelle
+Сайты	Siteler
+Домен на строку — с поддоменами. Можно geosite:…, full:…, regexp:…, keyword:…	Her satıra bir alan adı, alt alan adları dahil. geosite:…, full:…, regexp:…, keyword:… kullanabilirsiniz
+Через VPN	VPN üzerinden
+Мимо туннеля целиком	Tüneli tamamen atla
+10.0.0.0/8 — рабочая сеть, NAS	10.0.0.0/8 — iş ağı, NAS
+IP-адреса	IP adresleri
+Приложения	Uygulamalar
+Выбранные — мимо VPN	Seçilenler — VPN’i atlar
+Только выбранные — через VPN	Yalnızca seçilenler — VPN üzerinden
+Имя процесса, по одному в строке	İşlem adı, her satıra bir tane
+Выбрать приложение…	Uygulama seç…
+Работает в режиме «Весь трафик мака».	“Tüm Mac trafiği” modunda çalışır.
+Дополнительно	Gelişmiş
+Как сопоставлять домены	Alan adı eşleştirme
+Как есть	Olduğu gibi
+IP, если нет совпадения	Eşleşme yoksa IP
+Сразу по IP	Doğrudan IP
+1.1.1.1 или https://…	1.1.1.1 veya https://…
+Для российских сайтов	Rus siteleri için
+Фрагментация TLS	TLS parçalama
+Помогает, когда провайдер режет VPN по признакам соединения (DPI).	İnternet sağlayıcınız VPN’i bağlantı parmak izine (DPI) göre yavaşlatıyorsa yardımcı olur.
+Пакеты	Paketler
+Длина, байт	Uzunluk, bayt
+Интервал, мс	Aralık, ms
+Шумовые пакеты	Gürültü paketleri
+Несколько соединений в одном канале. К серверам с XTLS Vision и XHTTP не применяется.	Tek kanalda birden fazla bağlantı. XTLS Vision veya XHTTP kullanan sunuculara uygulanmaz.
+Потоков	Akışlar
+Определять сайты по трафику (sniffing)	Siteleri trafikten algıla (sniffing)
+Обход блокировок	Sansür aşma
+Раздавать VPN другим устройствам	VPN’i diğer cihazlarla paylaş
+SOCKS-порт	SOCKS portu
+HTTP-порт	HTTP portu
+Логин	Kullanıcı adı
+пусто — без пароля	boş — parola yok
+Пароль	Parola
+Адрес для телефона	Telefonunuz için adres
+IP мака	Mac’in IP’si
+Локальная сеть	Yerel ağ
+На телефоне: Wi-Fi → Прокси → Вручную, указать адрес и порт.	Telefonunuzda: Wi-Fi → Proxy → Manuel, adresi ve portu girin.
+Проверка серверов	Sunucu testi
+Способ	Yöntem
+Настоящий запрос через сервер	Sunucu üzerinden gerçek istek
+Только соединение (быстрее)	Yalnızca bağlantı (daha hızlı)
+Адрес проверки	Test URL’si
+Ждать до	Zaman aşımı
+Проверять при запуске	Açılışta test et
+Проверять после обновления подписки	Abonelik güncellemesinden sonra test et
+Соединений нет	Bağlantı yok
+Список виден при подключённом VPN в режиме «Весь трафик мака».	Liste, VPN “Tüm Mac trafiği” modunda bağlıyken gösterilir.
+Сайт или приложение	Site veya uygulama
+%@ активных	%@ etkin
+Закрыть все	Hepsini kapat
+Соединений пока нет — они появятся, как только приложения выйдут в интернет	Henüz bağlantı yok — uygulamalar çevrimiçi olur olmaz burada görünür
+Ничего не найдено	Hiçbir şey bulunamadı
+«через VPN» — отдано ядру; российские сайты ядро дальше отправит напрямую по правилам.	“VPN üzerinden”, çekirdeğe iletildi demektir; çekirdek sonra Rus sitelerini kurallara göre doğrudan gönderir.
+Закрыть соединение	Bağlantıyı kapat
+Сегодня	Bugün
+Этот месяц	Bu ay
+Текущая сессия	Geçerli oturum
+По дням, 30 дней	Günlük, 30 gün
+Пока пусто	Henüz bir şey yok
+День	Gün
+Тип	Tür
+По серверам	Sunucuya göre
+IP-адрес	IP adresi
+Без VPN	VPN olmadan
+Проверить	Kontrol et
+Сбросить статистику	İstatistikleri sıfırla
+Найти в журнале	Günlükte ara
+Ошибки	Hatalar
+Предупреждения	Uyarılar
+Подробно	Bilgi
+Отладка	Hata ayıklama
+Открыть файл	Dosyayı aç
+Скопировать	Kopyala
+Открываются отдельным небольшим окном.	Ayrı küçük bir pencerede aç.
+Как Tutun запрашивает подписки	Tutun abonelikleri nasıl alır
+Отправлять ID устройства	Cihaz kimliğini gönder
+Нужно провайдерам с лимитом устройств. ID этого мака: %@	Cihaz sınırı olan sağlayıcılar için gerekir. Bu Mac’in kimliği: %@
+Ждать ответа до	Yanıt zaman aşımı
+Обновлять при запуске	Açılışta güncelle
+Пропускать одинаковые серверы	Yinelenen sunucuları atla
+Предупреждать об окончании за	Bitişten önce uyar
+дн.	gün
+Добавлены вручную	Elle eklendi
+Скрыты	Gizli
+Вернуть все	Hepsini geri yükle
+Скопировать все ссылки	Tüm bağlantıları kopyala
+Ссылки скопированы	Bağlantılar kopyalandı
+Убрать нерабочие	Ölü olanları kaldır
+Служба	Hizmet
+Состояние	Durum
+работает, версия %@	çalışıyor, sürüm %@
+ — устарела	 — güncel değil
+установлена, не отвечает	kurulu, yanıt vermiyor
+не установлена	kurulu değil
+Перезапусков ядра	Çekirdek yeniden başlatmaları
+Переустановить службу	Hizmeti yeniden kur
+Удалить службу	Hizmeti kaldır
+Обновлять раз в неделю	Haftalık güncelle
+Обновлены	Güncellendi
+ещё нет	henüz değil
+Обновить сейчас	Şimdi güncelle
+Гео-базы	Coğrafi veritabanları
+Списки стран и сайтов для правил. По умолчанию — runetfreedom для России.	Kurallarda kullanılan ülke ve site listeleri. Varsayılan: Rusya için runetfreedom.
+Резервная копия	Yedek
+Сохранить в файл…	Dosyaya kaydet…
+Восстановить из файла…	Dosyadan geri yükle…
+Открыть папку данных	Veri klasörünü aç
+В копии подписки, серверы и настройки. Храните как пароль — там ключи серверов.	Yedek; abonelikleri, sunucuları ve ayarları içerir. Sunucu anahtarları da bulunduğundan parola gibi saklayın.
+Управление из «Команд» и Терминала	Kısayollar ve Terminal’den denetim
+Включить	Aç
+Выключить	Kapat
+Переключить	Aç/kapat
+Ссылки vless://, vmess://, trojan://, ss://, hysteria2://, tuic://, wireguard:// открываются в Tutun по клику.	vless://, vmess://, trojan://, ss://, hysteria2://, tuic://, wireguard:// bağlantıları tıklandığında Tutun’da açılır.
+Копия сохранена	Yedek kaydedildi
+Не удалось восстановить: %@	Geri yüklenemedi: %@
+Трафик	Trafik
+ из %@	 / %@
+, без лимита	, sınırsız
+Действует до	Geçerlilik sonu
+ · ещё %@ дн.	 · %@ gün kaldı
+ · истекла	 · süresi doldu
+Серверов	Sunucular
+Обновлена	Güncellendi
+Сообщение провайдера	Sağlayıcı mesajı
+Показать	Göster
+Обновлять каждые	Güncelleme sıklığı
+ч	sa
+Показывать серверы этой подписки	Bu aboneliğin sunucularını göster
+Ссылка скопирована	Bağlantı kopyalandı
+QR-код	QR kodu
+Поддержка	Destek
+Кабинет	Hesap
+Удалить подписку	Aboneliği sil
+Удалить подписку и все её серверы?	Abonelik ve tüm sunucuları silinsin mi?
+Вернуть можно, снова добавив ссылку на подписку.	Abonelik bağlantısını yeniden ekleyerek geri getirebilirsiniz.
+Подписка работает	Abonelik çalışıyor
+Не удалось обновить	Güncellenemedi
+Ядро проверки не открыло порт	Test çekirdeği bir port açmadı
+Ядро проверки не запустилось: 	Test çekirdeği başlamadı: 
+нет подходящих серверов	uygun sunucu yok
+Нужно от 1 до 25 серверов	1 ila 25 sunucu gerekli
+Внешние файлы правил недопустимы в конфиге службы	Hizmet yapılandırmasında harici kural dosyalarına izin verilmez
+Недопустимые параметры подключения	Geçersiz bağlantı parametreleri
+Порты локальной сети совпадают или заняты Tutun	Yerel ağ portları çakışıyor veya Tutun tarafından kullanılıyor
+Недопустимый протокол или доступ к файлам в конфиге сервера	Sunucu yapılandırmasında geçersiz protokol veya dosya erişimi
+Служба Tutun не запущена	Tutun hizmeti çalışmıyor
+Ошибка связи со службой: %@	Hizmet iletişim hatası: %@
+пустой ответ	boş yanıt
+не поддерживается: %@	desteklenmiyor: %@
+ссылка повреждена: %@	bozuk bağlantı: %@
+нет схемы	şema yok
+AmneziaWG (его не умеет ни xray, ни sing-box)	AmneziaWG (ne xray ne de sing-box destekler)
+зашифрованная ссылка Happ — открывается только в Happ	şifreli Happ bağlantısı — yalnızca Happ’te açılır
+JSON не читается	JSON okunamıyor
+конфиг %@: нет сервера	yapılandırma %@: sunucu yok
+Сервер %@	Sunucu %@
+%@: нет ключа	%@: anahtar yok
+Shadowsocks с плагином	Eklentili Shadowsocks
+tuic: нет uuid	tuic: uuid yok
+wireguard: нет ключей	wireguard: anahtar yok
+конфиг WireGuard	WireGuard yapılandırması
+без шифрования — новая версия xray такие запрещает	şifreleme yok — yeni xray sürümü buna izin vermiyor
+Не удалось прочитать настройки	Ayarlar okunamadı
+Неверная ссылка подписки	Geçersiz abonelik bağlantısı
+Сервер подписки ответил ошибкой %@	Abonelik sunucusu %@ hatası döndürdü
+Провайдер: превышен лимит устройств. Удалите старое устройство в кабинете/боте провайдера и обновите подписку.	Sağlayıcı: cihaz sınırına ulaşıldı. Sağlayıcınızın hesabında/botunda eski bir cihazı kaldırıp aboneliği güncelleyin.
+Провайдер не выдал серверы этому устройству (включите «Отправлять ID устройства»).	Sağlayıcı bu cihaza sunucu vermedi (“Cihaz kimliğini gönder”i açın).
+В подписке нет поддерживаемых серверов	Abonelikte desteklenen sunucu yok
+Некорректные общие сетевые настройки	Geçersiz paylaşılan ağ ayarları
+Профиль больше 16 МБ	Profil 16 MB’tan büyük
+Неподдерживаемый формат или версия профиля	Desteklenmeyen profil biçimi veya sürümü
+Слишком много серверов или повторяются идентификаторы	Çok fazla sunucu veya yinelenen kimlikler
+Некорректный сервер или отсутствует связанная подписка	Geçersiz sunucu veya bağlı abonelik eksik
+Некорректная подписка	Geçersiz abonelik
+Некорректные настройки или ссылки на отсутствующие элементы	Geçersiz ayarlar veya eksik öğelere başvurular
+Отсутствует подписка профиля маршрутов	Yönlendirme profili aboneliği eksik
+Нет конфига	Yapılandırma yok
+Нет конфига TUN	TUN yapılandırması yok
+Обновите приложение: требуется описание подключения	Uygulamayı güncelleyin: bağlantı açıklaması gerekli
+xray не принял конфиг: 	xray yapılandırmayı reddetti: 
+sing-box не принял конфиг: 	sing-box yapılandırmayı reddetti: 
+Не записать конфиг: 	Yapılandırma yazılamadı: 
+Новые гео-базы не подошли, вернул старые: 	Yeni coğrafi veritabanları çalışmadı, eskileri geri yüklendi: 
+Обновлено: 	Güncellendi: 
+Неверный запрос: 	Geçersiz istek: 
+Tutun узнаёт имя Wi-Fi, чтобы выключать VPN в доверенных сетях.	Tutun, güvenilir ağlarda VPN’i kapatmak için Wi-Fi adını okur.
+Версия %@	Sürüm %@
+VPN-клиент для Mac на xray и sing-box	xray ve sing-box tabanlı, Mac için bir VPN istemcisi
+Обновления	Güncellemeler
+Что нового	Yenilikler
+Установить и перезапустить	Yükle ve yeniden başlat
+Проверить обновления	Güncellemeleri denetle
+Проект	Proje
+Страница на GitHub	GitHub sayfası
+Все версии	Tüm sürümler
+Ещё не проверялось	Henüz denetlenmedi
+Проверяю…	Denetleniyor…
+У вас последняя версия	En son sürümü kullanıyorsunuz
+Доступна версия %@	%@ sürümü kullanılabilir
+Загружаю и устанавливаю…	İndiriliyor ve yükleniyor…
+О программе	Hakkında
+О Tutun	Tutun Hakkında
+GitHub ответил ошибкой %@	GitHub %@ hatası döndürdü
+В релизе %@ нет файла Tutun.zip	%@ sürümünde Tutun.zip dosyası yok
+Доступно обновление Tutun %@	Tutun %@ kullanılabilir
+Нет прав на запись в папку %@	%@ klasörüne yazma izni yok
+Не удалось скачать обновление	Güncelleme indirilemedi
+Контрольная сумма не совпала — файл повреждён	Sağlama toplamı eşleşmedi — dosya bozuk
+В архиве не то приложение	Arşivde yanlış uygulama var
+%@ завершился с ошибкой %@	%@ şu hatayla başarısız oldu: %@
+Проверять автоматически	Otomatik denetle
+Как часто	Ne sıklıkla
+Раз в день	Günde bir kez
+Раз в неделю	Haftada bir kez
+Раз в 2 недели	2 haftada bir
+Раз в месяц	Ayda bir kez
+Обновления приходят из выпусков GitHub. Если вышла новая версия службы, приложение предложит её обновить.	Güncellemeler GitHub sürümlerinden gelir. Hizmetin yeni bir sürümü çıkarsa uygulama onu güncellemeyi önerir.
+VPN не отключится: подключение держит служба, пока обновляется приложение.	VPN açık kalır: uygulama güncellenirken hizmet bağlantıyı sürdürür.
+Доступна версия %@ — нажмите, чтобы обновить. VPN не отключится.	%@ sürümü kullanılabilir — güncellemek için tıklayın. VPN açık kalır.
+VPN не отключится во время обновления. Установить — в «Настройки → О программе».	Güncelleme sırasında VPN açık kalır. “Ayarlar → Hakkında” bölümünden yükleyin.
+Разрешить подписки по http	http aboneliklerine izin ver
+Небезопасно: по http ключи серверов видны провайдеру и любому в сети, список могут подменить. Включайте только для своей панели без https. ID устройства по http не отправляется.	Güvensiz: http üzerinden sağlayıcınız ve ağdaki herkes sunucu anahtarlarını görebilir ve listeyi değiştirebilir. Yalnızca https olmayan kendi paneliniz için açın. Cihaz kimliği http üzerinden asla gönderilmez.
+Подписка по http:// не защищена. Если это ваша панель без https, включите «Разрешить подписки по http» в настройках подписок.	Bu http:// aboneliği korunmuyor. https olmayan kendi panelinizse abonelik ayarlarında «http aboneliklerine izin ver» seçeneğini açın.
+Сайты страны — напрямую	Ülke siteleri — doğrudan
+Нет — всё по остальным правилам	Yok — diğer kurallara göre
+Россия	Rusya
+Китай	Çin
+Иран	İran
+Мьянма	Myanmar
+Турция	Türkiye
+ОАЭ	BAE
+Банки, госуслуги и местные сервисы выбранной страны идут без VPN. Россия, Китай, Иран — готовые списки сайтов и IP-адреса страны; Мьянма — банки и доменная зона; Турция, ОАЭ — только доменная зона (.tr, .ae).	Seçilen ülkenin bankaları, kamu hizmetleri ve yerel siteleri VPN olmadan gider. Rusya, Çin, İran — hazır site listeleri ve ülkenin IP adresleri; Myanmar — bankalar ve alan adı bölgesi; Türkiye, BAE — yalnızca alan adı bölgesi (.tr, .ae).
+Для сайтов страны (напрямую)	Ülke siteleri için (doğrudan)
+77.88.8.8 — для России; при другой стране вместо него берётся DNS провайдера.	77.88.8.8 Rusya içindir; başka bir ülkede yerine sağlayıcının DNS'i kullanılır.
+Неизвестная страна для правил «напрямую»	Doğrudan kurallar için bilinmeyen ülke
+Отключить VPN?	VPN bağlantısı kesilsin mi?
+Команду отключения передала другая программа или сайт по ссылке tutun://.	Başka bir uygulama veya web sitesi tutun:// bağlantısıyla bağlantıyı kesme komutu gönderdi.
+Добавить из ссылки?	Bağlantıdan eklensin mi?
+Ссылку передала другая программа или сайт: %@	Bu bağlantıyı başka bir uygulama veya web sitesi gönderdi: %@
+обязательно	zorunlu
+Для раздачи в локальную сеть задайте логин и пароль	VPN'i yerel ağda paylaşmak için kullanıcı adı ve parola belirleyin
+Нет свободного порта для проверки	Test için boş bağlantı noktası yok
+Устанавливаю службу…	Hizmet yükleniyor…
+Обновляю службу…	Hizmet güncelleniyor…
+Запускаю службу…	Hizmet başlatılıyor…
+В резервной копии — ссылки подписок и ключи серверов. Храните её как пароль и никому не отправляйте.	Yedekte abonelik bağlantıları ve sunucu anahtarları var. Onu bir parola gibi saklayın ve kimseye göndermeyin.
+Работает, пока Tutun запущен (значок в строке меню). Если закрыть Tutun, VPN останется, а переключение по Wi-Fi — нет.	Tutun açıkken çalışır (menü çubuğu simgesi). Tutun'u kapatırsanız VPN açık kalır, ancak Wi-Fi'ye göre geçiş durur.
+Считается, пока Tutun запущен.	Tutun açıkken sayılır.
+Эта версия Tutun отозвана — установите обновление %@	Tutun'un bu sürümü geri çekildi — %@ güncellemesini yükleyin
+Подпись обновления не прошла проверку — файл не от автора Tutun	Güncelleme imzası doğrulanamadı — dosya Tutun yazarına ait değil
+Провайдер перенёс подписку на новый адрес: %@	Sağlayıcı aboneliği yeni bir adrese taşıdı: %@
+Подробнее	Daha fazla
+обновляются по ссылке провайдера	sağlayıcının bağlantısından güncellenir
+Адреса серверов	Sunucu adresleri
+через DNS провайдера	sağlayıcının DNS’i üzerinden
+включается, если не включён у вас	siz açmadıysanız açılır
+Настройки провайдера	Sağlayıcı ayarları
+Написать в поддержку	Desteğe e-posta gönder
+Обновить подписку и проверить задержку	Aboneliği güncelle ve gecikmeyi kontrol et
+Показывать	Göster
+По странам	Ülkelere göre
+Списком	Liste olarak
+Сортировка	Sıralama
+По имени	Ada göre
+По числу серверов	Sunucu sayısına göre
+По задержке	Gecikmeye göre
+Как у провайдера	Sağlayıcının sırasıyla
+Вид и сортировка	Görünüm ve sıralama
+Обновить подписку	Aboneliği güncelle
+Повторить	Yeniden dene
+Трафик вне VPN заблокирован	VPN dışındaki trafik engellendi
+Недавние	Son kullanılanlar
+Сохранить диагностический отчёт…	Tanılama raporunu kaydet…
+Не удалось проверить обновление	Güncelleme doğrulanamadı
+Добавляет пакеты в начало соединения. Включайте по рекомендации провайдера VPN.	Bağlantı başında paket ekler. VPN sağlayıcınız önerirse açın.
+Помогает применить правила для сайтов, когда приложению известен только IP-адрес.	Uygulama yalnızca IP adresini bildiğinde site kurallarının uygulanmasına yardımcı olur.
+Устанавливаю базы…	Veritabanları yükleniyor…

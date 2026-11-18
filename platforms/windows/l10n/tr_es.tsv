@@ -1,0 +1,503 @@
+Как в системе	Igual que el sistema
+Язык интерфейса	Idioma
+Основные	General
+Маршруты	Enrutamiento
+Сеть и туннель	Red y túnel
+Соединения	Conexiones
+Статистика	Estadísticas
+Журнал	Registro
+Добавить	Añadir
+Ссылка на подписку от провайдера или ссылки серверов (vless://, vmess://, trojan://, ss://, hysteria2://, tuic://, wireguard://) — по одной в строке.	Un enlace de suscripción de tu proveedor o enlaces de servidor (vless://, vmess://, trojan://, ss://, hysteria2://, tuic://, wireguard://), uno por línea.
+Из буфера	Del portapapeles
+QR с экрана	QR desde la pantalla
+QR-картинка	Imagen QR
+Файл	Archivo
+Отмена	Cancelar
+Добавлен WireGuard «%@»	WireGuard “%@” añadido
+Автозапуск: %@	Abrir al iniciar sesión: %@
+Не удалось сохранить настройки: %@	No se pudieron guardar los ajustes: %@
+Tutun: сервер сменился	Tutun: servidor cambiado
+Сейчас: %@	Ahora: %@
+Tutun подключён	Tutun conectado
+Tutun: связь восстановлена	Tutun: conexión restablecida
+Tutun переподключается	Tutun se está reconectando
+Связь с сервером пропала	Se perdió la conexión con el servidor
+Tutun отключён	Tutun desconectado
+Tutun: ошибка подключения	Tutun: error de conexión
+Служба не запущена — установите её в настройках	El servicio no se está ejecutando: instálalo en Ajustes
+Служба устарела — нажмите «Обновить службу» в настройках	El servicio está desactualizado: haz clic en “Actualizar servicio” en Ajustes
+Нет серверов — добавьте подписку	No hay servidores: añade una suscripción
+«%@»: %@. Выберите другой сервер.	“%@”: %@. Elige otro servidor.
+Нет подходящих серверов	No hay servidores adecuados
+Самый быстрый	Más rápido
+Пропущены серверы, которые ядро не приняло: 	Servidores omitidos que el núcleo rechazó: 
+Не удалось подключиться: ядро не приняло несколько серверов подряд	No se pudo conectar: el núcleo rechazó varios servidores seguidos
+Не удалось включить перехват трафика	No se pudo iniciar la captura de tráfico
+Не удалось подключиться	No se pudo conectar
+ к «%@»	 a “%@”
+Добавленные вручную	Añadido manualmente
+Другие	Otros
+Такая подписка уже есть	Esta suscripción ya existe
+Пропущено: %@ — 	Omitido: %@ — 
+Подписка «%@» заканчивается	La suscripción “%@” está por caducar
+Срок истёк	Caducada
+Осталось дней: %@	Días restantes: %@
+Пусто	Vacío
+серверов: %@	servidores: %@
+профилей маршрутов: %@	perfiles de enrutamiento: %@
+Ничего не распознано	No se reconoció nada
+Добавлено 	Añadido 
+. Пропущено: %@	. Omitido: %@
+QR-код не найден	No se encontró ningún código QR
+пусто	vacío
+Нерабочих серверов нет	No hay servidores caídos
+Убрано нерабочих серверов: %@	Servidores caídos eliminados: %@
+Сервер не принят ядром	El núcleo rechazó el servidor
+%@: не удалось скачать тестовый файл	%@: no se pudo descargar el archivo de prueba
+Happ (VPN включён)	Happ (VPN activada)
+Гео-базы обновлены	Bases de datos geográficas actualizadas
+Доверенная сеть «%@»	Red de confianza “%@”
+Профиль «%@» добавлен	Perfil “%@” añadido
+Восстановлено: серверов %@, подписок %@	Restaurado: %@ servidores, %@ suscripciones
+Служба установлена	Servicio instalado
+Служба установлена, но не отвечает — смотрите /var/log/tutun.log	El servicio está instalado pero no responde; consulta /var/log/tutun.log
+Служба удалена	Servicio eliminado
+Служба не запущена	El servicio no se está ejecutando
+Нет связи с сервером	Sin conexión con el servidor
+Подключено	Conectado
+Подключение…	Conectando…
+Переподключение…	Reconectando…
+Ошибка подключения	Error de conexión
+Отключено	Desconectado
+нет ответа	sin respuesta
+%@ миллисекунд	%@ milisegundos
+не проверен	sin probar
+%@ мс	%@ ms
+По правилам	Por reglas
+Всё через VPN	Todo por VPN
+Напрямую	Directo
+Российские сайты и банки напрямую, остальное через VPN	Los sitios y bancos rusos van directos, todo lo demás por VPN
+Всё через VPN, включая российские сайты	Todo por VPN, incluidos los sitios rusos
+VPN включён, но трафик идёт напрямую	La VPN está activada, pero el tráfico va directo
+Нет ресурсов приложения	No se encontraron los recursos de la app
+Не найден %@. Запускайте собранное приложение Tutun.app	No se encontró %@. Ejecuta Tutun.app compilada
+Отменено	Cancelado
+Добавить подписку или серверы	Añade una suscripción o servidores
+Настройки	Ajustes
+Скрыть настройки	Ocultar ajustes
+Показать настройки	Mostrar ajustes
+Серверы	Servidores
+Скрыть список серверов	Ocultar lista de servidores
+Показать список серверов	Mostrar lista de servidores
+Задержка	Latencia
+Загрузка	Descarga
+В сети	En línea
+Отдача	Subida
+Установите службу, чтобы подключаться	Instala el servicio para conectarte
+всё через VPN	todo por VPN
+Нажмите «Подключить»	Haz clic en “Conectar”
+самый быстрый из списка	el más rápido de la lista
+последний выбранный	última selección
+первый в списке	el primero de la lista
+случайный из списка	aleatorio de la lista
+выбран автоматически	elegido automáticamente
+выбран вручную	elegido manualmente
+Tutun выберет сам	Tutun elegirá
+Обновить службу	Actualizar servicio
+Установить службу	Instalar servicio
+Отключить	Desconectar
+Подключить	Conectar
+Осталась служба от прошлой версии — нажмите «Обновить службу».	Sigue instalado un servicio de una versión anterior: haz clic en “Actualizar servicio”.
+Работает другой VPN: %@. Выключите его.	Hay otra VPN en ejecución: %@. Desactívala.
+Избранное	Favoritos
+Серверов пока нет	Aún no hay servidores
+Нажмите «Добавить» и вставьте ссылку на подписку	Haz clic en “Añadir” y pega un enlace de suscripción
+Добавить подписку	Añadir suscripción
+Tutun выберет сам и переключит при обрыве	Tutun elige uno y cambia si se cae
+Свернуть	Contraer
+Развернуть	Expandir
+Проверить задержку	Probar latencia
+Информация о подписке	Información de la suscripción
+ · сейчас здесь	 · conectado aquí
+Подключиться к самому быстрому серверу страны	Conectar al servidor más rápido de este país
+Скрыть серверы	Ocultar servidores
+Показать серверы страны	Mostrar servidores de este país
+сейчас	ahora
+Подключиться	Conectar
+Самый быстрый в стране «%@»	El más rápido en %@
+Тест скорости	Prueba de velocidad
+Убрать из избранного	Quitar de favoritos
+В избранное	Añadir a favoritos
+Изменить…	Editar…
+Скопировать ссылку	Copiar enlace
+Показать QR-код	Mostrar código QR
+Удалить	Eliminar
+Скрыть	Ocultar
+В избранное — будет вверху списка	Añadir a favoritos: se muestra al principio de la lista
+Открыть окно	Abrir ventana
+Закрыть Tutun. VPN продолжит работать через службу	Salir de Tutun. La VPN sigue activa mediante el servicio
+Новый сервер	Nuevo servidor
+Сервер «%@»	Servidor “%@”
+Сервер из подписки: изменения сохранятся как отдельный сервер, а переименование — для этого же.	Servidor de suscripción: los cambios se guardan como un servidor aparte; el cambio de nombre se aplica a este.
+Название	Nombre
+Ссылка	Enlace
+Сохранить	Guardar
+Слишком длинно для QR-кода	Demasiado largo para un código QR
+Отсканируйте телефоном (Happ, INCY, v2RayTun и др.)	Escanea con tu teléfono (Happ, INCY, v2RayTun, etc.)
+Закрыть	Cerrar
+напрямую	directo
+через VPN	por VPN
+Б	B
+КБ	KB
+МБ	MB
+ГБ	GB
+ТБ	TB
+/с	/s
+%.1f Мбит/с	%.1f Mbps
+Сеть	Red
+Ещё	Más
+Принять изменения	Aplicar cambios
+Переподключить VPN с новыми настройками	Reconecta la VPN con los nuevos ajustes
+Выбрать	Elegir
+Другое значение…	Valor personalizado…
+От %@ до %@	De %@ a %@
+Число	Número
+Подключение	Conexión
+Режим	Modo
+Весь трафик мака	Todo el tráfico del Mac
+Системный прокси	Proxy del sistema
+Аварийная блокировка при потере туннеля	Bloqueo de emergencia si el túnel se cae
+В режиме всего трафика служба блокирует интернет, обнаружив падение туннеля, до его восстановления. Короткий промежуток до обнаружения аварии не защищён.	En el modo de todo el tráfico, el servicio bloquea internet cuando detecta que el túnel está caído, hasta que se restablece. El breve intervalo antes de detectar el fallo no está protegido.
+Запасной сервер	Servidor de respaldo
+Если выбранный сервер перестал отвечать, Tutun переключится на самый быстрый из отвечающих.	Si el servidor seleccionado deja de responder, Tutun cambia al más rápido que responda.
+Проверять связь каждые	Comprobar la conexión cada
+с	s
+Сервер не отвечает после	El servidor se considera caído tras
+проверок	comprobaciones
+Автопереключение	Cambio automático
+Пока сервер отвечает, Tutun остаётся на нём, даже если другой быстрее. Перестал отвечать — переходит на самый быстрый из рабочих в том же списке (самый быстрый, страна или запасной).	Mientras un servidor responda, Tutun se queda en él aunque otro sea más rápido. Cuando deja de responder, Tutun pasa al más rápido que funcione de la misma lista (más rápido, país o respaldo).
+К какому серверу подключаться	A qué servidor conectarse
+Самый быстрый из списка	Más rápido de la lista
+Последний выбранный в стране	Última selección del país
+Первый в списке	Primero de la lista
+Случайный	Aleatorio
+Сначала избранные серверы страны	Primero los servidores favoritos
+Клик по стране	Al hacer clic en un país
+Запуск	Inicio
+Открывать Tutun при входе в систему	Abrir Tutun al iniciar sesión
+Подключаться при запуске Tutun	Conectar al iniciar Tutun
+Значок в Dock, пока открыто окно	Mostrar en el Dock mientras la ventana esté abierta
+После перезагрузки мака VPN включается сам, даже без окна: подключение держит служба.	Tras un reinicio la VPN se activa sola, incluso sin la ventana: el servicio mantiene la conexión.
+Уведомления	Notificaciones
+Показывать уведомления	Mostrar notificaciones
+Подключение, обрыв, смена сервера, конец подписки.	Conexión, caídas, cambios de servidor, caducidad de suscripciones.
+Автоматически по Wi-Fi	Automático por Wi-Fi
+Включать VPN в чужих сетях	Activar la VPN en redes no fiables
+В доверенных сетях Tutun отключается, в остальных — подключается сам.	En redes de confianza Tutun se desconecta; en todas las demás se conecta solo.
+Нужен доступ к геопозиции	Se requiere acceso a la ubicación
+Разрешить	Permitir
+Без него macOS не сообщает приложениям имя сети Wi-Fi.	Sin él, macOS no informa a las apps del nombre de la red Wi-Fi.
+Текущая сеть	Red actual
+неизвестна	desconocida
+Доверенные сети	Redes de confianza
+Имя сети Wi-Fi, по одному в строке	Nombre de la red Wi-Fi, uno por línea
+Добавить «%@» в доверенные	Añadir “%@” a las de confianza
+Tutun берёт самый быстрый сервер страны и при обрыве сам переключается на другой сервер этой страны.	Tutun toma el servidor más rápido del país y, si se cae, cambia a otro servidor de ese país.
+Tutun подключается к серверу, который вы последним выбрали в этой стране вручную. Если такого нет — к самому быстрому.	Tutun se conecta al último servidor que elegiste manualmente en este país. Si no hay ninguno, al más rápido.
+Tutun подключается к первому серверу страны по алфавиту.	Tutun se conecta al primer servidor del país por orden alfabético.
+Tutun подключается к случайному рабочему серверу страны.	Tutun se conecta a un servidor aleatorio que funcione en el país.
+ Если в стране есть серверы со звёздочкой, выбор идёт только среди них.	 Si el país tiene servidores marcados con estrella, solo se consideran esos.
+Что пускать через VPN	Qué pasa por la VPN
+Всё	Todo
+Ничего (напрямую)	Nada (directo)
+Российские сайты — напрямую	Sitios rusos: directo
+Банки, Госуслуги, .ru, .рф и российские IP идут без VPN — так они не ломаются.	Los bancos, Gosuslugi, .ru, .рф y las IP rusas no pasan por la VPN para que sigan funcionando.
+Блокировать рекламу и трекеры	Bloquear anuncios y rastreadores
+Профиль маршрутов	Perfil de enrutamiento
+Профиль	Perfil
+Нет	Ninguno
+Напрямую: %@ · через VPN: %@ · блок: %@	Directo: %@ · por VPN: %@ · bloqueado: %@
+happ://routing/add/… или JSON профиля	happ://routing/add/… o JSON del perfil
+Профиль не распознан	Perfil no reconocido
+Всегда через VPN	Siempre por VPN
+Всегда напрямую	Siempre directo
+Блокировать	Bloquear
+Сайты	Sitios
+Домен на строку — с поддоменами. Можно geosite:…, full:…, regexp:…, keyword:…	Un dominio por línea, subdominios incluidos. Puedes usar geosite:…, full:…, regexp:…, keyword:…
+Через VPN	Por VPN
+Мимо туннеля целиком	Evitar el túnel por completo
+10.0.0.0/8 — рабочая сеть, NAS	10.0.0.0/8: red del trabajo, NAS
+IP-адреса	Direcciones IP
+Приложения	Apps
+Выбранные — мимо VPN	Seleccionadas: sin VPN
+Только выбранные — через VPN	Solo las seleccionadas: por VPN
+Имя процесса, по одному в строке	Nombre del proceso, uno por línea
+Выбрать приложение…	Elegir app…
+Работает в режиме «Весь трафик мака».	Funciona en el modo “Todo el tráfico del Mac”.
+Дополнительно	Avanzado
+Как сопоставлять домены	Coincidencia de dominios
+Как есть	Tal cual
+IP, если нет совпадения	IP si no hay coincidencia
+Сразу по IP	IP directamente
+1.1.1.1 или https://…	1.1.1.1 o https://…
+Для российских сайтов	Para sitios rusos
+Фрагментация TLS	Fragmentación TLS
+Помогает, когда провайдер режет VPN по признакам соединения (DPI).	Ayuda cuando tu operador limita la VPN por la huella de la conexión (DPI).
+Пакеты	Paquetes
+Длина, байт	Longitud, bytes
+Интервал, мс	Intervalo, ms
+Шумовые пакеты	Paquetes de ruido
+Несколько соединений в одном канале. К серверам с XTLS Vision и XHTTP не применяется.	Varias conexiones en un solo canal. No se aplica a servidores con XTLS Vision o XHTTP.
+Потоков	Flujos
+Определять сайты по трафику (sniffing)	Detectar sitios por el tráfico (sniffing)
+Обход блокировок	Elusión de la censura
+Раздавать VPN другим устройствам	Compartir la VPN con otros dispositivos
+SOCKS-порт	Puerto SOCKS
+HTTP-порт	Puerto HTTP
+Логин	Nombre de usuario
+пусто — без пароля	vacío: sin contraseña
+Пароль	Contraseña
+Адрес для телефона	Dirección para tu teléfono
+IP мака	IP del Mac
+Локальная сеть	Red local
+На телефоне: Wi-Fi → Прокси → Вручную, указать адрес и порт.	En tu teléfono: Wi-Fi → Proxy → Manual, introduce la dirección y el puerto.
+Проверка серверов	Prueba de servidores
+Способ	Método
+Настоящий запрос через сервер	Solicitud real a través del servidor
+Только соединение (быстрее)	Solo conexión (más rápido)
+Адрес проверки	URL de prueba
+Ждать до	Tiempo de espera
+Проверять при запуске	Probar al abrir
+Проверять после обновления подписки	Probar tras actualizar la suscripción
+Соединений нет	Sin conexiones
+Список виден при подключённом VPN в режиме «Весь трафик мака».	La lista se muestra cuando la VPN está conectada en el modo “Todo el tráfico del Mac”.
+Сайт или приложение	Sitio o app
+%@ активных	%@ activas
+Закрыть все	Cerrar todas
+Соединений пока нет — они появятся, как только приложения выйдут в интернет	Aún no hay conexiones: aparecerán en cuanto las apps se conecten
+Ничего не найдено	No se encontró nada
+«через VPN» — отдано ядру; российские сайты ядро дальше отправит напрямую по правилам.	“por VPN” significa entregado al núcleo; el núcleo envía después los sitios rusos directamente según las reglas.
+Закрыть соединение	Cerrar conexión
+Сегодня	Hoy
+Этот месяц	Este mes
+Текущая сессия	Sesión actual
+По дням, 30 дней	Diario, 30 días
+Пока пусто	Aún nada
+День	Día
+Тип	Tipo
+По серверам	Por servidor
+IP-адрес	Dirección IP
+Без VPN	Sin VPN
+Проверить	Comprobar
+Сбросить статистику	Restablecer estadísticas
+Найти в журнале	Buscar en el registro
+Ошибки	Errores
+Предупреждения	Avisos
+Подробно	Información
+Отладка	Depuración
+Открыть файл	Abrir archivo
+Скопировать	Copiar
+Открываются отдельным небольшим окном.	Abrir en una ventana pequeña aparte.
+Как Tutun запрашивает подписки	Cómo obtiene Tutun las suscripciones
+Отправлять ID устройства	Enviar ID del dispositivo
+Нужно провайдерам с лимитом устройств. ID этого мака: %@	Lo necesitan los proveedores con límite de dispositivos. ID de este Mac: %@
+Ждать ответа до	Tiempo de espera de respuesta
+Обновлять при запуске	Actualizar al abrir
+Пропускать одинаковые серверы	Omitir servidores duplicados
+Предупреждать об окончании за	Avisar antes de que caduque
+дн.	días
+Добавлены вручную	Añadido manualmente
+Скрыты	Oculto
+Вернуть все	Restaurar todo
+Скопировать все ссылки	Copiar todos los enlaces
+Ссылки скопированы	Enlaces copiados
+Убрать нерабочие	Eliminar los caídos
+Служба	Servicio
+Состояние	Estado
+работает, версия %@	en ejecución, versión %@
+ — устарела	 — desactualizado
+установлена, не отвечает	instalado, no responde
+не установлена	no instalado
+Перезапусков ядра	Reinicios del núcleo
+Переустановить службу	Reinstalar servicio
+Удалить службу	Eliminar servicio
+Обновлять раз в неделю	Actualizar semanalmente
+Обновлены	Actualizado
+ещё нет	todavía no
+Обновить сейчас	Actualizar ahora
+Гео-базы	Bases de datos geográficas
+Списки стран и сайтов для правил. По умолчанию — runetfreedom для России.	Listas de países y sitios que usan las reglas. Predeterminado: runetfreedom para Rusia.
+Резервная копия	Copia de seguridad
+Сохранить в файл…	Guardar en archivo…
+Восстановить из файла…	Restaurar desde archivo…
+Открыть папку данных	Abrir carpeta de datos
+В копии подписки, серверы и настройки. Храните как пароль — там ключи серверов.	La copia contiene suscripciones, servidores y ajustes. Trátala como una contraseña: incluye claves de servidor.
+Управление из «Команд» и Терминала	Control desde Atajos y Terminal
+Включить	Activar
+Выключить	Desactivar
+Переключить	Alternar
+Ссылки vless://, vmess://, trojan://, ss://, hysteria2://, tuic://, wireguard:// открываются в Tutun по клику.	Los enlaces vless://, vmess://, trojan://, ss://, hysteria2://, tuic://, wireguard:// se abren en Tutun al hacer clic.
+Копия сохранена	Copia de seguridad guardada
+Не удалось восстановить: %@	No se pudo restaurar: %@
+Трафик	Tráfico
+ из %@	 de %@
+, без лимита	, ilimitado
+Действует до	Válida hasta
+ · ещё %@ дн.	 · quedan %@ días
+ · истекла	 · caducada
+Серверов	Servidores
+Обновлена	Actualizada
+Сообщение провайдера	Mensaje del proveedor
+Показать	Mostrar
+Обновлять каждые	Actualizar cada
+ч	h
+Показывать серверы этой подписки	Mostrar los servidores de esta suscripción
+Ссылка скопирована	Enlace copiado
+QR-код	Código QR
+Поддержка	Soporte
+Кабинет	Cuenta
+Удалить подписку	Eliminar suscripción
+Удалить подписку и все её серверы?	¿Eliminar la suscripción y todos sus servidores?
+Вернуть можно, снова добавив ссылку на подписку.	Puedes recuperarla añadiendo de nuevo el enlace de la suscripción.
+Подписка работает	La suscripción funciona
+Не удалось обновить	No se pudo actualizar
+Ядро проверки не открыло порт	El núcleo de prueba no abrió ningún puerto
+Ядро проверки не запустилось: 	El núcleo de prueba no se inició: 
+нет подходящих серверов	no hay servidores adecuados
+Нужно от 1 до 25 серверов	Se requieren de 1 a 25 servidores
+Внешние файлы правил недопустимы в конфиге службы	No se permiten archivos de reglas externos en la configuración del servicio
+Недопустимые параметры подключения	Parámetros de conexión no válidos
+Порты локальной сети совпадают или заняты Tutun	Los puertos de la red local coinciden o los usa Tutun
+Недопустимый протокол или доступ к файлам в конфиге сервера	Protocolo o acceso a archivos no válido en la configuración del servidor
+Служба Tutun не запущена	El servicio de Tutun no se está ejecutando
+Ошибка связи со службой: %@	Error de comunicación con el servicio: %@
+пустой ответ	respuesta vacía
+не поддерживается: %@	no compatible: %@
+ссылка повреждена: %@	enlace dañado: %@
+нет схемы	sin esquema
+AmneziaWG (его не умеет ни xray, ни sing-box)	AmneziaWG (ni xray ni sing-box lo admiten)
+зашифрованная ссылка Happ — открывается только в Happ	enlace de Happ cifrado: solo se abre en Happ
+JSON не читается	No se puede leer el JSON
+конфиг %@: нет сервера	configuración %@: sin servidor
+Сервер %@	Servidor %@
+%@: нет ключа	%@: sin clave
+Shadowsocks с плагином	Shadowsocks con complemento
+tuic: нет uuid	tuic: sin uuid
+wireguard: нет ключей	wireguard: sin claves
+конфиг WireGuard	Configuración de WireGuard
+без шифрования — новая версия xray такие запрещает	sin cifrado: la nueva versión de xray lo prohíbe
+Не удалось прочитать настройки	No se pudieron leer los ajustes
+Неверная ссылка подписки	Enlace de suscripción no válido
+Сервер подписки ответил ошибкой %@	El servidor de la suscripción devolvió el error %@
+Провайдер: превышен лимит устройств. Удалите старое устройство в кабинете/боте провайдера и обновите подписку.	Proveedor: se alcanzó el límite de dispositivos. Elimina un dispositivo antiguo en la cuenta o el bot de tu proveedor y actualiza la suscripción.
+Провайдер не выдал серверы этому устройству (включите «Отправлять ID устройства»).	El proveedor no entregó servidores a este dispositivo (activa “Enviar ID del dispositivo”).
+В подписке нет поддерживаемых серверов	La suscripción no tiene servidores compatibles
+Некорректные общие сетевые настройки	Ajustes de red compartida no válidos
+Профиль больше 16 МБ	El perfil supera los 16 MB
+Неподдерживаемый формат или версия профиля	Formato o versión de perfil no compatible
+Слишком много серверов или повторяются идентификаторы	Demasiados servidores o ID duplicados
+Некорректный сервер или отсутствует связанная подписка	Servidor no válido o falta la suscripción vinculada
+Некорректная подписка	Suscripción no válida
+Некорректные настройки или ссылки на отсутствующие элементы	Ajustes no válidos o referencias a elementos inexistentes
+Отсутствует подписка профиля маршрутов	Falta la suscripción del perfil de enrutamiento
+Нет конфига	Sin configuración
+Нет конфига TUN	Sin configuración TUN
+Обновите приложение: требуется описание подключения	Actualiza la app: se requiere una descripción de la conexión
+xray не принял конфиг: 	xray rechazó la configuración: 
+sing-box не принял конфиг: 	sing-box rechazó la configuración: 
+Не записать конфиг: 	No se pudo escribir la configuración: 
+Новые гео-базы не подошли, вернул старые: 	Las nuevas bases de datos geográficas no funcionaron; se restauraron las anteriores: 
+Обновлено: 	Actualizado: 
+Неверный запрос: 	Solicitud no válida: 
+Tutun узнаёт имя Wi-Fi, чтобы выключать VPN в доверенных сетях.	Tutun lee el nombre de la red Wi-Fi para desactivar la VPN en redes de confianza.
+Версия %@	Versión %@
+VPN-клиент для Mac на xray и sing-box	Un cliente VPN para Mac basado en xray y sing-box
+Обновления	Actualizaciones
+Что нового	Novedades
+Установить и перезапустить	Instalar y reiniciar
+Проверить обновления	Buscar actualizaciones
+Проект	Proyecto
+Страница на GitHub	Página de GitHub
+Все версии	Todas las versiones
+Ещё не проверялось	Aún no se ha comprobado
+Проверяю…	Comprobando…
+У вас последняя версия	Tienes la versión más reciente
+Доступна версия %@	Versión %@ disponible
+Загружаю и устанавливаю…	Descargando e instalando…
+О программе	Acerca de
+О Tutun	Acerca de Tutun
+GitHub ответил ошибкой %@	GitHub respondió con el error %@
+В релизе %@ нет файла Tutun.zip	La versión %@ no incluye el archivo Tutun.zip
+Доступно обновление Tutun %@	Tutun %@ está disponible
+Нет прав на запись в папку %@	No hay permiso para escribir en %@
+Не удалось скачать обновление	No se pudo descargar la actualización
+Контрольная сумма не совпала — файл повреждён	La suma de comprobación no coincide: el archivo está dañado
+В архиве не то приложение	El archivo contiene otra app
+%@ завершился с ошибкой %@	%@ terminó con el error %@
+Проверять автоматически	Buscar automáticamente
+Как часто	Con qué frecuencia
+Раз в день	Una vez al día
+Раз в неделю	Una vez a la semana
+Раз в 2 недели	Cada 2 semanas
+Раз в месяц	Una vez al mes
+Обновления приходят из выпусков GitHub. Если вышла новая версия службы, приложение предложит её обновить.	Las actualizaciones proceden de las versiones de GitHub. Si sale una nueva versión del servicio, la app te propondrá actualizarlo.
+VPN не отключится: подключение держит служба, пока обновляется приложение.	La VPN seguirá activa: el servicio mantiene la conexión mientras se actualiza la app.
+Доступна версия %@ — нажмите, чтобы обновить. VPN не отключится.	Versión %@ disponible: haz clic para actualizar. La VPN seguirá activa.
+VPN не отключится во время обновления. Установить — в «Настройки → О программе».	La VPN seguirá activa durante la actualización. Instálala en “Ajustes → Acerca de”.
+Разрешить подписки по http	Permitir suscripciones por http
+Небезопасно: по http ключи серверов видны провайдеру и любому в сети, список могут подменить. Включайте только для своей панели без https. ID устройства по http не отправляется.	Inseguro: por http tu proveedor y cualquiera en la red ven las claves de los servidores y pueden cambiar la lista. Actívalo solo para tu propio panel sin https. El ID del dispositivo nunca se envía por http.
+Подписка по http:// не защищена. Если это ваша панель без https, включите «Разрешить подписки по http» в настройках подписок.	Esta suscripción http:// no está protegida. Si es tu propio panel sin https, activa «Permitir suscripciones por http» en los ajustes de suscripciones.
+Сайты страны — напрямую	Sitios del país — directo
+Нет — всё по остальным правилам	Ninguno — según las demás reglas
+Россия	Rusia
+Китай	China
+Иран	Irán
+Мьянма	Myanmar
+Турция	Turquía
+ОАЭ	EAU
+Банки, госуслуги и местные сервисы выбранной страны идут без VPN. Россия, Китай, Иран — готовые списки сайтов и IP-адреса страны; Мьянма — банки и доменная зона; Турция, ОАЭ — только доменная зона (.tr, .ae).	Bancos, servicios públicos y sitios locales del país elegido van sin VPN. Rusia, China, Irán — listas de sitios y direcciones IP del país; Myanmar — bancos y la zona de dominio; Turquía, EAU — solo la zona de dominio (.tr, .ae).
+Для сайтов страны (напрямую)	Para sitios del país (directo)
+77.88.8.8 — для России; при другой стране вместо него берётся DNS провайдера.	77.88.8.8 es para Rusia; para otro país se usa el DNS de tu proveedor.
+Неизвестная страна для правил «напрямую»	País desconocido para las reglas directas
+Отключить VPN?	¿Desconectar la VPN?
+Команду отключения передала другая программа или сайт по ссылке tutun://.	Otra aplicación o sitio web envió la orden de desconexión mediante un enlace tutun://.
+Добавить из ссылки?	¿Añadir desde el enlace?
+Ссылку передала другая программа или сайт: %@	El enlace lo envió otra aplicación o sitio web: %@
+обязательно	obligatorio
+Для раздачи в локальную сеть задайте логин и пароль	Establece un usuario y una contraseña para compartir la VPN en la red local
+Нет свободного порта для проверки	No hay un puerto libre para la prueba
+Устанавливаю службу…	Instalando el servicio…
+Обновляю службу…	Actualizando el servicio…
+Запускаю службу…	Iniciando el servicio…
+В резервной копии — ссылки подписок и ключи серверов. Храните её как пароль и никому не отправляйте.	La copia de seguridad contiene enlaces de suscripción y claves de servidores. Guárdala como una contraseña y no la envíes a nadie.
+Работает, пока Tutun запущен (значок в строке меню). Если закрыть Tutun, VPN останется, а переключение по Wi-Fi — нет.	Funciona mientras Tutun está abierto (icono en la barra de menús). Si cierras Tutun, la VPN sigue activa, pero el cambio según la red Wi-Fi se detiene.
+Считается, пока Tutun запущен.	Se cuenta mientras Tutun está abierto.
+Эта версия Tutun отозвана — установите обновление %@	Esta versión de Tutun ha sido retirada: instala la actualización %@
+Подпись обновления не прошла проверку — файл не от автора Tutun	La firma de la actualización no superó la verificación: el archivo no es del autor de Tutun
+Провайдер перенёс подписку на новый адрес: %@	El proveedor movió la suscripción a una nueva dirección: %@
+Подробнее	Más
+обновляются по ссылке провайдера	se actualizan desde el enlace del proveedor
+Адреса серверов	Direcciones de servidores
+через DNS провайдера	mediante el DNS del proveedor
+включается, если не включён у вас	se activa si no lo has activado tú
+Настройки провайдера	Ajustes del proveedor
+Написать в поддержку	Escribir a soporte
+Обновить подписку и проверить задержку	Actualizar la suscripción y comprobar la latencia
+Показывать	Mostrar
+По странам	Por país
+Списком	En lista
+Сортировка	Ordenar
+По имени	Por nombre
+По числу серверов	Por número de servidores
+По задержке	Por latencia
+Как у провайдера	Como el proveedor
+Вид и сортировка	Vista y orden
+Обновить подписку	Actualizar la suscripción
+Повторить	Reintentar
+Трафик вне VPN заблокирован	Tráfico fuera de la VPN bloqueado
+Недавние	Recientes
+Сохранить диагностический отчёт…	Guardar informe de diagnóstico…
+Не удалось проверить обновление	No se pudo verificar la actualización
+Добавляет пакеты в начало соединения. Включайте по рекомендации провайдера VPN.	Añade paquetes al inicio de la conexión. Actívalo si lo recomienda tu proveedor de VPN.
+Помогает применить правила для сайтов, когда приложению известен только IP-адрес.	Ayuda a aplicar reglas de sitios cuando la aplicación solo conoce la IP.
+Устанавливаю базы…	Instalando bases de datos…

@@ -1,0 +1,170 @@
+ · от провайдера	 · from provider	 · від провайдера
+1.1.1.1 (будет DoH), https://…/dns-query, tls://…	1.1.1.1 (uses DoH), https://…/dns-query, tls://…	1.1.1.1 (буде DoH), https://…/dns-query, tls://…
+ID устройства	Device ID	ID пристрою
+JSON сервера скопирован	Server JSON copied	JSON сервера скопійовано
+Mux: потоков	Mux: streams	Mux: потоків
+Outbound в JSON (xray, или sing-box для TUIC/Hysteria2)	Outbound as JSON (xray, or sing-box for TUIC/Hysteria2)	Outbound у JSON (xray або sing-box для TUIC/Hysteria2)
+QR из картинки…	QR from image…	QR з картинки…
+TCP-соединение	TCP connection	TCP-з'єднання
+VPN не отключится во время обновления. Установить — в «Настройки → О Tutun»	VPN won't disconnect during the update. Install in “Settings → About Tutun”	VPN не вимкнеться під час оновлення. Встановити — у «Налаштування → Про Tutun»
+Установить — «Настройки → О Tutun».	Install in “Settings → About Tutun”.	Встановити — «Налаштування → Про Tutun».
+VPN-клиент на xray и sing-box	VPN client based on xray and sing-box	VPN-клієнт на xray і sing-box
+geosite/geoip ru, .ru, .su, .рф, Яндекс, VK, Госуслуги.	geosite/geoip ru, .ru, .su, .рф, Yandex, VK, Gosuslugi.	geosite/geoip ru, .ru, .su, .рф, Яндекс, VK, Держпослуги РФ.
+tutun://connect, tutun://disconnect, tutun://toggle — можно вызывать из ярлыков и планировщика.	tutun://connect, tutun://disconnect, tutun://toggle — can be called from shortcuts and Task Scheduler.	tutun://connect, tutun://disconnect, tutun://toggle — можна викликати з ярликів і планувальника.
+Адреса, которые не попадают даже в xray. Только IP и подсети.	Addresses that never enter xray. IPs and subnets only.	Адреси, які не потрапляють навіть у xray. Лише IP і підмережі.
+Без профиля	No profile	Без профілю
+Блокировать рекламу	Block ads	Блокувати рекламу
+В архиве нет Tutun — установка отменена.	The archive doesn't contain Tutun — installation cancelled.	В архіві немає Tutun — встановлення скасовано.
+В буфере нет текста	No text in the clipboard	У буфері немає тексту
+В выпуске нет контрольной суммы — установка отменена.	The release has no checksum — installation cancelled.	У випуску немає контрольної суми — встановлення скасовано.
+В доверенных сетях Tutun отключается, в остальных (и по кабелю) — подключается. Срабатывает при смене сети.	Tutun disconnects on trusted networks and connects on all others (including wired). Triggers when the network changes.	У довірених мережах Tutun вимикається, в інших (і через кабель) — підключається. Спрацьовує при зміні мережі.
+В стране — только избранные серверы, если они есть	Within a country — only favorite servers, if any	У країні — лише обрані сервери, якщо вони є
+Версия в архиве не совпадает с выпуском — установка отменена.	The version in the archive doesn't match the release — installation cancelled.	Версія в архіві не збігається з випуском — встановлення скасовано.
+Весь трафик Windows	All Windows traffic	Весь трафік Windows
+Весь трафик — через виртуальный адаптер (wintun), работает для всех программ. Прокси — только для программ, которые учитывают системный прокси (браузеры).	All traffic goes through a virtual adapter (wintun) and works for every app. Proxy works only for apps that respect the system proxy (browsers).	Весь трафік — через віртуальний адаптер (wintun), працює для всіх програм. Проксі — лише для програм, що враховують системний проксі (браузери).
+Восстановить…	Restore…	Відновити…
+Вставьте ссылку	Paste a link	Вставте посилання
+Выход	Quit	Вийти
+Длина	Length	Довжина
+Добавить текущую в доверенные	Add current network to trusted	Додати поточну до довірених
+Доверенные сети Wi-Fi	Trusted Wi-Fi networks	Довірені мережі Wi-Fi
+Другие устройства подключаются к этому компьютеру как к прокси. Разрешите порты в брандмауэре Windows.	Other devices connect to this computer as a proxy. Allow the ports in Windows Firewall.	Інші пристрої підключаються до цього комп'ютера як до проксі. Дозвольте порти в брандмауері Windows.
+Есть непринятые изменения	There are unapplied changes	Є неприйняті зміни
+Журнал службы	Service log	Журнал служби
+Журнал ядра	Core log	Журнал ядра
+Загружаю…	Downloading…	Завантажую…
+Запускать вместе с Windows (в трее)	Start with Windows (in the tray)	Запускати разом з Windows (у треї)
+Из файла…	From file…	З файлу…
+Изменить сервер	Edit server	Змінити сервер
+Имена программ: Telegram.exe, steam.exe. Работает в режиме «Весь трафик Windows».	App names: Telegram.exe, steam.exe. Works in “All Windows traffic” mode.	Імена програм: Telegram.exe, steam.exe. Працює в режимі «Весь трафік Windows».
+Имена сетей (SSID), по одному в строке.	Network names (SSID), one per line.	Імена мереж (SSID), по одному в рядку.
+Импорт профиля…	Import profile…	Імпорт профілю…
+Имя	Name	Ім'я
+Имя сервера	Server name	Ім'я сервера
+Использовать серверы подписки	Use subscription servers	Використовувати сервери підписки
+Каждые 12 часов	Every 12 hours	Кожні 12 годин
+Каждые 3 часа	Every 3 hours	Кожні 3 години
+Каждые 6 часов	Every 6 hours	Кожні 6 годин
+Каждый час	Every hour	Щогодини
+Как в подписке	As in subscription	Як у підписці
+Как задать	How to define	Як задати
+Контрольная сумма архива не совпала — установка отменена.	The archive checksum doesn't match — installation cancelled.	Контрольна сума архіву не збіглася — встановлення скасовано.
+Мимо VPN	Bypass VPN	Повз VPN
+Найдёт QR-код подписки или сервера на любом экране	Finds a subscription or server QR code on any screen	Знайде QR-код підписки або сервера на будь-якому екрані
+Настоящий запрос	Real request	Справжній запит
+Настройки приняты	Settings applied	Налаштування прийнято
+Неверный владелец установки	Invalid installation owner	Невірний власник встановлення
+Непринятые изменения настроек отменены	Unapplied settings changes were discarded	Неприйняті зміни налаштувань скасовано
+Несколько соединений в одном. Не для XHTTP и Vision.	Several connections in one. Not for XHTTP or Vision.	Кілька з'єднань в одному. Не для XHTTP і Vision.
+Неудачных проверок подряд до переключения	Failed checks in a row before switching	Невдалих перевірок поспіль до перемикання
+Нужно панелям с лимитом устройств (Remnawave и др.).	Needed by panels with a device limit (Remnawave etc.).	Потрібно панелям з лімітом пристроїв (Remnawave тощо).
+Нужны права администратора: служба держит VPN и меняет сеть	Administrator rights are required: the service keeps the VPN and changes the network	Потрібні права адміністратора: служба тримає VPN і змінює мережу
+Обновить	Update	Оновити
+Обновить все	Update all	Оновити все
+Обновлять	Update	Оновлювати
+Обновлять подписки при запуске	Update subscriptions on launch	Оновлювати підписки під час запуску
+Общий профиль Tutun	Shared Tutun profile	Спільний профіль Tutun
+Обычный	Normal	Звичайний
+Окна	Windows	Вікна
+Определять домены (sniffing)	Detect domains (sniffing)	Визначати домени (sniffing)
+Отключение…	Disconnecting…	Вимкнення…
+Открыть Tutun	Open Tutun	Відкрити Tutun
+Отменить	Discard	Скасувати
+Отсканируйте камерой телефона или в Tutun на другом устройстве. В коде — ключ сервера, не показывайте посторонним.	Scan with a phone camera or Tutun on another device. The code contains the server key — don't show it to others.	Відскануйте камерою телефона або в Tutun на іншому пристрої. У коді — ключ сервера, не показуйте стороннім.
+Папка с журналом	Log folder	Папка з журналом
+Первый	First	Перший
+Переименовать…	Rename…	Перейменувати…
+Переподключение · интернет заблокирован	Reconnecting · internet blocked	Перепідключення · інтернет заблоковано
+По задержке	By latency	За затримкою
+По имени	By name	За назвою
+По одному в строке: example.com (с поддоменами), geosite:…, full:…, regexp:…	One per line: example.com (with subdomains), geosite:…, full:…, regexp:…	По одному в рядку: example.com (з піддоменами), geosite:…, full:…, regexp:…
+По правилам: российские сайты и банки напрямую, остальное через VPN.	By rules: Russian sites and banks go direct, everything else via VPN.	За правилами: російські сайти й банки напряму, решта через VPN.
+Подключаться при запуске	Connect on launch	Підключатися під час запуску
+Подписка	Subscription	Підписка
+Подписки	Subscriptions	Підписки
+Подписок нет	No subscriptions	Підписок немає
+Подпись новой версии не совпадает с текущей — установка отменена.	The new version's signature doesn't match the current one — installation cancelled.	Підпис нової версії не збігається з поточним — встановлення скасовано.
+Подробнее	Details	Докладніше
+Подходит и app.json с мака: серверы, подписки и настройки переносятся, ID устройства остаётся этим.	A Mac app.json works too: servers, subscriptions and settings are moved, this device keeps its own ID.	Підходить і app.json з Mac: сервери, підписки й налаштування переносяться, ID пристрою лишається цим.
+Последний	Last used	Останній
+Предупреждать об окончании подписки за, дней	Warn before subscription ends, days	Попереджати про закінчення підписки за, днів
+При ручном выборе сервера служба перейдёт на самый быстрый, если выбранный перестал отвечать.	With a manually chosen server, the service switches to the fastest one if the chosen server stops responding.	При ручному виборі сервера служба перейде на найшвидший, якщо вибраний перестав відповідати.
+Принять и переподключить	Apply and reconnect	Прийняти й перепідключити
+Проверять связь каждые, с	Check connection every, s	Перевіряти зв'язок кожні, с
+Профили в формате Happ (happ://routing/add/…) добавляются через «Добавить» или приходят с подпиской.	Happ-format profiles (happ://routing/add/…) are added via “Add” or come with a subscription.	Профілі у форматі Happ (happ://routing/add/…) додаються через «Додати» або приходять з підпискою.
+Профиль сохранён. В нём ключи серверов — храните как пароль.	Profile saved. It contains server keys — keep it like a password.	Профіль збережено. У ньому ключі серверів — зберігайте як пароль.
+Пусто — без пароля (не рекомендуется).	Empty — no password (not recommended).	Порожньо — без пароля (не рекомендується).
+Раз в 3 дня	Every 3 days	Раз на 3 дні
+Раздавать VPN в локальную сеть	Share VPN with the local network	Роздавати VPN у локальну мережу
+Режет приветствие TLS на части — помогает, когда сервер блокируют по SNI.	Splits the TLS hello into parts — helps when a server is blocked by SNI.	Розрізає привітання TLS на частини — допомагає, коли сервер блокують за SNI.
+Сейчас не Wi-Fi, или Windows не даёт имя сети (Параметры → Конфиденциальность → Расположение: разрешите приложениям доступ).	Not on Wi-Fi now, or Windows hides the network name (Settings → Privacy → Location: allow apps access).	Зараз не Wi-Fi, або Windows не дає ім'я мережі (Параметри → Конфіденційність → Розташування: дозвольте програмам доступ).
+Сервер вручную…	Server manually…	Сервер вручну…
+Сервер из подписки: после сохранения появится его копия среди добавленных вручную, а подписка останется как есть.	A subscription server: after saving, a copy appears among manually added servers, and the subscription stays as is.	Сервер з підписки: після збереження з'явиться його копія серед доданих вручну, а підписка лишиться як є.
+Скопировать JSON	Copy JSON	Скопіювати JSON
+Скопировать ссылку профиля	Copy profile link	Скопіювати посилання профілю
+Служба Tutun не отвечает	Tutun service is not responding	Служба Tutun не відповідає
+Служба Tutun не отвечает — перезапустите её в «Ещё»	Tutun service is not responding — restart it in “More”	Служба Tutun не відповідає — перезапустіть її в «Ще»
+Служба не установлена — нажмите «Установить службу»	The service isn't installed — click “Install service”	Службу не встановлено — натисніть «Встановити службу»
+Служба от другой версии Tutun — нажмите «Обновить службу».	The service is from another Tutun version — click “Update service”.	Служба від іншої версії Tutun — натисніть «Оновити службу».
+Служба сама восстанавливает подключение после перезагрузки компьютера, даже без окна.	The service restores the connection after a reboot by itself, even without the window.	Служба сама відновлює підключення після перезавантаження комп'ютера, навіть без вікна.
+Сортировка серверов	Server sorting	Сортування серверів
+Сохранено. В файле ключи серверов — храните как пароль.	Saved. The file contains server keys — keep it like a password.	Збережено. У файлі ключі серверів — зберігайте як пароль.
+Сохранить…	Save…	Зберегти…
+Список виден при подключённом VPN в режиме «Весь трафик Windows».	The list is visible while VPN is connected in “All Windows traffic” mode.	Список видно при підключеному VPN у режимі «Весь трафік Windows».
+Список серверов	Server list	Список серверів
+Ссылка (vless://, vmess://, trojan://, ss://, hysteria2://, tuic://, wireguard://, socks://)	Link (vless://, vmess://, trojan://, ss://, hysteria2://, tuic://, wireguard://, socks://)	Посилання (vless://, vmess://, trojan://, ss://, hysteria2://, tuic://, wireguard://, socks://)
+Ссылка подписки	Subscription link	Посилання підписки
+Ссылка подписки (https://…), ссылки серверов (vless, vmess, trojan, ss, hysteria2, tuic, wireguard, socks), happ://add, tutun://, JSON или конфиг WireGuard. Можно перетащить файл в окно.	Subscription link (https://…), server links (vless, vmess, trojan, ss, hysteria2, tuic, wireguard, socks), happ://add, tutun://, JSON or a WireGuard config. You can drag a file into the window.	Посилання підписки (https://…), посилання серверів (vless, vmess, trojan, ss, hysteria2, tuic, wireguard, socks), happ://add, tutun://, JSON або конфіг WireGuard. Можна перетягнути файл у вікно.
+Ссылка профиля скопирована	Profile link copied	Посилання профілю скопійовано
+Ссылкой	As a link	Посиланням
+Стратегия доменов	Domain strategy	Стратегія доменів
+Таблиц переводов пока нет в папке l10n — интерфейс останется на русском.	No translation tables in the l10n folder yet — the interface stays in Russian.	Таблиць перекладів поки немає в папці l10n — інтерфейс лишиться російською.
+Таймаут загрузки, с	Download timeout, s	Тайм-аут завантаження, с
+Таймаут, с	Timeout, s	Тайм-аут, с
+Только в режиме «Весь трафик». Служба блокирует интернет (фильтр Windows Filtering Platform), обнаружив падение туннеля, и снимает блокировку, когда он поднимется. Короткий промежуток до обнаружения аварии не защищён. Если сама служба упала, блокировка тоже снимается.	“All traffic” mode only. The service blocks the internet (Windows Filtering Platform filter) when it detects that the tunnel went down, and lifts the block when it is back. The short gap before the failure is detected is not protected. If the service itself crashes, the block is lifted too.	Лише в режимі «Весь трафік». Служба блокує інтернет (фільтр Windows Filtering Platform), виявивши падіння тунелю, і знімає блокування, коли він підніметься. Короткий проміжок до виявлення аварії не захищений. Якщо сама служба впала, блокування теж знімається.
+Только через VPN	Only via VPN	Лише через VPN
+У сервера нет исходной ссылки	The server has no original link	Сервер не має вихідного посилання
+Удалить профиль	Delete profile	Видалити профіль
+Удалить службу Tutun? VPN отключится, подключаться будет нельзя до новой установки.	Remove the Tutun service? VPN will disconnect and you won't be able to connect until it's reinstalled.	Видалити службу Tutun? VPN вимкнеться, підключатися не можна буде до нового встановлення.
+Управление ссылками	Control via links	Керування посиланнями
+Устанавливаю…	Installing…	Встановлюю…
+Установка и удаление спрашивают права администратора. Файлы службы — C:\Program Files\Tutun, данные — C:\ProgramData\Tutun.	Install and remove ask for administrator rights. Service files: C:\Program Files\Tutun, data: C:\ProgramData\Tutun.	Встановлення й видалення запитують права адміністратора. Файли служби — C:\Program Files\Tutun, дані — C:\ProgramData\Tutun.
+Установка отменена: нужны права администратора	Installation cancelled: administrator rights are required	Встановлення скасовано: потрібні права адміністратора
+Установка отменена: нужны права администратора.	Installation cancelled: administrator rights are required.	Встановлення скасовано: потрібні права адміністратора.
+Файл слишком большой	The file is too large	Файл завеликий
+Формат tutun.profile v1 — для переноса серверов и сетевых настроек между Windows, Mac и Android. Сетевые настройки попадают в черновик: их нужно принять.	tutun.profile v1 format — to move servers and network settings between Windows, Mac and Android. Network settings go to the draft and must be applied.	Формат tutun.profile v1 — для перенесення серверів і мережевих налаштувань між Windows, Mac і Android. Мережеві налаштування потрапляють у чернетку: їх треба прийняти.
+Через VPN по дням, 30 дней	Via VPN by day, 30 days	Через VPN по днях, 30 днів
+Шумы (noises)	Noises	Шуми (noises)
+Экспорт профиля…	Export profile…	Експорт профілю…
+Эта копия Tutun неполная (нет Tutun.Service.exe или bin\xray.exe, bin\sing-box.exe). Запустите Tutun.exe из папки собранной программы (dist\Tutun).	This copy of Tutun is incomplete (no Tutun.Service.exe or bin\xray.exe, bin\sing-box.exe). Run Tutun.exe from the built program folder (dist\Tutun).	Ця копія Tutun неповна (немає Tutun.Service.exe або bin\xray.exe, bin\sing-box.exe). Запустіть Tutun.exe з папки зібраної програми (dist\Tutun).
+Эта сборка Tutun не подписана сертификатом, поэтому установить обновление сама не может. Скачайте новую версию со страницы «Все версии».	This Tutun build isn't signed with a certificate, so it can't install the update by itself. Download the new version from the “All versions” page.	Ця збірка Tutun не підписана сертифікатом, тому не може сама встановити оновлення. Завантажте нову версію зі сторінки «Усі версії».
+без срока	no expiry	без терміну
+проверка…	checking…	перевірка…
+сервер	server	сервер
+сервера	servers	сервери
+серверов	servers	серверів
+системный прокси	system proxy	системний проксі
+скорость…	speed…	швидкість…
+Загружаю и устанавливаю…	Downloading and installing…	Завантажую та встановлюю…
+VPN не отключится: подключение держит служба, пока обновляется приложение.	VPN won't disconnect: the service keeps the connection while the app updates.	VPN не вимкнеться: підключення тримає служба, поки оновлюється програма.
+Держит VPN-подключение Tutun независимо от окна программы.	Keeps the Tutun VPN connection independent of the app window.	Тримає VPN-підключення Tutun незалежно від вікна програми.
+сейчас здесь	now here	зараз тут
+Б/с	B/s	Б/с
+КБ/с	KB/s	КБ/с
+МБ/с	MB/s	МБ/с
+Мбит/с	Mbit/s	Мбіт/с
+Эта сборка без сертификата: контрольная сумма защищает от повреждённого файла, но не от взлома аккаунта GitHub. Обновление приложения спросит права администратора, служба обновляется отдельно кнопкой «Обновить службу».	This build has no certificate: the checksum protects against a corrupted file, but not against a hacked GitHub account. Updating the app asks for administrator rights; the service is updated separately with “Update service”.	Ця збірка без сертифіката: контрольна сума захищає від пошкодженого файлу, але не від зламу акаунта GitHub. Оновлення програми запитає права адміністратора, служба оновлюється окремо кнопкою «Оновити службу».
+Подпись новой версии повреждена — установка отменена.	The new version's signature is damaged — installation cancelled.	Підпис нової версії пошкоджено — встановлення скасовано.
+Анимации	Animations	Анімації
+Как в Windows	Same as Windows	Як у Windows
+Всегда	Always	Завжди
+Никогда	Never	Ніколи
+В Windows анимации включены.	Animations are on in Windows.	У Windows анімації увімкнено.
+В Windows анимации выключены (Параметры → Специальные возможности → Визуальные эффекты).	Animations are off in Windows (Settings → Accessibility → Visual effects).	У Windows анімації вимкнено (Параметри → Спеціальні можливості → Візуальні ефекти).
+Нет — всё по остальным правилам	None — everything by the other rules	Ні — усе за іншими правилами
+Сайты страны — напрямую	Country sites — direct	Сайти країни — напряму
+Банки, госуслуги и местные сервисы выбранной страны идут без VPN. Россия, Китай, Иран — готовые списки сайтов; Мьянма — банки; для всех — IP-адреса страны и её доменная зона.	Banks, government services and local sites of the chosen country go without VPN. Russia, China, Iran — ready site lists; Myanmar — banks; for all — the country's IP addresses and domain zone.	Банки, держпослуги й місцеві сервіси вибраної країни йдуть без VPN. Росія, Китай, Іран — готові списки сайтів; М'янма — банки; для всіх — IP-адреси країни та її доменна зона.
+Для сайтов страны (напрямую)	For country sites (direct)	Для сайтів країни (напряму)
+77.88.8.8 — для России; при другой стране вместо него берётся DNS провайдера.	77.88.8.8 is for Russia; for another country your ISP's DNS is used instead.	77.88.8.8 — для Росії; для іншої країни замість нього береться DNS провайдера.
+Неизвестная страна для правил «напрямую»	Unknown country for “direct” rules	Невідома країна для правил «напряму»
+Повторить подключение	Retry connection	Повторити підключення

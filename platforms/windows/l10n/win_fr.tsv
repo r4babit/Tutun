@@ -1,0 +1,156 @@
+ · от провайдера	 · du fournisseur
+1.1.1.1 (будет DoH), https://…/dns-query, tls://…	1.1.1.1 (utilise DoH), https://…/dns-query, tls://…
+ID устройства	ID de l’appareil
+JSON сервера скопирован	JSON du serveur copié
+Mux: потоков	Mux : flux
+Outbound в JSON (xray, или sing-box для TUIC/Hysteria2)	Outbound en JSON (xray, ou sing-box pour TUIC/Hysteria2)
+QR из картинки…	QR depuis une image…
+TCP-соединение	Connexion TCP
+VPN не отключится во время обновления. Установить — в «Настройки → О Tutun»	Le VPN ne se déconnectera pas pendant la mise à jour. Installer dans « Réglages → À propos de Tutun »
+Установить — «Настройки → О Tutun».	Installer dans « Réglages → À propos de Tutun ».
+VPN-клиент на xray и sing-box	Client VPN basé sur xray et sing-box
+geosite/geoip ru, .ru, .su, .рф, Яндекс, VK, Госуслуги.	geosite/geoip ru, .ru, .su, .рф, Yandex, VK, Gosuslugi.
+tutun://connect, tutun://disconnect, tutun://toggle — можно вызывать из ярлыков и планировщика.	tutun://connect, tutun://disconnect, tutun://toggle — utilisables depuis des raccourcis et le Planificateur de tâches.
+Адреса, которые не попадают даже в xray. Только IP и подсети.	Adresses qui n’entrent même pas dans xray. IP et sous-réseaux uniquement.
+Без профиля	Sans profil
+Блокировать рекламу	Bloquer les publicités
+В архиве нет Tutun — установка отменена.	L’archive ne contient pas Tutun — installation annulée.
+В буфере нет текста	Pas de texte dans le presse-papiers
+В выпуске нет контрольной суммы — установка отменена.	La version publiée n’a pas de somme de contrôle — installation annulée.
+В доверенных сетях Tutun отключается, в остальных (и по кабелю) — подключается. Срабатывает при смене сети.	Sur les réseaux de confiance, Tutun se déconnecte ; sur les autres (et en filaire), il se connecte. Se déclenche au changement de réseau.
+В стране — только избранные серверы, если они есть	Dans un pays — uniquement les serveurs favoris, s’il y en a
+Версия в архиве не совпадает с выпуском — установка отменена.	La version de l’archive ne correspond pas à la publication — installation annulée.
+Весь трафик Windows	Tout le trafic Windows
+Весь трафик — через виртуальный адаптер (wintun), работает для всех программ. Прокси — только для программ, которые учитывают системный прокси (браузеры).	Tout le trafic passe par un adaptateur virtuel (wintun) et fonctionne pour tous les programmes. Le proxy ne fonctionne que pour les programmes qui respectent le proxy système (navigateurs).
+Восстановить…	Restaurer…
+Вставьте ссылку	Collez un lien
+Выход	Quitter
+Длина	Longueur
+Добавить текущую в доверенные	Ajouter le réseau actuel aux réseaux de confiance
+Доверенные сети Wi-Fi	Réseaux Wi-Fi de confiance
+Другие устройства подключаются к этому компьютеру как к прокси. Разрешите порты в брандмауэре Windows.	D’autres appareils se connectent à cet ordinateur comme à un proxy. Autorisez les ports dans le Pare-feu Windows.
+Есть непринятые изменения	Des modifications ne sont pas appliquées
+Журнал службы	Journal du service
+Журнал ядра	Journal du noyau
+Загружаю…	Téléchargement…
+Запускать вместе с Windows (в трее)	Démarrer avec Windows (dans la zone de notification)
+Из файла…	Depuis un fichier…
+Изменить сервер	Modifier le serveur
+Имена программ: Telegram.exe, steam.exe. Работает в режиме «Весь трафик Windows».	Noms de programmes : Telegram.exe, steam.exe. Fonctionne en mode « Tout le trafic Windows ».
+Имена сетей (SSID), по одному в строке.	Noms de réseaux (SSID), un par ligne.
+Импорт профиля…	Importer un profil…
+Имя	Nom
+Имя сервера	Nom du serveur
+Использовать серверы подписки	Utiliser les serveurs de l’abonnement
+Каждые 12 часов	Toutes les 12 heures
+Каждые 3 часа	Toutes les 3 heures
+Каждые 6 часов	Toutes les 6 heures
+Каждый час	Toutes les heures
+Как в подписке	Comme dans l’abonnement
+Как задать	Mode de saisie
+Контрольная сумма архива не совпала — установка отменена.	La somme de contrôle de l’archive ne correspond pas — installation annulée.
+Мимо VPN	Hors VPN
+Найдёт QR-код подписки или сервера на любом экране	Trouve un QR code d’abonnement ou de serveur sur n’importe quel écran
+Настоящий запрос	Requête réelle
+Настройки приняты	Réglages appliqués
+Неверный владелец установки	Propriétaire de l’installation non valide
+Непринятые изменения настроек отменены	Les modifications de réglages non appliquées ont été annulées
+Несколько соединений в одном. Не для XHTTP и Vision.	Plusieurs connexions en une. Pas pour XHTTP ni Vision.
+Неудачных проверок подряд до переключения	Échecs de vérification d’affilée avant de basculer
+Нужно панелям с лимитом устройств (Remnawave и др.).	Requis par les panneaux avec limite d’appareils (Remnawave, etc.).
+Нужны права администратора: служба держит VPN и меняет сеть	Droits d’administrateur requis : le service maintient le VPN et modifie le réseau
+Обновить	Mettre à jour
+Обновить все	Tout mettre à jour
+Обновлять	Mettre à jour
+Обновлять подписки при запуске	Mettre à jour les abonnements au lancement
+Общий профиль Tutun	Profil Tutun partagé
+Обычный	Normal
+Окна	Fenêtres
+Определять домены (sniffing)	Détecter les domaines (sniffing)
+Отключение…	Déconnexion…
+Открыть Tutun	Ouvrir Tutun
+Отменить	Annuler
+Отсканируйте камерой телефона или в Tutun на другом устройстве. В коде — ключ сервера, не показывайте посторонним.	Scannez avec l’appareil photo du téléphone ou avec Tutun sur un autre appareil. Le code contient la clé du serveur — ne le montrez pas.
+Папка с журналом	Dossier des journaux
+Первый	Premier
+Переименовать…	Renommer…
+Переподключение · интернет заблокирован	Reconnexion · internet bloqué
+По задержке	Par latence
+По имени	Par nom
+По одному в строке: example.com (с поддоменами), geosite:…, full:…, regexp:…	Un par ligne : example.com (avec sous-domaines), geosite:…, full:…, regexp:…
+По правилам: российские сайты и банки напрямую, остальное через VPN.	Par règles : sites et banques russes en direct, le reste via le VPN.
+Подключаться при запуске	Se connecter au lancement
+Подписка	Abonnement
+Подписки	Abonnements
+Подписок нет	Aucun abonnement
+Подпись новой версии не совпадает с текущей — установка отменена.	La signature de la nouvelle version ne correspond pas à l’actuelle — installation annulée.
+Подробнее	Détails
+Подходит и app.json с мака: серверы, подписки и настройки переносятся, ID устройства остаётся этим.	Un app.json du Mac convient aussi : serveurs, abonnements et réglages sont transférés, cet appareil garde son ID.
+Последний	Dernier utilisé
+Предупреждать об окончании подписки за, дней	Avertir avant la fin de l’abonnement, jours
+При ручном выборе сервера служба перейдёт на самый быстрый, если выбранный перестал отвечать.	Avec un serveur choisi manuellement, le service bascule vers le plus rapide si celui-ci ne répond plus.
+Принять и переподключить	Appliquer et reconnecter
+Проверять связь каждые, с	Vérifier la connexion toutes les, s
+Профили в формате Happ (happ://routing/add/…) добавляются через «Добавить» или приходят с подпиской.	Les profils au format Happ (happ://routing/add/…) s’ajoutent via « Ajouter » ou arrivent avec l’abonnement.
+Профиль сохранён. В нём ключи серверов — храните как пароль.	Profil enregistré. Il contient des clés de serveurs — gardez-le comme un mot de passe.
+Пусто — без пароля (не рекомендуется).	Vide — sans mot de passe (déconseillé).
+Раз в 3 дня	Tous les 3 jours
+Раздавать VPN в локальную сеть	Partager le VPN sur le réseau local
+Режет приветствие TLS на части — помогает, когда сервер блокируют по SNI.	Découpe le hello TLS en morceaux — utile quand un serveur est bloqué par SNI.
+Сейчас не Wi-Fi, или Windows не даёт имя сети (Параметры → Конфиденциальность → Расположение: разрешите приложениям доступ).	Pas de Wi-Fi actuellement, ou Windows masque le nom du réseau (Paramètres → Confidentialité → Localisation : autorisez l’accès aux applications).
+Сервер вручную…	Serveur manuel…
+Сервер из подписки: после сохранения появится его копия среди добавленных вручную, а подписка останется как есть.	Serveur d’un abonnement : après l’enregistrement, une copie apparaît parmi les serveurs ajoutés manuellement, l’abonnement reste inchangé.
+Скопировать JSON	Copier le JSON
+Скопировать ссылку профиля	Copier le lien du profil
+Служба Tutun не отвечает	Le service Tutun ne répond pas
+Служба Tutun не отвечает — перезапустите её в «Ещё»	Le service Tutun ne répond pas — redémarrez-le dans « Plus »
+Служба не установлена — нажмите «Установить службу»	Le service n’est pas installé — cliquez sur « Installer le service »
+Служба от другой версии Tutun — нажмите «Обновить службу».	Le service provient d’une autre version de Tutun — cliquez sur « Mettre à jour le service ».
+Служба сама восстанавливает подключение после перезагрузки компьютера, даже без окна.	Le service rétablit lui-même la connexion après un redémarrage, même sans la fenêtre.
+Сортировка серверов	Tri des serveurs
+Сохранено. В файле ключи серверов — храните как пароль.	Enregistré. Le fichier contient des clés de serveurs — gardez-le comme un mot de passe.
+Сохранить…	Enregistrer…
+Список виден при подключённом VPN в режиме «Весь трафик Windows».	La liste est visible quand le VPN est connecté en mode « Tout le trafic Windows ».
+Список серверов	Liste des serveurs
+Ссылка (vless://, vmess://, trojan://, ss://, hysteria2://, tuic://, wireguard://, socks://)	Lien (vless://, vmess://, trojan://, ss://, hysteria2://, tuic://, wireguard://, socks://)
+Ссылка подписки	Lien d’abonnement
+Ссылка подписки (https://…), ссылки серверов (vless, vmess, trojan, ss, hysteria2, tuic, wireguard, socks), happ://add, tutun://, JSON или конфиг WireGuard. Можно перетащить файл в окно.	Lien d’abonnement (https://…), liens de serveurs (vless, vmess, trojan, ss, hysteria2, tuic, wireguard, socks), happ://add, tutun://, JSON ou config WireGuard. Vous pouvez glisser un fichier dans la fenêtre.
+Ссылка профиля скопирована	Lien du profil copié
+Ссылкой	Par lien
+Стратегия доменов	Stratégie de domaines
+Таблиц переводов пока нет в папке l10n — интерфейс останется на русском.	Pas encore de tables de traduction dans le dossier l10n — l’interface reste en russe.
+Таймаут загрузки, с	Délai de téléchargement, s
+Таймаут, с	Délai, s
+Только в режиме «Весь трафик». Служба блокирует интернет (фильтр Windows Filtering Platform), обнаружив падение туннеля, и снимает блокировку, когда он поднимется. Короткий промежуток до обнаружения аварии не защищён. Если сама служба упала, блокировка тоже снимается.	Uniquement en mode « Tout le trafic ». Le service bloque internet (filtre Windows Filtering Platform) quand il détecte la chute du tunnel et lève le blocage à son retour. Le bref délai avant la détection n’est pas protégé. Si le service lui-même plante, le blocage est aussi levé.
+Только через VPN	Uniquement via le VPN
+У сервера нет исходной ссылки	Le serveur n’a pas de lien d’origine
+Удалить профиль	Supprimer le profil
+Удалить службу Tutun? VPN отключится, подключаться будет нельзя до новой установки.	Supprimer le service Tutun ? Le VPN se déconnectera et la connexion sera impossible jusqu’à la réinstallation.
+Управление ссылками	Contrôle par liens
+Устанавливаю…	Installation…
+Установка и удаление спрашивают права администратора. Файлы службы — C:\Program Files\Tutun, данные — C:\ProgramData\Tutun.	L’installation et la suppression demandent des droits d’administrateur. Fichiers du service : C:\Program Files\Tutun, données : C:\ProgramData\Tutun.
+Установка отменена: нужны права администратора	Installation annulée : droits d’administrateur requis
+Установка отменена: нужны права администратора.	Installation annulée : droits d’administrateur requis.
+Файл слишком большой	Le fichier est trop volumineux
+Формат tutun.profile v1 — для переноса серверов и сетевых настроек между Windows, Mac и Android. Сетевые настройки попадают в черновик: их нужно принять.	Format tutun.profile v1 — pour transférer serveurs et réglages réseau entre Windows, Mac et Android. Les réglages réseau vont dans le brouillon et doivent être appliqués.
+Через VPN по дням, 30 дней	Via le VPN par jour, 30 jours
+Шумы (noises)	Bruits (noises)
+Экспорт профиля…	Exporter le profil…
+Эта копия Tutun неполная (нет Tutun.Service.exe или bin\xray.exe, bin\sing-box.exe). Запустите Tutun.exe из папки собранной программы (dist\Tutun).	Cette copie de Tutun est incomplète (pas de Tutun.Service.exe ou bin\xray.exe, bin\sing-box.exe). Lancez Tutun.exe depuis le dossier du programme compilé (dist\Tutun).
+Эта сборка Tutun не подписана сертификатом, поэтому установить обновление сама не может. Скачайте новую версию со страницы «Все версии».	Cette version de Tutun n’est pas signée par un certificat, elle ne peut donc pas installer la mise à jour elle-même. Téléchargez la nouvelle version depuis la page « Toutes les versions ».
+без срока	sans expiration
+проверка…	vérification…
+сервер	serveur
+сервера	serveurs
+серверов	serveurs
+системный прокси	proxy système
+скорость…	vitesse…
+Загружаю и устанавливаю…	Téléchargement et installation…
+VPN не отключится: подключение держит служба, пока обновляется приложение.	Le VPN ne se déconnectera pas : le service maintient la connexion pendant la mise à jour de l’application.
+Держит VPN-подключение Tutun независимо от окна программы.	Maintient la connexion VPN de Tutun indépendamment de la fenêtre du programme.
+сейчас здесь	ici maintenant
+Б/с	o/s
+КБ/с	Ko/s
+МБ/с	Mo/s
+Мбит/с	Mbit/s
+Повторить подключение	Réessayer la connexion

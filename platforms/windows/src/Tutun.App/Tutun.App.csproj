@@ -1,0 +1,37 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <!-- Номер версии — из файла VERSION в корне (как на маке). -->
+    <Version>$([System.IO.File]::ReadAllText('$(MSBuildThisFileDirectory)..\..\VERSION').Trim())</Version>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net9.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <LangVersion>latest</LangVersion>
+    <UseWPF>true</UseWPF>
+    <UseWindowsForms>true</UseWindowsForms>
+    <AssemblyName>Tutun</AssemblyName>
+    <RootNamespace>Tutun.App</RootNamespace>
+    <ApplicationIcon>Assets\tutun.ico</ApplicationIcon>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Using Remove="System.Windows.Forms" />
+    <Using Remove="System.Drawing" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Assets\tutun.ico" />
+    <Resource Include="Assets\tutun256.png" />
+    <!-- Флаги стран (flagcdn.com, 80 px): Windows не рисует эмодзи-флаги. -->
+    <Resource Include="Assets\flags\*.png" />
+  </ItemGroup>
+  <ItemGroup Condition="'$(Configuration)' == 'Debug'">
+    <None Include="..\..\vendor\bin\**\*" Exclude="..\..\vendor\bin\*.bak" Link="bin\%(RecursiveDir)%(Filename)%(Extension)" CopyToOutputDirectory="PreserveNewest" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="System.ServiceProcess.ServiceController" Version="9.0.0" />
+    <PackageReference Include="ZXing.Net" Version="0.16.9" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Tutun.Core\Tutun.Core.csproj" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net9.0-windows</TargetFramework>
+    <UseWPF>true</UseWPF>
+    <UseWindowsForms>true</UseWindowsForms>
+    <TutunDir>$(ProgramW6432)\Tutun</TutunDir>
+  </PropertyGroup>
+  <ItemGroup>
+    <Resource Include="..\..\..\src\Tutun.App\Assets\tutun.ico" Link="Assets\tutun.ico" />
+    <Reference Include="Tutun" HintPath="$(TutunDir)\Tutun.dll" Private="false" />
+    <Reference Include="Tutun.Core" HintPath="$(TutunDir)\Tutun.Core.dll" Private="false" />
+  </ItemGroup>
+</Project>

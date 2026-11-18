@@ -1,0 +1,26 @@
+.build/
+build/
+.DS_Store
+*.xcuserstate
+platforms/android/local.properties
+*.keystore
+*.jks
+local/
+dist/
+vendor/bin/
+vendor/dl/
+platforms/android/app/build/
+platforms/android/.gradle/
+scripts/l10n/keys.json
+
+# Android signing credentials and local tooling caches
+platforms/android/keystore.properties
+*.p12
+platforms/android/.kotlin/
+platforms/android/build/
+
+# sing-box для Android собирается scripts/build-singbox-android.sh
+platforms/android/app/src/main/jniLibs/*/libsingbox.so
+
+# Ядро Android (57 МБ) — как vendor/bin, не храним в истории; SHA-256 в docs/COMPONENT-HASHES.json
+platforms/android/app/libs/*.aar

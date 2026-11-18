@@ -1,0 +1,503 @@
+Как в системе	Same as system	Як у системі
+Язык интерфейса	Language	Мова інтерфейсу
+Основные	General	Основні
+Маршруты	Routing	Маршрути
+Сеть и туннель	Network & tunnel	Мережа й тунель
+Соединения	Connections	З'єднання
+Статистика	Statistics	Статистика
+Журнал	Log	Журнал
+Добавить	Add	Додати
+Ссылка на подписку от провайдера или ссылки серверов (vless://, vmess://, trojan://, ss://, hysteria2://, tuic://, wireguard://) — по одной в строке.	A subscription link from your provider or server links (vless://, vmess://, trojan://, ss://, hysteria2://, tuic://, wireguard://) — one per line.	Посилання на підписку від провайдера або посилання серверів (vless://, vmess://, trojan://, ss://, hysteria2://, tuic://, wireguard://) — по одному в рядку.
+Из буфера	From clipboard	З буфера
+QR с экрана	QR from screen	QR з екрана
+QR-картинка	QR image	QR-зображення
+Файл	File	Файл
+Отмена	Cancel	Скасувати
+Добавлен WireGuard «%@»	Added WireGuard “%@”	Додано WireGuard «%@»
+Автозапуск: %@	Launch at login: %@	Автозапуск: %@
+Не удалось сохранить настройки: %@	Couldn't save settings: %@	Не вдалося зберегти налаштування: %@
+Tutun: сервер сменился	Tutun: server changed	Tutun: сервер змінився
+Сейчас: %@	Now: %@	Зараз: %@
+Tutun подключён	Tutun connected	Tutun підключено
+Tutun: связь восстановлена	Tutun: connection restored	Tutun: зв'язок відновлено
+Tutun переподключается	Tutun is reconnecting	Tutun перепідключається
+Связь с сервером пропала	Lost connection to the server	Зв'язок із сервером зник
+Tutun отключён	Tutun disconnected	Tutun відключено
+Tutun: ошибка подключения	Tutun: connection error	Tutun: помилка підключення
+Служба не запущена — установите её в настройках	The service isn't running — install it in Settings	Служба не запущена — встановіть її в налаштуваннях
+Служба устарела — нажмите «Обновить службу» в настройках	The service is outdated — click “Update service” in Settings	Служба застаріла — натисніть «Оновити службу» в налаштуваннях
+Нет серверов — добавьте подписку	No servers — add a subscription	Немає серверів — додайте підписку
+«%@»: %@. Выберите другой сервер.	“%@”: %@. Choose another server.	«%@»: %@. Виберіть інший сервер.
+Нет подходящих серверов	No suitable servers	Немає відповідних серверів
+Самый быстрый	Fastest	Найшвидший
+Пропущены серверы, которые ядро не приняло: 	Skipped servers the core rejected: 	Пропущено сервери, які ядро не прийняло:
+Не удалось подключиться: ядро не приняло несколько серверов подряд	Couldn't connect: the core rejected several servers in a row	Не вдалося підключитися: ядро не прийняло кілька серверів поспіль
+Не удалось включить перехват трафика	Couldn't start traffic capture	Не вдалося ввімкнути перехоплення трафіку
+Не удалось подключиться	Couldn't connect	Не вдалося підключитися
+ к «%@»	 to “%@”	 до «%@»
+Добавленные вручную	Added manually	Додані вручну
+Другие	Other	Інші
+Такая подписка уже есть	This subscription already exists	Така підписка вже є
+Пропущено: %@ — 	Skipped: %@ — 	Пропущено: %@ —
+Подписка «%@» заканчивается	Subscription “%@” is expiring	Підписка «%@» закінчується
+Срок истёк	Expired	Термін минув
+Осталось дней: %@	Days left: %@	Залишилося днів: %@
+Пусто	Empty	Порожньо
+серверов: %@	servers: %@	серверів: %@
+профилей маршрутов: %@	routing profiles: %@	профілів маршрутів: %@
+Ничего не распознано	Nothing recognized	Нічого не розпізнано
+Добавлено 	Added 	Додано
+. Пропущено: %@	. Skipped: %@	. Пропущено: %@
+QR-код не найден	No QR code found	QR-код не знайдено
+пусто	empty	порожньо
+Нерабочих серверов нет	No dead servers	Неробочих серверів немає
+Убрано нерабочих серверов: %@	Dead servers removed: %@	Прибрано неробочих серверів: %@
+Сервер не принят ядром	The core rejected the server	Ядро не прийняло сервер
+%@: не удалось скачать тестовый файл	%@: couldn't download the test file	%@: не вдалося завантажити тестовий файл
+Happ (VPN включён)	Happ (VPN on)	Happ (VPN увімкнено)
+Гео-базы обновлены	Geo databases updated	Гео-бази оновлено
+Доверенная сеть «%@»	Trusted network “%@”	Довірена мережа «%@»
+Профиль «%@» добавлен	Profile “%@” added	Профіль «%@» додано
+Восстановлено: серверов %@, подписок %@	Restored: %@ servers, %@ subscriptions	Відновлено: серверів %@, підписок %@
+Служба установлена	Service installed	Службу встановлено
+Служба установлена, но не отвечает — смотрите /var/log/tutun.log	The service is installed but not responding — see /var/log/tutun.log	Службу встановлено, але вона не відповідає — дивіться /var/log/tutun.log
+Служба удалена	Service removed	Службу видалено
+Служба не запущена	Service not running	Служба не запущена
+Нет связи с сервером	No connection to server	Немає зв'язку із сервером
+Подключено	Connected	Підключено
+Подключение…	Connecting…	Підключення…
+Переподключение…	Reconnecting…	Перепідключення…
+Ошибка подключения	Connection error	Помилка підключення
+Отключено	Disconnected	Відключено
+нет ответа	no response	немає відповіді
+%@ миллисекунд	%@ milliseconds	%@ мілісекунд
+не проверен	not tested	не перевірено
+%@ мс	%@ ms	%@ мс
+По правилам	By rules	За правилами
+Всё через VPN	All via VPN	Усе через VPN
+Напрямую	Direct	Напряму
+Российские сайты и банки напрямую, остальное через VPN	Russian sites and banks go direct, everything else via VPN	Російські сайти й банки напряму, решта через VPN
+Всё через VPN, включая российские сайты	Everything via VPN, including Russian sites	Усе через VPN, включно з російськими сайтами
+VPN включён, но трафик идёт напрямую	VPN is on, but traffic goes direct	VPN увімкнено, але трафік іде напряму
+Нет ресурсов приложения	App resources not found	Немає ресурсів застосунку
+Не найден %@. Запускайте собранное приложение Tutun.app	%@ not found. Run the built Tutun.app	Не знайдено %@. Запускайте зібраний застосунок Tutun.app
+Отменено	Cancelled	Скасовано
+Добавить подписку или серверы	Add a subscription or servers	Додати підписку або сервери
+Настройки	Settings	Налаштування
+Скрыть настройки	Hide settings	Сховати налаштування
+Показать настройки	Show settings	Показати налаштування
+Серверы	Servers	Сервери
+Скрыть список серверов	Hide server list	Сховати список серверів
+Показать список серверов	Show server list	Показати список серверів
+Задержка	Latency	Затримка
+Загрузка	Download	Завантаження
+В сети	Online	У мережі
+Отдача	Upload	Віддача
+Установите службу, чтобы подключаться	Install the service to connect	Встановіть службу, щоб підключатися
+всё через VPN	all via VPN	усе через VPN
+Нажмите «Подключить»	Click “Connect”	Натисніть «Підключити»
+самый быстрый из списка	fastest in the list	найшвидший зі списку
+последний выбранный	last selected	останній вибраний
+первый в списке	first in the list	перший у списку
+случайный из списка	random from the list	випадковий зі списку
+выбран автоматически	chosen automatically	вибрано автоматично
+выбран вручную	chosen manually	вибрано вручну
+Tutun выберет сам	Tutun will choose	Tutun вибере сам
+Обновить службу	Update service	Оновити службу
+Установить службу	Install service	Встановити службу
+Отключить	Disconnect	Відключити
+Подключить	Connect	Підключити
+Осталась служба от прошлой версии — нажмите «Обновить службу».	A service from a previous version is still installed — click “Update service”.	Залишилася служба від попередньої версії — натисніть «Оновити службу».
+Работает другой VPN: %@. Выключите его.	Another VPN is running: %@. Turn it off.	Працює інший VPN: %@. Вимкніть його.
+Избранное	Favorites	Обране
+Серверов пока нет	No servers yet	Серверів поки немає
+Нажмите «Добавить» и вставьте ссылку на подписку	Click “Add” and paste a subscription link	Натисніть «Додати» і вставте посилання на підписку
+Добавить подписку	Add subscription	Додати підписку
+Tutun выберет сам и переключит при обрыве	Tutun picks one and switches if it drops	Tutun вибере сам і перемкне в разі обриву
+Свернуть	Collapse	Згорнути
+Развернуть	Expand	Розгорнути
+Проверить задержку	Test latency	Перевірити затримку
+Информация о подписке	Subscription info	Інформація про підписку
+ · сейчас здесь	 · connected here	 · зараз тут
+Подключиться к самому быстрому серверу страны	Connect to the fastest server in this country	Підключитися до найшвидшого сервера країни
+Скрыть серверы	Hide servers	Сховати сервери
+Показать серверы страны	Show servers in this country	Показати сервери країни
+сейчас	now	зараз
+Подключиться	Connect	Підключитися
+Самый быстрый в стране «%@»	Fastest in %@	Найшвидший у країні «%@»
+Тест скорости	Speed test	Тест швидкості
+Убрать из избранного	Remove from favorites	Прибрати з обраного
+В избранное	Add to favorites	В обране
+Изменить…	Edit…	Змінити…
+Скопировать ссылку	Copy link	Скопіювати посилання
+Показать QR-код	Show QR code	Показати QR-код
+Удалить	Delete	Видалити
+Скрыть	Hide	Сховати
+В избранное — будет вверху списка	Add to favorites — shown at the top of the list	В обране — буде вгорі списку
+Открыть окно	Open window	Відкрити вікно
+Закрыть Tutun. VPN продолжит работать через службу	Quit Tutun. The VPN keeps running via the service	Закрити Tutun. VPN працюватиме далі через службу
+Новый сервер	New server	Новий сервер
+Сервер «%@»	Server “%@”	Сервер «%@»
+Сервер из подписки: изменения сохранятся как отдельный сервер, а переименование — для этого же.	Subscription server: changes are saved as a separate server; renaming applies to this one.	Сервер із підписки: зміни збережуться як окремий сервер, а перейменування — для цього ж.
+Название	Name	Назва
+Ссылка	Link	Посилання
+Сохранить	Save	Зберегти
+Слишком длинно для QR-кода	Too long for a QR code	Задовго для QR-коду
+Отсканируйте телефоном (Happ, INCY, v2RayTun и др.)	Scan with your phone (Happ, INCY, v2RayTun, etc.)	Відскануйте телефоном (Happ, INCY, v2RayTun тощо)
+Закрыть	Close	Закрити
+напрямую	direct	напряму
+через VPN	via VPN	через VPN
+Б	B	Б
+КБ	KB	КБ
+МБ	MB	МБ
+ГБ	GB	ГБ
+ТБ	TB	ТБ
+/с	/s	/с
+%.1f Мбит/с	%.1f Mbps	%.1f Мбіт/с
+Сеть	Network	Мережа
+Ещё	More	Ще
+Принять изменения	Apply changes	Застосувати зміни
+Переподключить VPN с новыми настройками	Reconnect the VPN with the new settings	Перепідключити VPN з новими налаштуваннями
+Выбрать	Choose	Вибрати
+Другое значение…	Custom value…	Інше значення…
+От %@ до %@	From %@ to %@	Від %@ до %@
+Число	Number	Число
+Подключение	Connection	Підключення
+Режим	Mode	Режим
+Весь трафик мака	All Mac traffic	Увесь трафік Mac
+Системный прокси	System proxy	Системний проксі
+Аварийная блокировка при потере туннеля	Emergency block if the tunnel drops	Аварійне блокування при втраті тунелю
+В режиме всего трафика служба блокирует интернет, обнаружив падение туннеля, до его восстановления. Короткий промежуток до обнаружения аварии не защищён.	In all-traffic mode, the service blocks the internet when it detects the tunnel is down, until it's restored. The short gap before the failure is detected is not protected.	У режимі всього трафіку служба блокує інтернет, виявивши падіння тунелю, до його відновлення. Короткий проміжок до виявлення аварії не захищений.
+Запасной сервер	Backup server	Запасний сервер
+Если выбранный сервер перестал отвечать, Tutun переключится на самый быстрый из отвечающих.	If the selected server stops responding, Tutun switches to the fastest one that responds.	Якщо вибраний сервер перестав відповідати, Tutun перемкнеться на найшвидший із тих, що відповідають.
+Проверять связь каждые	Check connection every	Перевіряти зв'язок кожні
+с	s	с
+Сервер не отвечает после	Server is down after	Сервер не відповідає після
+проверок	checks	перевірок
+Автопереключение	Auto-switching	Автоперемикання
+Пока сервер отвечает, Tutun остаётся на нём, даже если другой быстрее. Перестал отвечать — переходит на самый быстрый из рабочих в том же списке (самый быстрый, страна или запасной).	While a server responds, Tutun stays on it even if another is faster. Once it stops, Tutun moves to the fastest working one in the same list (fastest, country or backup).	Поки сервер відповідає, Tutun залишається на ньому, навіть якщо інший швидший. Перестав відповідати — переходить на найшвидший із робочих у тому ж списку (найшвидший, країна або запасний).
+К какому серверу подключаться	Which server to connect to	До якого сервера підключатися
+Самый быстрый из списка	Fastest in the list	Найшвидший зі списку
+Последний выбранный в стране	Last selected in the country	Останній вибраний у країні
+Первый в списке	First in the list	Перший у списку
+Случайный	Random	Випадковий
+Сначала избранные серверы страны	Favorite servers first	Спершу обрані сервери країни
+Клик по стране	Clicking a country	Клік по країні
+Запуск	Startup	Запуск
+Открывать Tutun при входе в систему	Open Tutun at login	Відкривати Tutun під час входу в систему
+Подключаться при запуске Tutun	Connect when Tutun starts	Підключатися під час запуску Tutun
+Значок в Dock, пока открыто окно	Show in Dock while the window is open	Значок у Dock, поки відкрите вікно
+После перезагрузки мака VPN включается сам, даже без окна: подключение держит служба.	After a restart the VPN turns on by itself, even without the window: the service keeps the connection.	Після перезавантаження Mac VPN вмикається сам, навіть без вікна: підключення тримає служба.
+Уведомления	Notifications	Сповіщення
+Показывать уведомления	Show notifications	Показувати сповіщення
+Подключение, обрыв, смена сервера, конец подписки.	Connection, drops, server changes, subscription expiry.	Підключення, обрив, зміна сервера, кінець підписки.
+Автоматически по Wi-Fi	Automatically by Wi-Fi	Автоматично за Wi-Fi
+Включать VPN в чужих сетях	Turn on VPN on untrusted networks	Вмикати VPN у чужих мережах
+В доверенных сетях Tutun отключается, в остальных — подключается сам.	On trusted networks Tutun disconnects; on all others it connects by itself.	У довірених мережах Tutun відключається, в інших — підключається сам.
+Нужен доступ к геопозиции	Location access required	Потрібен доступ до геопозиції
+Разрешить	Allow	Дозволити
+Без него macOS не сообщает приложениям имя сети Wi-Fi.	Without it, macOS doesn't tell apps the Wi-Fi network name.	Без нього macOS не повідомляє застосункам назву мережі Wi-Fi.
+Текущая сеть	Current network	Поточна мережа
+неизвестна	unknown	невідома
+Доверенные сети	Trusted networks	Довірені мережі
+Имя сети Wi-Fi, по одному в строке	Wi-Fi network name, one per line	Назва мережі Wi-Fi, по одній у рядку
+Добавить «%@» в доверенные	Add “%@” to trusted	Додати «%@» до довірених
+Tutun берёт самый быстрый сервер страны и при обрыве сам переключается на другой сервер этой страны.	Tutun takes the fastest server in the country and, if it drops, switches to another server in that country.	Tutun бере найшвидший сервер країни і в разі обриву сам перемикається на інший сервер цієї країни.
+Tutun подключается к серверу, который вы последним выбрали в этой стране вручную. Если такого нет — к самому быстрому.	Tutun connects to the server you last picked manually in this country. If there is none, to the fastest.	Tutun підключається до сервера, який ви востаннє вибрали в цій країні вручну. Якщо такого немає — до найшвидшого.
+Tutun подключается к первому серверу страны по алфавиту.	Tutun connects to the country's first server alphabetically.	Tutun підключається до першого сервера країни за абеткою.
+Tutun подключается к случайному рабочему серверу страны.	Tutun connects to a random working server in the country.	Tutun підключається до випадкового робочого сервера країни.
+ Если в стране есть серверы со звёздочкой, выбор идёт только среди них.	 If the country has starred servers, only those are considered.	 Якщо в країні є сервери із зірочкою, вибір іде лише серед них.
+Что пускать через VPN	What goes through the VPN	Що пускати через VPN
+Всё	Everything	Усе
+Ничего (напрямую)	Nothing (direct)	Нічого (напряму)
+Российские сайты — напрямую	Russian sites — direct	Російські сайти — напряму
+Банки, Госуслуги, .ru, .рф и российские IP идут без VPN — так они не ломаются.	Banks, Gosuslugi, .ru, .рф and Russian IPs bypass the VPN so they keep working.	Банки, Держпослуги РФ, .ru, .рф і російські IP ідуть без VPN — так вони не ламаються.
+Блокировать рекламу и трекеры	Block ads and trackers	Блокувати рекламу й трекери
+Профиль маршрутов	Routing profile	Профіль маршрутів
+Профиль	Profile	Профіль
+Нет	None	Немає
+Напрямую: %@ · через VPN: %@ · блок: %@	Direct: %@ · via VPN: %@ · blocked: %@	Напряму: %@ · через VPN: %@ · блок: %@
+happ://routing/add/… или JSON профиля	happ://routing/add/… or profile JSON	happ://routing/add/… або JSON профілю
+Профиль не распознан	Profile not recognized	Профіль не розпізнано
+Всегда через VPN	Always via VPN	Завжди через VPN
+Всегда напрямую	Always direct	Завжди напряму
+Блокировать	Block	Блокувати
+Сайты	Sites	Сайти
+Домен на строку — с поддоменами. Можно geosite:…, full:…, regexp:…, keyword:…	One domain per line, subdomains included. You can use geosite:…, full:…, regexp:…, keyword:…	Домен на рядок — з піддоменами. Можна geosite:…, full:…, regexp:…, keyword:…
+Через VPN	Via VPN	Через VPN
+Мимо туннеля целиком	Bypass the tunnel entirely	Повністю повз тунель
+10.0.0.0/8 — рабочая сеть, NAS	10.0.0.0/8 — work network, NAS	10.0.0.0/8 — робоча мережа, NAS
+IP-адреса	IP addresses	IP-адреси
+Приложения	Apps	Застосунки
+Выбранные — мимо VPN	Selected — bypass VPN	Вибрані — повз VPN
+Только выбранные — через VPN	Only selected — via VPN	Лише вибрані — через VPN
+Имя процесса, по одному в строке	Process name, one per line	Назва процесу, по одній у рядку
+Выбрать приложение…	Choose app…	Вибрати застосунок…
+Работает в режиме «Весь трафик мака».	Works in “All Mac traffic” mode.	Працює в режимі «Увесь трафік Mac».
+Дополнительно	Advanced	Додатково
+Как сопоставлять домены	Domain matching	Як зіставляти домени
+Как есть	As is	Як є
+IP, если нет совпадения	IP if no match	IP, якщо немає збігу
+Сразу по IP	IP right away	Одразу за IP
+1.1.1.1 или https://…	1.1.1.1 or https://…	1.1.1.1 або https://…
+Для российских сайтов	For Russian sites	Для російських сайтів
+Фрагментация TLS	TLS fragmentation	Фрагментація TLS
+Помогает, когда провайдер режет VPN по признакам соединения (DPI).	Helps when your ISP throttles VPN by connection fingerprint (DPI).	Допомагає, коли провайдер ріже VPN за ознаками з'єднання (DPI).
+Пакеты	Packets	Пакети
+Длина, байт	Length, bytes	Довжина, байт
+Интервал, мс	Interval, ms	Інтервал, мс
+Шумовые пакеты	Noise packets	Шумові пакети
+Несколько соединений в одном канале. К серверам с XTLS Vision и XHTTP не применяется.	Several connections in one channel. Not applied to servers with XTLS Vision or XHTTP.	Кілька з'єднань в одному каналі. До серверів з XTLS Vision і XHTTP не застосовується.
+Потоков	Streams	Потоків
+Определять сайты по трафику (sniffing)	Detect sites from traffic (sniffing)	Визначати сайти за трафіком (sniffing)
+Обход блокировок	Censorship bypass	Обхід блокувань
+Раздавать VPN другим устройствам	Share VPN with other devices	Роздавати VPN іншим пристроям
+SOCKS-порт	SOCKS port	SOCKS-порт
+HTTP-порт	HTTP port	HTTP-порт
+Логин	Username	Логін
+пусто — без пароля	empty — no password	порожньо — без пароля
+Пароль	Password	Пароль
+Адрес для телефона	Address for your phone	Адреса для телефона
+IP мака	Mac's IP	IP Mac
+Локальная сеть	Local network	Локальна мережа
+На телефоне: Wi-Fi → Прокси → Вручную, указать адрес и порт.	On your phone: Wi-Fi → Proxy → Manual, enter the address and port.	На телефоні: Wi-Fi → Проксі → Вручну, вказати адресу й порт.
+Проверка серверов	Server testing	Перевірка серверів
+Способ	Method	Спосіб
+Настоящий запрос через сервер	Real request through the server	Справжній запит через сервер
+Только соединение (быстрее)	Connection only (faster)	Лише з'єднання (швидше)
+Адрес проверки	Test URL	Адреса перевірки
+Ждать до	Timeout	Чекати до
+Проверять при запуске	Test on launch	Перевіряти під час запуску
+Проверять после обновления подписки	Test after subscription update	Перевіряти після оновлення підписки
+Соединений нет	No connections	З'єднань немає
+Список виден при подключённом VPN в режиме «Весь трафик мака».	The list is shown when the VPN is connected in “All Mac traffic” mode.	Список видно, коли VPN підключено в режимі «Увесь трафік Mac».
+Сайт или приложение	Site or app	Сайт або застосунок
+%@ активных	%@ active	%@ активних
+Закрыть все	Close all	Закрити всі
+Соединений пока нет — они появятся, как только приложения выйдут в интернет	No connections yet — they'll appear as soon as apps go online	З'єднань поки немає — вони з'являться, щойно застосунки вийдуть в інтернет
+Ничего не найдено	Nothing found	Нічого не знайдено
+«через VPN» — отдано ядру; российские сайты ядро дальше отправит напрямую по правилам.	“via VPN” means handed to the core; the core then sends Russian sites direct according to the rules.	«через VPN» — передано ядру; російські сайти ядро далі відправить напряму за правилами.
+Закрыть соединение	Close connection	Закрити з'єднання
+Сегодня	Today	Сьогодні
+Этот месяц	This month	Цей місяць
+Текущая сессия	Current session	Поточна сесія
+По дням, 30 дней	Daily, 30 days	По днях, 30 днів
+Пока пусто	Nothing yet	Поки порожньо
+День	Day	День
+Тип	Type	Тип
+По серверам	By server	За серверами
+IP-адрес	IP address	IP-адреса
+Без VPN	Without VPN	Без VPN
+Проверить	Check	Перевірити
+Сбросить статистику	Reset statistics	Скинути статистику
+Найти в журнале	Search log	Знайти в журналі
+Ошибки	Errors	Помилки
+Предупреждения	Warnings	Попередження
+Подробно	Info	Докладно
+Отладка	Debug	Налагодження
+Открыть файл	Open file	Відкрити файл
+Скопировать	Copy	Скопіювати
+Открываются отдельным небольшим окном.	Open in a separate small window.	Відкриваються окремим невеликим вікном.
+Как Tutun запрашивает подписки	How Tutun fetches subscriptions	Як Tutun запитує підписки
+Отправлять ID устройства	Send device ID	Надсилати ID пристрою
+Нужно провайдерам с лимитом устройств. ID этого мака: %@	Needed by providers with a device limit. This Mac's ID: %@	Потрібно провайдерам з лімітом пристроїв. ID цього Mac: %@
+Ждать ответа до	Response timeout	Чекати відповіді до
+Обновлять при запуске	Update on launch	Оновлювати під час запуску
+Пропускать одинаковые серверы	Skip duplicate servers	Пропускати однакові сервери
+Предупреждать об окончании за	Warn before expiry	Попереджати про закінчення за
+дн.	days	дн.
+Добавлены вручную	Added manually	Додані вручну
+Скрыты	Hidden	Приховані
+Вернуть все	Restore all	Повернути всі
+Скопировать все ссылки	Copy all links	Скопіювати всі посилання
+Ссылки скопированы	Links copied	Посилання скопійовано
+Убрать нерабочие	Remove dead ones	Прибрати неробочі
+Служба	Service	Служба
+Состояние	Status	Стан
+работает, версия %@	running, version %@	працює, версія %@
+ — устарела	 — outdated	 — застаріла
+установлена, не отвечает	installed, not responding	встановлена, не відповідає
+не установлена	not installed	не встановлена
+Перезапусков ядра	Core restarts	Перезапусків ядра
+Переустановить службу	Reinstall service	Перевстановити службу
+Удалить службу	Remove service	Видалити службу
+Обновлять раз в неделю	Update weekly	Оновлювати раз на тиждень
+Обновлены	Updated	Оновлено
+ещё нет	not yet	ще ні
+Обновить сейчас	Update now	Оновити зараз
+Гео-базы	Geo databases	Гео-бази
+Списки стран и сайтов для правил. По умолчанию — runetfreedom для России.	Country and site lists used by the rules. Default: runetfreedom for Russia.	Списки країн і сайтів для правил. За замовчуванням — runetfreedom для Росії.
+Резервная копия	Backup	Резервна копія
+Сохранить в файл…	Save to file…	Зберегти у файл…
+Восстановить из файла…	Restore from file…	Відновити з файлу…
+Открыть папку данных	Open data folder	Відкрити теку даних
+В копии подписки, серверы и настройки. Храните как пароль — там ключи серверов.	The backup holds subscriptions, servers and settings. Keep it like a password — it contains server keys.	У копії підписки, сервери й налаштування. Зберігайте як пароль — там ключі серверів.
+Управление из «Команд» и Терминала	Control from Shortcuts and Terminal	Керування з «Команд» і Терміналу
+Включить	Turn on	Увімкнути
+Выключить	Turn off	Вимкнути
+Переключить	Toggle	Перемкнути
+Ссылки vless://, vmess://, trojan://, ss://, hysteria2://, tuic://, wireguard:// открываются в Tutun по клику.	vless://, vmess://, trojan://, ss://, hysteria2://, tuic://, wireguard:// links open in Tutun when clicked.	Посилання vless://, vmess://, trojan://, ss://, hysteria2://, tuic://, wireguard:// відкриваються в Tutun після кліку.
+Копия сохранена	Backup saved	Копію збережено
+Не удалось восстановить: %@	Couldn't restore: %@	Не вдалося відновити: %@
+Трафик	Traffic	Трафік
+ из %@	 of %@	 з %@
+, без лимита	, unlimited	, без ліміту
+Действует до	Valid until	Діє до
+ · ещё %@ дн.	 · %@ days left	 · ще %@ дн.
+ · истекла	 · expired	 · минула
+Серверов	Servers	Серверів
+Обновлена	Updated	Оновлено
+Сообщение провайдера	Provider message	Повідомлення провайдера
+Показать	Show	Показати
+Обновлять каждые	Update every	Оновлювати кожні
+ч	h	год
+Показывать серверы этой подписки	Show this subscription's servers	Показувати сервери цієї підписки
+Ссылка скопирована	Link copied	Посилання скопійовано
+QR-код	QR code	QR-код
+Поддержка	Support	Підтримка
+Кабинет	Account	Кабінет
+Удалить подписку	Delete subscription	Видалити підписку
+Удалить подписку и все её серверы?	Delete the subscription and all its servers?	Видалити підписку і всі її сервери?
+Вернуть можно, снова добавив ссылку на подписку.	You can bring it back by adding the subscription link again.	Повернути можна, знову додавши посилання на підписку.
+Подписка работает	Subscription is working	Підписка працює
+Не удалось обновить	Couldn't update	Не вдалося оновити
+Ядро проверки не открыло порт	The test core didn't open a port	Ядро перевірки не відкрило порт
+Ядро проверки не запустилось: 	The test core didn't start: 	Ядро перевірки не запустилося:
+нет подходящих серверов	no suitable servers	немає відповідних серверів
+Нужно от 1 до 25 серверов	1 to 25 servers required	Потрібно від 1 до 25 серверів
+Внешние файлы правил недопустимы в конфиге службы	External rule files aren't allowed in the service config	Зовнішні файли правил неприпустимі в конфігу служби
+Недопустимые параметры подключения	Invalid connection parameters	Неприпустимі параметри підключення
+Порты локальной сети совпадают или заняты Tutun	Local network ports clash or are used by Tutun	Порти локальної мережі збігаються або зайняті Tutun
+Недопустимый протокол или доступ к файлам в конфиге сервера	Invalid protocol or file access in the server config	Неприпустимий протокол або доступ до файлів у конфігу сервера
+Служба Tutun не запущена	The Tutun service isn't running	Служба Tutun не запущена
+Ошибка связи со службой: %@	Service communication error: %@	Помилка зв'язку зі службою: %@
+пустой ответ	empty response	порожня відповідь
+не поддерживается: %@	not supported: %@	не підтримується: %@
+ссылка повреждена: %@	broken link: %@	посилання пошкоджене: %@
+нет схемы	no scheme	немає схеми
+AmneziaWG (его не умеет ни xray, ни sing-box)	AmneziaWG (neither xray nor sing-box supports it)	AmneziaWG (його не підтримує ні xray, ні sing-box)
+зашифрованная ссылка Happ — открывается только в Happ	encrypted Happ link — opens only in Happ	зашифроване посилання Happ — відкривається лише в Happ
+JSON не читается	Can't read JSON	JSON не читається
+конфиг %@: нет сервера	config %@: no server	конфіг %@: немає сервера
+Сервер %@	Server %@	Сервер %@
+%@: нет ключа	%@: no key	%@: немає ключа
+Shadowsocks с плагином	Shadowsocks with a plugin	Shadowsocks із плагіном
+tuic: нет uuid	tuic: no uuid	tuic: немає uuid
+wireguard: нет ключей	wireguard: no keys	wireguard: немає ключів
+конфиг WireGuard	WireGuard config	конфіг WireGuard
+без шифрования — новая версия xray такие запрещает	no encryption — the new xray version forbids it	без шифрування — нова версія xray таке забороняє
+Не удалось прочитать настройки	Couldn't read settings	Не вдалося прочитати налаштування
+Неверная ссылка подписки	Invalid subscription link	Неправильне посилання підписки
+Сервер подписки ответил ошибкой %@	The subscription server returned error %@	Сервер підписки відповів помилкою %@
+Провайдер: превышен лимит устройств. Удалите старое устройство в кабинете/боте провайдера и обновите подписку.	Provider: device limit reached. Remove an old device in your provider's account/bot and update the subscription.	Провайдер: перевищено ліміт пристроїв. Видаліть старий пристрій у кабінеті/боті провайдера й оновіть підписку.
+Провайдер не выдал серверы этому устройству (включите «Отправлять ID устройства»).	The provider didn't give servers to this device (turn on “Send device ID”).	Провайдер не видав сервери цьому пристрою (увімкніть «Надсилати ID пристрою»).
+В подписке нет поддерживаемых серверов	The subscription has no supported servers	У підписці немає підтримуваних серверів
+Некорректные общие сетевые настройки	Invalid shared network settings	Некоректні спільні мережеві налаштування
+Профиль больше 16 МБ	Profile is larger than 16 MB	Профіль більший за 16 МБ
+Неподдерживаемый формат или версия профиля	Unsupported profile format or version	Непідтримуваний формат або версія профілю
+Слишком много серверов или повторяются идентификаторы	Too many servers or duplicate IDs	Забагато серверів або повторюються ідентифікатори
+Некорректный сервер или отсутствует связанная подписка	Invalid server or missing linked subscription	Некоректний сервер або відсутня пов'язана підписка
+Некорректная подписка	Invalid subscription	Некоректна підписка
+Некорректные настройки или ссылки на отсутствующие элементы	Invalid settings or references to missing items	Некоректні налаштування або посилання на відсутні елементи
+Отсутствует подписка профиля маршрутов	Routing profile subscription is missing	Відсутня підписка профілю маршрутів
+Нет конфига	No config	Немає конфігу
+Нет конфига TUN	No TUN config	Немає конфігу TUN
+Обновите приложение: требуется описание подключения	Update the app: a connection description is required	Оновіть застосунок: потрібен опис підключення
+xray не принял конфиг: 	xray rejected the config: 	xray не прийняв конфіг:
+sing-box не принял конфиг: 	sing-box rejected the config: 	sing-box не прийняв конфіг:
+Не записать конфиг: 	Couldn't write config: 	Не вдалося записати конфіг:
+Новые гео-базы не подошли, вернул старые: 	The new geo databases didn't work, restored the old ones: 	Нові гео-бази не підійшли, повернуто старі:
+Обновлено: 	Updated: 	Оновлено:
+Неверный запрос: 	Invalid request: 	Неправильний запит:
+Tutun узнаёт имя Wi-Fi, чтобы выключать VPN в доверенных сетях.	Tutun reads the Wi-Fi name to turn the VPN off on trusted networks.	Tutun дізнається назву Wi-Fi, щоб вимикати VPN у довірених мережах.
+Версия %@	Version %@	Версія %@
+VPN-клиент для Mac на xray и sing-box	A VPN client for Mac built on xray and sing-box	VPN-клієнт для Mac на xray і sing-box
+Обновления	Updates	Оновлення
+Что нового	What's new	Що нового
+Установить и перезапустить	Install and restart	Встановити й перезапустити
+Проверить обновления	Check for updates	Перевірити оновлення
+Проект	Project	Проєкт
+Страница на GitHub	GitHub page	Сторінка на GitHub
+Все версии	All versions	Усі версії
+Ещё не проверялось	Not checked yet	Ще не перевірялося
+Проверяю…	Checking…	Перевіряю…
+У вас последняя версия	You have the latest version	У вас остання версія
+Доступна версия %@	Version %@ is available	Доступна версія %@
+Загружаю и устанавливаю…	Downloading and installing…	Завантажую та встановлюю…
+О программе	About	Про програму
+О Tutun	About	Про Tutun
+GitHub ответил ошибкой %@	GitHub returned error %@	GitHub відповів помилкою %@
+В релизе %@ нет файла Tutun.zip	Release %@ has no Tutun.zip file	У релізі %@ немає файлу Tutun.zip
+Доступно обновление Tutun %@	Tutun %@ is available	Доступне оновлення Tutun %@
+Нет прав на запись в папку %@	No permission to write to %@	Немає прав на запис у теку %@
+Не удалось скачать обновление	Couldn't download the update	Не вдалося завантажити оновлення
+Контрольная сумма не совпала — файл повреждён	Checksum mismatch — the file is damaged	Контрольна сума не збіглася — файл пошкоджено
+В архиве не то приложение	The archive contains the wrong app	В архіві не той застосунок
+%@ завершился с ошибкой %@	%@ failed with error %@	%@ завершився з помилкою %@
+Проверять автоматически	Check automatically	Перевіряти автоматично
+Как часто	How often	Як часто
+Раз в день	Once a day	Раз на день
+Раз в неделю	Once a week	Раз на тиждень
+Раз в 2 недели	Every 2 weeks	Раз на 2 тижні
+Раз в месяц	Once a month	Раз на місяць
+Обновления приходят из выпусков GitHub. Если вышла новая версия службы, приложение предложит её обновить.	Updates come from GitHub releases. If a new service version ships, the app will offer to update it.	Оновлення надходять із випусків GitHub. Якщо вийшла нова версія служби, застосунок запропонує її оновити.
+VPN не отключится: подключение держит служба, пока обновляется приложение.	The VPN stays on: the service keeps the connection while the app updates.	VPN не вимкнеться: підключення тримає служба, поки оновлюється застосунок.
+Доступна версия %@ — нажмите, чтобы обновить. VPN не отключится.	Version %@ is available — click to update. The VPN stays on.	Доступна версія %@ — натисніть, щоб оновити. VPN не вимкнеться.
+VPN не отключится во время обновления. Установить — в «Настройки → О программе».	The VPN stays on during the update. Install it in Settings → About.	VPN не вимкнеться під час оновлення. Встановити — у «Налаштування → Про програму».
+Разрешить подписки по http	Allow http subscriptions	Дозволити підписки через http
+Небезопасно: по http ключи серверов видны провайдеру и любому в сети, список могут подменить. Включайте только для своей панели без https. ID устройства по http не отправляется.	Unsafe: over http your ISP and anyone on the network can see server keys and swap the list. Turn on only for your own panel without https. The device ID is never sent over http.	Небезпечно: через http ключі серверів бачить провайдер і будь-хто в мережі, список можуть підмінити. Вмикайте лише для своєї панелі без https. ID пристрою через http не надсилається.
+Подписка по http:// не защищена. Если это ваша панель без https, включите «Разрешить подписки по http» в настройках подписок.	This http:// subscription is not protected. If it is your own panel without https, turn on “Allow http subscriptions” in subscription settings.	Підписка через http:// не захищена. Якщо це ваша панель без https, увімкніть «Дозволити підписки через http» у налаштуваннях підписок.
+Сайты страны — напрямую	Local sites — direct	Сайти країни — напряму
+Нет — всё по остальным правилам	None — follow other rules	Ні — все за іншими правилами
+Россия	Russia	Росія
+Китай	China	Китай
+Иран	Iran	Іран
+Мьянма	Myanmar	М'янма
+Турция	Turkey	Туреччина
+ОАЭ	UAE	ОАЕ
+Банки, госуслуги и местные сервисы выбранной страны идут без VPN. Россия, Китай, Иран — готовые списки сайтов и IP-адреса страны; Мьянма — банки и доменная зона; Турция, ОАЭ — только доменная зона (.tr, .ae).	Banks, government services and local sites of the chosen country bypass the VPN. Russia, China, Iran — ready-made site lists and the country's IP addresses; Myanmar — banks and the domain zone; Turkey, UAE — domain zone only (.tr, .ae).	Банки, держпослуги та місцеві сервіси вибраної країни йдуть без VPN. Росія, Китай, Іран — готові списки сайтів та IP-адреси країни; М'янма — банки та доменна зона; Туреччина, ОАЕ — лише доменна зона (.tr, .ae).
+Для сайтов страны (напрямую)	For local sites (direct)	Для сайтів країни (напряму)
+77.88.8.8 — для России; при другой стране вместо него берётся DNS провайдера.	77.88.8.8 is for Russia; for another country your ISP's DNS is used instead.	77.88.8.8 — для Росії; для іншої країни замість нього береться DNS провайдера.
+Неизвестная страна для правил «напрямую»	Unknown country for direct rules	Невідома країна для правил «напряму»
+Отключить VPN?	Disconnect VPN?	Відключити VPN?
+Команду отключения передала другая программа или сайт по ссылке tutun://.	Another app or website sent the disconnect command via a tutun:// link.	Команду відключення передала інша програма або сайт через посилання tutun://.
+Добавить из ссылки?	Add from link?	Додати з посилання?
+Ссылку передала другая программа или сайт: %@	This link was sent by another app or website: %@	Посилання передала інша програма або сайт: %@
+обязательно	required	обов'язково
+Для раздачи в локальную сеть задайте логин и пароль	Set a login and password to share the VPN on the local network	Для роздачі в локальну мережу задайте логін і пароль
+Нет свободного порта для проверки	No free port for testing	Немає вільного порту для перевірки
+Устанавливаю службу…	Installing service…	Встановлюю службу…
+Обновляю службу…	Updating service…	Оновлюю службу…
+Запускаю службу…	Starting service…	Запускаю службу…
+В резервной копии — ссылки подписок и ключи серверов. Храните её как пароль и никому не отправляйте.	The backup contains subscription links and server keys. Keep it like a password and don't send it to anyone.	У резервній копії — посилання підписок і ключі серверів. Зберігайте її як пароль і нікому не надсилайте.
+Работает, пока Tutun запущен (значок в строке меню). Если закрыть Tutun, VPN останется, а переключение по Wi-Fi — нет.	Works while Tutun is running (menu bar icon). If you quit Tutun, the VPN stays on, but Wi-Fi switching stops.	Працює, поки Tutun запущено (значок у рядку меню). Якщо закрити Tutun, VPN залишиться, а перемикання за Wi-Fi — ні.
+Считается, пока Tutun запущен.	Counted while Tutun is running.	Рахується, поки Tutun запущено.
+Эта версия Tutun отозвана — установите обновление %@	This version of Tutun has been recalled — install update %@	Цю версію Tutun відкликано — встановіть оновлення %@
+Подпись обновления не прошла проверку — файл не от автора Tutun	The update signature check failed — the file is not from the Tutun author	Підпис оновлення не пройшов перевірку — файл не від автора Tutun
+Провайдер перенёс подписку на новый адрес: %@	The provider moved the subscription to a new address: %@	Провайдер переніс підписку на нову адресу: %@
+Подробнее	More	Докладніше
+обновляются по ссылке провайдера	updated from the provider’s link	оновлюються за посиланням провайдера
+Адреса серверов	Server addresses	Адреси серверів
+через DNS провайдера	via the provider’s DNS	через DNS провайдера
+включается, если не включён у вас	turned on if you haven’t enabled it	вмикається, якщо не ввімкнено у вас
+Настройки провайдера	Provider settings	Налаштування провайдера
+Написать в поддержку	Email support	Написати в підтримку
+Обновить подписку и проверить задержку	Update subscription and check latency	Оновити підписку й перевірити затримку
+Показывать	Show	Показувати
+По странам	By country	За країнами
+Списком	As a list	Списком
+Сортировка	Sort	Сортування
+По имени	By name	За назвою
+По числу серверов	By number of servers	За кількістю серверів
+По задержке	By latency	За затримкою
+Как у провайдера	As the provider lists	Як у провайдера
+Вид и сортировка	View and sorting	Вигляд і сортування
+Обновить подписку	Update subscription	Оновити підписку
+Повторить	Retry	Повторити
+Трафик вне VPN заблокирован	Traffic outside the VPN is blocked	Трафік поза VPN заблоковано
+Недавние	Recent	Нещодавні
+Сохранить диагностический отчёт…	Save diagnostic report…	Зберегти діагностичний звіт…
+Не удалось проверить обновление	Could not verify the update	Не вдалося перевірити оновлення
+Добавляет пакеты в начало соединения. Включайте по рекомендации провайдера VPN.	Adds packets when a connection starts. Enable if your VPN provider recommends it.	Додає пакети на початку з’єднання. Увімкніть за порадою постачальника VPN.
+Помогает применить правила для сайтов, когда приложению известен только IP-адрес.	Helps apply site rules when an app only knows the IP address.	Допомагає застосувати правила сайтів, коли програмі відома лише IP-адреса.
+Устанавливаю базы…	Installing databases…	Встановлюю бази…

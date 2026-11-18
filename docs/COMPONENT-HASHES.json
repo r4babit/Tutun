@@ -1,0 +1,7 @@
+{
+  "vendor/bin/xray": "1b2d5ebe3a4c332203db24b81a052c6d6688a7f80705090f031b7416013ee1b2",
+  "vendor/bin/sing-box": "6546126c1759683fe85798da92409215d53c50e0f2b346b4f74a61babc8dbec2",
+  "vendor/bin/geoip.dat": "ce90dc02a81528109c99d769e1f8fe3071ded6b02a574f31e62d8f4eee312563",
+  "vendor/bin/geosite.dat": "9ee94acb06e2f795831fb1589c0dc7af9242b0fb8d9196afd981b915b1097ed3",
+  "platforms/android/app/libs/libv2ray.aar": "2efdf731b1ed624eb1cb0d5a4d0aa95c0672e89f9702226d1ba2dc90308630b6"
+}

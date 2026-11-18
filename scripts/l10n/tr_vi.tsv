@@ -1,0 +1,503 @@
+Как в системе	Giống hệ thống
+Язык интерфейса	Ngôn ngữ giao diện
+Основные	Chung
+Маршруты	Định tuyến
+Сеть и туннель	Mạng và đường hầm
+Соединения	Kết nối
+Статистика	Thống kê
+Журнал	Nhật ký
+Добавить	Thêm
+Ссылка на подписку от провайдера или ссылки серверов (vless://, vmess://, trojan://, ss://, hysteria2://, tuic://, wireguard://) — по одной в строке.	Liên kết đăng ký từ nhà cung cấp hoặc liên kết máy chủ (vless://, vmess://, trojan://, ss://, hysteria2://, tuic://, wireguard://) — mỗi dòng một liên kết.
+Из буфера	Từ bộ nhớ tạm
+QR с экрана	QR từ màn hình
+QR-картинка	Ảnh QR
+Файл	Tệp
+Отмена	Hủy
+Добавлен WireGuard «%@»	Đã thêm WireGuard “%@”
+Автозапуск: %@	Tự khởi chạy: %@
+Не удалось сохранить настройки: %@	Không thể lưu cài đặt: %@
+Tutun: сервер сменился	Tutun: máy chủ đã thay đổi
+Сейчас: %@	Hiện tại: %@
+Tutun подключён	Tutun đã kết nối
+Tutun: связь восстановлена	Tutun: đã khôi phục kết nối
+Tutun переподключается	Tutun đang kết nối lại
+Связь с сервером пропала	Mất kết nối với máy chủ
+Tutun отключён	Tutun đã ngắt kết nối
+Tutun: ошибка подключения	Tutun: lỗi kết nối
+Служба не запущена — установите её в настройках	Dịch vụ chưa chạy — hãy cài đặt trong Cài đặt
+Служба устарела — нажмите «Обновить службу» в настройках	Dịch vụ đã cũ — nhấp “Cập nhật dịch vụ” trong Cài đặt
+Нет серверов — добавьте подписку	Chưa có máy chủ — hãy thêm gói đăng ký
+«%@»: %@. Выберите другой сервер.	“%@”: %@. Hãy chọn máy chủ khác.
+Нет подходящих серверов	Không có máy chủ phù hợp
+Самый быстрый	Nhanh nhất
+Пропущены серверы, которые ядро не приняло: 	Đã bỏ qua các máy chủ mà lõi từ chối: 
+Не удалось подключиться: ядро не приняло несколько серверов подряд	Không thể kết nối: lõi đã từ chối nhiều máy chủ liên tiếp
+Не удалось включить перехват трафика	Không thể bật chặn bắt lưu lượng
+Не удалось подключиться	Không thể kết nối
+ к «%@»	 tới “%@”
+Добавленные вручную	Thêm thủ công
+Другие	Khác
+Такая подписка уже есть	Gói đăng ký này đã có
+Пропущено: %@ — 	Đã bỏ qua: %@ — 
+Подписка «%@» заканчивается	Gói đăng ký “%@” sắp hết hạn
+Срок истёк	Đã hết hạn
+Осталось дней: %@	Số ngày còn lại: %@
+Пусто	Trống
+серверов: %@	máy chủ: %@
+профилей маршрутов: %@	hồ sơ định tuyến: %@
+Ничего не распознано	Không nhận dạng được gì
+Добавлено 	Đã thêm 
+. Пропущено: %@	. Đã bỏ qua: %@
+QR-код не найден	Không tìm thấy mã QR
+пусто	trống
+Нерабочих серверов нет	Không có máy chủ hỏng
+Убрано нерабочих серверов: %@	Đã xóa máy chủ hỏng: %@
+Сервер не принят ядром	Lõi không chấp nhận máy chủ
+%@: не удалось скачать тестовый файл	%@: không thể tải tệp thử nghiệm
+Happ (VPN включён)	Happ (VPN đang bật)
+Гео-базы обновлены	Đã cập nhật cơ sở dữ liệu địa lý
+Доверенная сеть «%@»	Mạng tin cậy “%@”
+Профиль «%@» добавлен	Đã thêm hồ sơ “%@”
+Восстановлено: серверов %@, подписок %@	Đã khôi phục: %@ máy chủ, %@ gói đăng ký
+Служба установлена	Đã cài đặt dịch vụ
+Служба установлена, но не отвечает — смотрите /var/log/tutun.log	Dịch vụ đã được cài đặt nhưng không phản hồi — xem /var/log/tutun.log
+Служба удалена	Đã gỡ dịch vụ
+Служба не запущена	Dịch vụ chưa chạy
+Нет связи с сервером	Không có kết nối với máy chủ
+Подключено	Đã kết nối
+Подключение…	Đang kết nối…
+Переподключение…	Đang kết nối lại…
+Ошибка подключения	Lỗi kết nối
+Отключено	Đã ngắt kết nối
+нет ответа	không phản hồi
+%@ миллисекунд	%@ mili giây
+не проверен	chưa kiểm tra
+%@ мс	%@ ms
+По правилам	Theo quy tắc
+Всё через VPN	Tất cả qua VPN
+Напрямую	Trực tiếp
+Российские сайты и банки напрямую, остальное через VPN	Trang web và ngân hàng của Nga đi trực tiếp, còn lại qua VPN
+Всё через VPN, включая российские сайты	Tất cả qua VPN, kể cả các trang web của Nga
+VPN включён, но трафик идёт напрямую	VPN đang bật nhưng lưu lượng đi trực tiếp
+Нет ресурсов приложения	Không tìm thấy tài nguyên ứng dụng
+Не найден %@. Запускайте собранное приложение Tutun.app	Không tìm thấy %@. Hãy chạy ứng dụng Tutun.app đã được dựng
+Отменено	Đã hủy
+Добавить подписку или серверы	Thêm gói đăng ký hoặc máy chủ
+Настройки	Cài đặt
+Скрыть настройки	Ẩn cài đặt
+Показать настройки	Hiện cài đặt
+Серверы	Máy chủ
+Скрыть список серверов	Ẩn danh sách máy chủ
+Показать список серверов	Hiện danh sách máy chủ
+Задержка	Độ trễ
+Загрузка	Tải xuống
+В сети	Trực tuyến
+Отдача	Tải lên
+Установите службу, чтобы подключаться	Hãy cài đặt dịch vụ để kết nối
+всё через VPN	tất cả qua VPN
+Нажмите «Подключить»	Nhấp “Kết nối”
+самый быстрый из списка	nhanh nhất trong danh sách
+последний выбранный	đã chọn gần nhất
+первый в списке	đầu tiên trong danh sách
+случайный из списка	ngẫu nhiên trong danh sách
+выбран автоматически	được chọn tự động
+выбран вручную	được chọn thủ công
+Tutun выберет сам	Tutun sẽ tự chọn
+Обновить службу	Cập nhật dịch vụ
+Установить службу	Cài đặt dịch vụ
+Отключить	Ngắt kết nối
+Подключить	Kết nối
+Осталась служба от прошлой версии — нажмите «Обновить службу».	Vẫn còn dịch vụ từ phiên bản trước — nhấp “Cập nhật dịch vụ”.
+Работает другой VPN: %@. Выключите его.	Đang chạy VPN khác: %@. Hãy tắt nó.
+Избранное	Mục yêu thích
+Серверов пока нет	Chưa có máy chủ
+Нажмите «Добавить» и вставьте ссылку на подписку	Nhấp “Thêm” và dán liên kết đăng ký
+Добавить подписку	Thêm gói đăng ký
+Tutun выберет сам и переключит при обрыве	Tutun tự chọn và chuyển khi mất kết nối
+Свернуть	Thu gọn
+Развернуть	Mở rộng
+Проверить задержку	Kiểm tra độ trễ
+Информация о подписке	Thông tin gói đăng ký
+ · сейчас здесь	 · đang kết nối ở đây
+Подключиться к самому быстрому серверу страны	Kết nối tới máy chủ nhanh nhất của quốc gia này
+Скрыть серверы	Ẩn máy chủ
+Показать серверы страны	Hiện máy chủ của quốc gia
+сейчас	bây giờ
+Подключиться	Kết nối
+Самый быстрый в стране «%@»	Nhanh nhất ở %@
+Тест скорости	Kiểm tra tốc độ
+Убрать из избранного	Xóa khỏi mục yêu thích
+В избранное	Thêm vào mục yêu thích
+Изменить…	Sửa…
+Скопировать ссылку	Sao chép liên kết
+Показать QR-код	Hiện mã QR
+Удалить	Xóa
+Скрыть	Ẩn
+В избранное — будет вверху списка	Thêm vào mục yêu thích — hiện ở đầu danh sách
+Открыть окно	Mở cửa sổ
+Закрыть Tutun. VPN продолжит работать через службу	Thoát Tutun. VPN vẫn tiếp tục chạy qua dịch vụ
+Новый сервер	Máy chủ mới
+Сервер «%@»	Máy chủ “%@”
+Сервер из подписки: изменения сохранятся как отдельный сервер, а переименование — для этого же.	Máy chủ từ gói đăng ký: thay đổi sẽ được lưu thành một máy chủ riêng, còn đổi tên áp dụng cho chính máy chủ này.
+Название	Tên
+Ссылка	Liên kết
+Сохранить	Lưu
+Слишком длинно для QR-кода	Quá dài cho mã QR
+Отсканируйте телефоном (Happ, INCY, v2RayTun и др.)	Quét bằng điện thoại (Happ, INCY, v2RayTun, v.v.)
+Закрыть	Đóng
+напрямую	trực tiếp
+через VPN	qua VPN
+Б	B
+КБ	KB
+МБ	MB
+ГБ	GB
+ТБ	TB
+/с	/s
+%.1f Мбит/с	%.1f Mbps
+Сеть	Mạng
+Ещё	Thêm
+Принять изменения	Áp dụng thay đổi
+Переподключить VPN с новыми настройками	Kết nối lại VPN với cài đặt mới
+Выбрать	Chọn
+Другое значение…	Giá trị khác…
+От %@ до %@	Từ %@ đến %@
+Число	Số
+Подключение	Kết nối
+Режим	Chế độ
+Весь трафик мака	Toàn bộ lưu lượng của Mac
+Системный прокси	Proxy hệ thống
+Аварийная блокировка при потере туннеля	Chặn khẩn cấp khi đường hầm bị mất
+В режиме всего трафика служба блокирует интернет, обнаружив падение туннеля, до его восстановления. Короткий промежуток до обнаружения аварии не защищён.	Ở chế độ toàn bộ lưu lượng, dịch vụ sẽ chặn internet khi phát hiện đường hầm bị sập, cho đến khi khôi phục. Khoảng ngắn trước khi phát hiện sự cố không được bảo vệ.
+Запасной сервер	Máy chủ dự phòng
+Если выбранный сервер перестал отвечать, Tutun переключится на самый быстрый из отвечающих.	Nếu máy chủ đã chọn ngừng phản hồi, Tutun sẽ chuyển sang máy chủ nhanh nhất trong số các máy chủ còn phản hồi.
+Проверять связь каждые	Kiểm tra kết nối mỗi
+с	giây
+Сервер не отвечает после	Máy chủ ngừng phản hồi sau
+проверок	lần kiểm tra
+Автопереключение	Tự động chuyển đổi
+Пока сервер отвечает, Tutun остаётся на нём, даже если другой быстрее. Перестал отвечать — переходит на самый быстрый из рабочих в том же списке (самый быстрый, страна или запасной).	Khi máy chủ còn phản hồi, Tutun giữ nguyên nó dù có máy chủ khác nhanh hơn. Khi nó ngừng phản hồi, Tutun chuyển sang máy chủ nhanh nhất đang hoạt động trong cùng danh sách (nhanh nhất, quốc gia hoặc dự phòng).
+К какому серверу подключаться	Kết nối tới máy chủ nào
+Самый быстрый из списка	Nhanh nhất trong danh sách
+Последний выбранный в стране	Đã chọn gần nhất trong quốc gia
+Первый в списке	Đầu tiên trong danh sách
+Случайный	Ngẫu nhiên
+Сначала избранные серверы страны	Ưu tiên máy chủ yêu thích của quốc gia
+Клик по стране	Khi nhấp vào quốc gia
+Запуск	Khởi chạy
+Открывать Tutun при входе в систему	Mở Tutun khi đăng nhập hệ thống
+Подключаться при запуске Tutun	Kết nối khi Tutun khởi chạy
+Значок в Dock, пока открыто окно	Hiện trong Dock khi cửa sổ đang mở
+После перезагрузки мака VPN включается сам, даже без окна: подключение держит служба.	Sau khi khởi động lại Mac, VPN tự bật, kể cả khi không có cửa sổ: dịch vụ duy trì kết nối.
+Уведомления	Thông báo
+Показывать уведомления	Hiện thông báo
+Подключение, обрыв, смена сервера, конец подписки.	Kết nối, mất kết nối, đổi máy chủ, gói đăng ký hết hạn.
+Автоматически по Wi-Fi	Tự động theo Wi-Fi
+Включать VPN в чужих сетях	Bật VPN trên mạng không tin cậy
+В доверенных сетях Tutun отключается, в остальных — подключается сам.	Trên mạng tin cậy, Tutun tự ngắt kết nối; trên các mạng khác, Tutun tự kết nối.
+Нужен доступ к геопозиции	Cần quyền truy cập vị trí
+Разрешить	Cho phép
+Без него macOS не сообщает приложениям имя сети Wi-Fi.	Nếu không có quyền này, macOS không cho ứng dụng biết tên mạng Wi-Fi.
+Текущая сеть	Mạng hiện tại
+неизвестна	không xác định
+Доверенные сети	Mạng tin cậy
+Имя сети Wi-Fi, по одному в строке	Tên mạng Wi-Fi, mỗi dòng một tên
+Добавить «%@» в доверенные	Thêm “%@” vào mạng tin cậy
+Tutun берёт самый быстрый сервер страны и при обрыве сам переключается на другой сервер этой страны.	Tutun chọn máy chủ nhanh nhất của quốc gia và khi mất kết nối sẽ tự chuyển sang máy chủ khác của quốc gia đó.
+Tutun подключается к серверу, который вы последним выбрали в этой стране вручную. Если такого нет — к самому быстрому.	Tutun kết nối tới máy chủ bạn đã chọn thủ công gần nhất trong quốc gia này. Nếu chưa có, sẽ kết nối tới máy chủ nhanh nhất.
+Tutun подключается к первому серверу страны по алфавиту.	Tutun kết nối tới máy chủ đầu tiên của quốc gia theo thứ tự bảng chữ cái.
+Tutun подключается к случайному рабочему серверу страны.	Tutun kết nối tới một máy chủ đang hoạt động ngẫu nhiên của quốc gia.
+ Если в стране есть серверы со звёздочкой, выбор идёт только среди них.	 Nếu quốc gia có máy chủ gắn sao, chỉ chọn trong số đó.
+Что пускать через VPN	Những gì đi qua VPN
+Всё	Tất cả
+Ничего (напрямую)	Không gì cả (trực tiếp)
+Российские сайты — напрямую	Trang web của Nga — trực tiếp
+Банки, Госуслуги, .ru, .рф и российские IP идут без VPN — так они не ломаются.	Ngân hàng, Gosuslugi, .ru, .рф và IP của Nga không qua VPN để không bị lỗi.
+Блокировать рекламу и трекеры	Chặn quảng cáo và trình theo dõi
+Профиль маршрутов	Hồ sơ định tuyến
+Профиль	Hồ sơ
+Нет	Không
+Напрямую: %@ · через VPN: %@ · блок: %@	Trực tiếp: %@ · qua VPN: %@ · chặn: %@
+happ://routing/add/… или JSON профиля	happ://routing/add/… hoặc JSON của hồ sơ
+Профиль не распознан	Không nhận dạng được hồ sơ
+Всегда через VPN	Luôn qua VPN
+Всегда напрямую	Luôn trực tiếp
+Блокировать	Chặn
+Сайты	Trang web
+Домен на строку — с поддоменами. Можно geosite:…, full:…, regexp:…, keyword:…	Mỗi dòng một tên miền, gồm cả tên miền con. Có thể dùng geosite:…, full:…, regexp:…, keyword:…
+Через VPN	Qua VPN
+Мимо туннеля целиком	Bỏ qua hoàn toàn đường hầm
+10.0.0.0/8 — рабочая сеть, NAS	10.0.0.0/8 — mạng công việc, NAS
+IP-адреса	Địa chỉ IP
+Приложения	Ứng dụng
+Выбранные — мимо VPN	Ứng dụng đã chọn — bỏ qua VPN
+Только выбранные — через VPN	Chỉ ứng dụng đã chọn — qua VPN
+Имя процесса, по одному в строке	Tên tiến trình, mỗi dòng một tên
+Выбрать приложение…	Chọn ứng dụng…
+Работает в режиме «Весь трафик мака».	Hoạt động ở chế độ “Toàn bộ lưu lượng của Mac”.
+Дополнительно	Nâng cao
+Как сопоставлять домены	Cách khớp tên miền
+Как есть	Giữ nguyên
+IP, если нет совпадения	IP nếu không khớp
+Сразу по IP	Dùng IP ngay
+1.1.1.1 или https://…	1.1.1.1 hoặc https://…
+Для российских сайтов	Cho trang web của Nga
+Фрагментация TLS	Phân mảnh TLS
+Помогает, когда провайдер режет VPN по признакам соединения (DPI).	Hữu ích khi nhà mạng chặn VPN theo dấu hiệu kết nối (DPI).
+Пакеты	Gói tin
+Длина, байт	Độ dài, byte
+Интервал, мс	Khoảng cách, ms
+Шумовые пакеты	Gói nhiễu
+Несколько соединений в одном канале. К серверам с XTLS Vision и XHTTP не применяется.	Nhiều kết nối trong một kênh. Không áp dụng cho máy chủ dùng XTLS Vision và XHTTP.
+Потоков	Luồng
+Определять сайты по трафику (sniffing)	Nhận diện trang web theo lưu lượng (sniffing)
+Обход блокировок	Vượt chặn
+Раздавать VPN другим устройствам	Chia sẻ VPN cho thiết bị khác
+SOCKS-порт	Cổng SOCKS
+HTTP-порт	Cổng HTTP
+Логин	Tên đăng nhập
+пусто — без пароля	trống — không có mật khẩu
+Пароль	Mật khẩu
+Адрес для телефона	Địa chỉ cho điện thoại
+IP мака	IP của Mac
+Локальная сеть	Mạng cục bộ
+На телефоне: Wi-Fi → Прокси → Вручную, указать адрес и порт.	Trên điện thoại: Wi-Fi → Proxy → Thủ công, nhập địa chỉ và cổng.
+Проверка серверов	Kiểm tra máy chủ
+Способ	Phương thức
+Настоящий запрос через сервер	Yêu cầu thật qua máy chủ
+Только соединение (быстрее)	Chỉ kết nối (nhanh hơn)
+Адрес проверки	Địa chỉ kiểm tra
+Ждать до	Chờ tối đa
+Проверять при запуске	Kiểm tra khi khởi chạy
+Проверять после обновления подписки	Kiểm tra sau khi cập nhật gói đăng ký
+Соединений нет	Không có kết nối
+Список виден при подключённом VPN в режиме «Весь трафик мака».	Danh sách hiển thị khi VPN đã kết nối ở chế độ “Toàn bộ lưu lượng của Mac”.
+Сайт или приложение	Trang web hoặc ứng dụng
+%@ активных	%@ đang hoạt động
+Закрыть все	Đóng tất cả
+Соединений пока нет — они появятся, как только приложения выйдут в интернет	Chưa có kết nối — chúng sẽ xuất hiện ngay khi ứng dụng truy cập internet
+Ничего не найдено	Không tìm thấy gì
+«через VPN» — отдано ядру; российские сайты ядро дальше отправит напрямую по правилам.	“qua VPN” nghĩa là đã giao cho lõi; sau đó lõi sẽ gửi trang web của Nga đi trực tiếp theo quy tắc.
+Закрыть соединение	Đóng kết nối
+Сегодня	Hôm nay
+Этот месяц	Tháng này
+Текущая сессия	Phiên hiện tại
+По дням, 30 дней	Theo ngày, 30 ngày
+Пока пусто	Chưa có gì
+День	Ngày
+Тип	Loại
+По серверам	Theo máy chủ
+IP-адрес	Địa chỉ IP
+Без VPN	Không có VPN
+Проверить	Kiểm tra
+Сбросить статистику	Đặt lại thống kê
+Найти в журнале	Tìm trong nhật ký
+Ошибки	Lỗi
+Предупреждения	Cảnh báo
+Подробно	Chi tiết
+Отладка	Gỡ lỗi
+Открыть файл	Mở tệp
+Скопировать	Sao chép
+Открываются отдельным небольшим окном.	Mở trong một cửa sổ nhỏ riêng.
+Как Tutun запрашивает подписки	Cách Tutun tải gói đăng ký
+Отправлять ID устройства	Gửi ID thiết bị
+Нужно провайдерам с лимитом устройств. ID этого мака: %@	Cần cho nhà cung cấp giới hạn số thiết bị. ID của Mac này: %@
+Ждать ответа до	Chờ phản hồi tối đa
+Обновлять при запуске	Cập nhật khi khởi chạy
+Пропускать одинаковые серверы	Bỏ qua máy chủ trùng lặp
+Предупреждать об окончании за	Cảnh báo trước khi hết hạn
+дн.	ngày
+Добавлены вручную	Thêm thủ công
+Скрыты	Đã ẩn
+Вернуть все	Khôi phục tất cả
+Скопировать все ссылки	Sao chép tất cả liên kết
+Ссылки скопированы	Đã sao chép liên kết
+Убрать нерабочие	Xóa máy chủ hỏng
+Служба	Dịch vụ
+Состояние	Trạng thái
+работает, версия %@	đang chạy, phiên bản %@
+ — устарела	 — đã cũ
+установлена, не отвечает	đã cài đặt, không phản hồi
+не установлена	chưa cài đặt
+Перезапусков ядра	Số lần khởi động lại lõi
+Переустановить службу	Cài đặt lại dịch vụ
+Удалить службу	Gỡ dịch vụ
+Обновлять раз в неделю	Cập nhật mỗi tuần một lần
+Обновлены	Đã cập nhật
+ещё нет	chưa có
+Обновить сейчас	Cập nhật ngay
+Гео-базы	Cơ sở dữ liệu địa lý
+Списки стран и сайтов для правил. По умолчанию — runetfreedom для России.	Danh sách quốc gia và trang web dùng cho quy tắc. Mặc định: runetfreedom cho Nga.
+Резервная копия	Sao lưu
+Сохранить в файл…	Lưu ra tệp…
+Восстановить из файла…	Khôi phục từ tệp…
+Открыть папку данных	Mở thư mục dữ liệu
+В копии подписки, серверы и настройки. Храните как пароль — там ключи серверов.	Bản sao lưu chứa gói đăng ký, máy chủ và cài đặt. Hãy giữ như mật khẩu — trong đó có khóa máy chủ.
+Управление из «Команд» и Терминала	Điều khiển từ Phím tắt và Terminal
+Включить	Bật
+Выключить	Tắt
+Переключить	Chuyển đổi
+Ссылки vless://, vmess://, trojan://, ss://, hysteria2://, tuic://, wireguard:// открываются в Tutun по клику.	Liên kết vless://, vmess://, trojan://, ss://, hysteria2://, tuic://, wireguard:// sẽ mở trong Tutun khi nhấp.
+Копия сохранена	Đã lưu bản sao lưu
+Не удалось восстановить: %@	Không thể khôi phục: %@
+Трафик	Lưu lượng
+ из %@	 trên %@
+, без лимита	, không giới hạn
+Действует до	Có hiệu lực đến
+ · ещё %@ дн.	 · còn %@ ngày
+ · истекла	 · đã hết hạn
+Серверов	Máy chủ
+Обновлена	Đã cập nhật
+Сообщение провайдера	Thông báo từ nhà cung cấp
+Показать	Hiện
+Обновлять каждые	Cập nhật mỗi
+ч	giờ
+Показывать серверы этой подписки	Hiện máy chủ của gói đăng ký này
+Ссылка скопирована	Đã sao chép liên kết
+QR-код	Mã QR
+Поддержка	Hỗ trợ
+Кабинет	Tài khoản
+Удалить подписку	Xóa gói đăng ký
+Удалить подписку и все её серверы?	Xóa gói đăng ký và tất cả máy chủ của nó?
+Вернуть можно, снова добавив ссылку на подписку.	Bạn có thể khôi phục bằng cách thêm lại liên kết đăng ký.
+Подписка работает	Gói đăng ký đang hoạt động
+Не удалось обновить	Không thể cập nhật
+Ядро проверки не открыло порт	Lõi kiểm tra không mở được cổng
+Ядро проверки не запустилось: 	Lõi kiểm tra không khởi động được: 
+нет подходящих серверов	không có máy chủ phù hợp
+Нужно от 1 до 25 серверов	Cần từ 1 đến 25 máy chủ
+Внешние файлы правил недопустимы в конфиге службы	Tệp quy tắc bên ngoài không được phép trong cấu hình dịch vụ
+Недопустимые параметры подключения	Tham số kết nối không hợp lệ
+Порты локальной сети совпадают или заняты Tutun	Cổng mạng cục bộ trùng nhau hoặc đang được Tutun sử dụng
+Недопустимый протокол или доступ к файлам в конфиге сервера	Giao thức không hợp lệ hoặc truy cập tệp trong cấu hình máy chủ
+Служба Tutun не запущена	Dịch vụ Tutun chưa chạy
+Ошибка связи со службой: %@	Lỗi liên lạc với dịch vụ: %@
+пустой ответ	phản hồi trống
+не поддерживается: %@	không được hỗ trợ: %@
+ссылка повреждена: %@	liên kết bị hỏng: %@
+нет схемы	không có scheme
+AmneziaWG (его не умеет ни xray, ни sing-box)	AmneziaWG (cả xray lẫn sing-box đều không hỗ trợ)
+зашифрованная ссылка Happ — открывается только в Happ	liên kết Happ được mã hóa — chỉ mở được trong Happ
+JSON не читается	Không đọc được JSON
+конфиг %@: нет сервера	cấu hình %@: không có máy chủ
+Сервер %@	Máy chủ %@
+%@: нет ключа	%@: không có khóa
+Shadowsocks с плагином	Shadowsocks với plugin
+tuic: нет uuid	tuic: không có uuid
+wireguard: нет ключей	wireguard: không có khóa
+конфиг WireGuard	Cấu hình WireGuard
+без шифрования — новая версия xray такие запрещает	không mã hóa — phiên bản xray mới cấm loại này
+Не удалось прочитать настройки	Không thể đọc cài đặt
+Неверная ссылка подписки	Liên kết đăng ký không hợp lệ
+Сервер подписки ответил ошибкой %@	Máy chủ đăng ký trả về lỗi %@
+Провайдер: превышен лимит устройств. Удалите старое устройство в кабинете/боте провайдера и обновите подписку.	Nhà cung cấp: đã vượt giới hạn thiết bị. Hãy xóa thiết bị cũ trong tài khoản/bot của nhà cung cấp và cập nhật gói đăng ký.
+Провайдер не выдал серверы этому устройству (включите «Отправлять ID устройства»).	Nhà cung cấp không cấp máy chủ cho thiết bị này (hãy bật “Gửi ID thiết bị”).
+В подписке нет поддерживаемых серверов	Gói đăng ký không có máy chủ được hỗ trợ
+Некорректные общие сетевые настройки	Cài đặt mạng chung không hợp lệ
+Профиль больше 16 МБ	Hồ sơ lớn hơn 16 MB
+Неподдерживаемый формат или версия профиля	Định dạng hoặc phiên bản hồ sơ không được hỗ trợ
+Слишком много серверов или повторяются идентификаторы	Quá nhiều máy chủ hoặc trùng ID
+Некорректный сервер или отсутствует связанная подписка	Máy chủ không hợp lệ hoặc thiếu gói đăng ký liên kết
+Некорректная подписка	Gói đăng ký không hợp lệ
+Некорректные настройки или ссылки на отсутствующие элементы	Cài đặt không hợp lệ hoặc tham chiếu tới mục không tồn tại
+Отсутствует подписка профиля маршрутов	Thiếu gói đăng ký của hồ sơ định tuyến
+Нет конфига	Không có cấu hình
+Нет конфига TUN	Không có cấu hình TUN
+Обновите приложение: требуется описание подключения	Hãy cập nhật ứng dụng: cần mô tả kết nối
+xray не принял конфиг: 	xray đã từ chối cấu hình: 
+sing-box не принял конфиг: 	sing-box đã từ chối cấu hình: 
+Не записать конфиг: 	Không thể ghi cấu hình: 
+Новые гео-базы не подошли, вернул старые: 	Cơ sở dữ liệu địa lý mới không phù hợp, đã khôi phục bản cũ: 
+Обновлено: 	Đã cập nhật: 
+Неверный запрос: 	Yêu cầu không hợp lệ: 
+Tutun узнаёт имя Wi-Fi, чтобы выключать VPN в доверенных сетях.	Tutun đọc tên Wi-Fi để tắt VPN trên mạng tin cậy.
+Версия %@	Phiên bản %@
+VPN-клиент для Mac на xray и sing-box	Ứng dụng khách VPN cho Mac dựa trên xray và sing-box
+Обновления	Cập nhật
+Что нового	Có gì mới
+Установить и перезапустить	Cài đặt và khởi động lại
+Проверить обновления	Kiểm tra cập nhật
+Проект	Dự án
+Страница на GitHub	Trang GitHub
+Все версии	Tất cả phiên bản
+Ещё не проверялось	Chưa kiểm tra
+Проверяю…	Đang kiểm tra…
+У вас последняя версия	Bạn đang dùng phiên bản mới nhất
+Доступна версия %@	Đã có phiên bản %@
+Загружаю и устанавливаю…	Đang tải về và cài đặt…
+О программе	Giới thiệu
+О Tutun	Giới thiệu về Tutun
+GitHub ответил ошибкой %@	GitHub trả về lỗi %@
+В релизе %@ нет файла Tutun.zip	Bản phát hành %@ không có tệp Tutun.zip
+Доступно обновление Tutun %@	Đã có Tutun %@
+Нет прав на запись в папку %@	Không có quyền ghi vào %@
+Не удалось скачать обновление	Không thể tải bản cập nhật
+Контрольная сумма не совпала — файл повреждён	Tổng kiểm không khớp — tệp bị hỏng
+В архиве не то приложение	Kho lưu trữ chứa ứng dụng không đúng
+%@ завершился с ошибкой %@	%@ thất bại với lỗi %@
+Проверять автоматически	Tự động kiểm tra
+Как часто	Tần suất
+Раз в день	Mỗi ngày một lần
+Раз в неделю	Mỗi tuần một lần
+Раз в 2 недели	2 tuần một lần
+Раз в месяц	Mỗi tháng một lần
+Обновления приходят из выпусков GitHub. Если вышла новая версия службы, приложение предложит её обновить.	Bản cập nhật lấy từ các bản phát hành trên GitHub. Nếu có phiên bản dịch vụ mới, ứng dụng sẽ đề nghị cập nhật.
+VPN не отключится: подключение держит служба, пока обновляется приложение.	VPN vẫn bật: dịch vụ giữ kết nối trong khi ứng dụng cập nhật.
+Доступна версия %@ — нажмите, чтобы обновить. VPN не отключится.	Đã có phiên bản %@ — nhấp để cập nhật. VPN vẫn bật.
+VPN не отключится во время обновления. Установить — в «Настройки → О программе».	VPN vẫn bật trong khi cập nhật. Cài đặt tại “Cài đặt → Giới thiệu”.
+Разрешить подписки по http	Cho phép đăng ký qua http
+Небезопасно: по http ключи серверов видны провайдеру и любому в сети, список могут подменить. Включайте только для своей панели без https. ID устройства по http не отправляется.	Không an toàn: qua http, nhà mạng và bất kỳ ai trong mạng đều thấy khóa máy chủ và có thể thay danh sách. Chỉ bật cho bảng điều khiển riêng không có https. ID thiết bị không bao giờ được gửi qua http.
+Подписка по http:// не защищена. Если это ваша панель без https, включите «Разрешить подписки по http» в настройках подписок.	Đăng ký http:// này không được bảo vệ. Nếu đây là bảng điều khiển riêng không có https, hãy bật «Cho phép đăng ký qua http» trong cài đặt đăng ký.
+Сайты страны — напрямую	Trang của quốc gia — trực tiếp
+Нет — всё по остальным правилам	Không — theo các quy tắc khác
+Россия	Nga
+Китай	Trung Quốc
+Иран	Iran
+Мьянма	Myanmar
+Турция	Thổ Nhĩ Kỳ
+ОАЭ	UAE
+Банки, госуслуги и местные сервисы выбранной страны идут без VPN. Россия, Китай, Иран — готовые списки сайтов и IP-адреса страны; Мьянма — банки и доменная зона; Турция, ОАЭ — только доменная зона (.tr, .ae).	Ngân hàng, dịch vụ công và trang địa phương của quốc gia đã chọn đi không qua VPN. Nga, Trung Quốc, Iran — danh sách trang có sẵn và địa chỉ IP của quốc gia; Myanmar — ngân hàng và vùng tên miền; Thổ Nhĩ Kỳ, UAE — chỉ vùng tên miền (.tr, .ae).
+Для сайтов страны (напрямую)	Cho trang của quốc gia (trực tiếp)
+77.88.8.8 — для России; при другой стране вместо него берётся DNS провайдера.	77.88.8.8 dành cho Nga; với quốc gia khác sẽ dùng DNS của nhà mạng.
+Неизвестная страна для правил «напрямую»	Quốc gia không xác định cho quy tắc trực tiếp
+Отключить VPN?	Ngắt kết nối VPN?
+Команду отключения передала другая программа или сайт по ссылке tutun://.	Một ứng dụng hoặc trang web khác đã gửi lệnh ngắt kết nối qua liên kết tutun://.
+Добавить из ссылки?	Thêm từ liên kết?
+Ссылку передала другая программа или сайт: %@	Liên kết này do một ứng dụng hoặc trang web khác gửi: %@
+обязательно	bắt buộc
+Для раздачи в локальную сеть задайте логин и пароль	Hãy đặt tên đăng nhập và mật khẩu để chia sẻ VPN trong mạng nội bộ
+Нет свободного порта для проверки	Không có cổng trống để kiểm tra
+Устанавливаю службу…	Đang cài đặt dịch vụ…
+Обновляю службу…	Đang cập nhật dịch vụ…
+Запускаю службу…	Đang khởi động dịch vụ…
+В резервной копии — ссылки подписок и ключи серверов. Храните её как пароль и никому не отправляйте.	Bản sao lưu chứa liên kết đăng ký và khóa máy chủ. Hãy giữ nó như mật khẩu và đừng gửi cho ai.
+Работает, пока Tutun запущен (значок в строке меню). Если закрыть Tutun, VPN останется, а переключение по Wi-Fi — нет.	Chỉ hoạt động khi Tutun đang chạy (biểu tượng trên thanh menu). Nếu thoát Tutun, VPN vẫn bật nhưng việc chuyển theo Wi-Fi sẽ dừng.
+Считается, пока Tutun запущен.	Chỉ được tính khi Tutun đang chạy.
+Эта версия Tutun отозвана — установите обновление %@	Phiên bản Tutun này đã bị thu hồi — hãy cài bản cập nhật %@
+Подпись обновления не прошла проверку — файл не от автора Tutun	Chữ ký của bản cập nhật không qua được kiểm tra — tệp không phải của tác giả Tutun
+Провайдер перенёс подписку на новый адрес: %@	Nhà cung cấp đã chuyển gói đăng ký sang địa chỉ mới: %@
+Подробнее	Chi tiết
+обновляются по ссылке провайдера	cập nhật từ liên kết của nhà cung cấp
+Адреса серверов	Địa chỉ máy chủ
+через DNS провайдера	qua DNS của nhà cung cấp
+включается, если не включён у вас	bật nếu bạn chưa tự bật
+Настройки провайдера	Cài đặt của nhà cung cấp
+Написать в поддержку	Gửi email hỗ trợ
+Обновить подписку и проверить задержку	Cập nhật gói đăng ký và kiểm tra độ trễ
+Показывать	Hiển thị
+По странам	Theo quốc gia
+Списком	Dạng danh sách
+Сортировка	Sắp xếp
+По имени	Theo tên
+По числу серверов	Theo số máy chủ
+По задержке	Theo độ trễ
+Как у провайдера	Như nhà cung cấp
+Вид и сортировка	Hiển thị và sắp xếp
+Обновить подписку	Cập nhật gói đăng ký
+Повторить	Thử lại
+Трафик вне VPN заблокирован	Lưu lượng ngoài VPN bị chặn
+Недавние	Gần đây
+Сохранить диагностический отчёт…	Lưu báo cáo chẩn đoán…
+Не удалось проверить обновление	Không thể xác minh bản cập nhật
+Добавляет пакеты в начало соединения. Включайте по рекомендации провайдера VPN.	Thêm gói tin khi bắt đầu kết nối. Bật nếu nhà cung cấp VPN đề xuất.
+Помогает применить правила для сайтов, когда приложению известен только IP-адрес.	Giúp áp dụng quy tắc trang web khi ứng dụng chỉ biết địa chỉ IP.
+Устанавливаю базы…	Đang cài đặt cơ sở dữ liệu…

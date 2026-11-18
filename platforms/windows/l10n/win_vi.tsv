@@ -1,0 +1,156 @@
+ · от провайдера	 · từ nhà cung cấp
+1.1.1.1 (будет DoH), https://…/dns-query, tls://…	1.1.1.1 (dùng DoH), https://…/dns-query, tls://…
+ID устройства	ID thiết bị
+JSON сервера скопирован	Đã sao chép JSON máy chủ
+Mux: потоков	Mux: số luồng
+Outbound в JSON (xray, или sing-box для TUIC/Hysteria2)	Outbound dạng JSON (xray, hoặc sing-box cho TUIC/Hysteria2)
+QR из картинки…	QR từ ảnh…
+TCP-соединение	Kết nối TCP
+VPN не отключится во время обновления. Установить — в «Настройки → О Tutun»	VPN sẽ không ngắt trong khi cập nhật. Cài đặt tại “Cài đặt → Giới thiệu Tutun”
+Установить — «Настройки → О Tutun».	Cài đặt tại “Cài đặt → Giới thiệu Tutun”.
+VPN-клиент на xray и sing-box	Ứng dụng VPN dựa trên xray và sing-box
+geosite/geoip ru, .ru, .su, .рф, Яндекс, VK, Госуслуги.	geosite/geoip ru, .ru, .su, .рф, Yandex, VK, Gosuslugi.
+tutun://connect, tutun://disconnect, tutun://toggle — можно вызывать из ярлыков и планировщика.	tutun://connect, tutun://disconnect, tutun://toggle — có thể gọi từ lối tắt và Task Scheduler.
+Адреса, которые не попадают даже в xray. Только IP и подсети.	Các địa chỉ hoàn toàn không đi vào xray. Chỉ IP và mạng con.
+Без профиля	Không có hồ sơ
+Блокировать рекламу	Chặn quảng cáo
+В архиве нет Tutun — установка отменена.	Tệp nén không chứa Tutun — đã hủy cài đặt.
+В буфере нет текста	Không có văn bản trong bộ nhớ tạm
+В выпуске нет контрольной суммы — установка отменена.	Bản phát hành không có mã kiểm tra — đã hủy cài đặt.
+В доверенных сетях Tutun отключается, в остальных (и по кабелю) — подключается. Срабатывает при смене сети.	Trên mạng tin cậy Tutun ngắt kết nối, trên các mạng khác (kể cả cáp) thì kết nối. Kích hoạt khi đổi mạng.
+В стране — только избранные серверы, если они есть	Trong một quốc gia — chỉ máy chủ yêu thích, nếu có
+Версия в архиве не совпадает с выпуском — установка отменена.	Phiên bản trong tệp nén không khớp với bản phát hành — đã hủy cài đặt.
+Весь трафик Windows	Toàn bộ lưu lượng Windows
+Весь трафик — через виртуальный адаптер (wintun), работает для всех программ. Прокси — только для программ, которые учитывают системный прокси (браузеры).	Toàn bộ lưu lượng đi qua bộ điều hợp ảo (wintun) và áp dụng cho mọi chương trình. Proxy chỉ áp dụng cho chương trình dùng proxy hệ thống (trình duyệt).
+Восстановить…	Khôi phục…
+Вставьте ссылку	Dán liên kết
+Выход	Thoát
+Длина	Độ dài
+Добавить текущую в доверенные	Thêm mạng hiện tại vào danh sách tin cậy
+Доверенные сети Wi-Fi	Mạng Wi-Fi tin cậy
+Другие устройства подключаются к этому компьютеру как к прокси. Разрешите порты в брандмауэре Windows.	Thiết bị khác kết nối tới máy tính này như một proxy. Hãy cho phép các cổng trong Windows Firewall.
+Есть непринятые изменения	Có thay đổi chưa áp dụng
+Журнал службы	Nhật ký dịch vụ
+Журнал ядра	Nhật ký lõi
+Загружаю…	Đang tải xuống…
+Запускать вместе с Windows (в трее)	Khởi động cùng Windows (trong khay)
+Из файла…	Từ tệp…
+Изменить сервер	Sửa máy chủ
+Имена программ: Telegram.exe, steam.exe. Работает в режиме «Весь трафик Windows».	Tên chương trình: Telegram.exe, steam.exe. Hoạt động ở chế độ “Toàn bộ lưu lượng Windows”.
+Имена сетей (SSID), по одному в строке.	Tên mạng (SSID), mỗi dòng một tên.
+Импорт профиля…	Nhập hồ sơ…
+Имя	Tên
+Имя сервера	Tên máy chủ
+Использовать серверы подписки	Dùng máy chủ của gói đăng ký
+Каждые 12 часов	Mỗi 12 giờ
+Каждые 3 часа	Mỗi 3 giờ
+Каждые 6 часов	Mỗi 6 giờ
+Каждый час	Mỗi giờ
+Как в подписке	Như trong gói đăng ký
+Как задать	Cách khai báo
+Контрольная сумма архива не совпала — установка отменена.	Mã kiểm tra của tệp nén không khớp — đã hủy cài đặt.
+Мимо VPN	Bỏ qua VPN
+Найдёт QR-код подписки или сервера на любом экране	Tìm mã QR gói đăng ký hoặc máy chủ trên mọi màn hình
+Настоящий запрос	Yêu cầu thật
+Настройки приняты	Đã áp dụng cài đặt
+Неверный владелец установки	Chủ sở hữu cài đặt không hợp lệ
+Непринятые изменения настроек отменены	Đã hủy các thay đổi cài đặt chưa áp dụng
+Несколько соединений в одном. Не для XHTTP и Vision.	Nhiều kết nối trong một. Không dùng cho XHTTP hoặc Vision.
+Неудачных проверок подряд до переключения	Số lần kiểm tra thất bại liên tiếp trước khi chuyển
+Нужно панелям с лимитом устройств (Remnawave и др.).	Cần cho các bảng điều khiển giới hạn thiết bị (Remnawave v.v.).
+Нужны права администратора: служба держит VPN и меняет сеть	Cần quyền quản trị: dịch vụ giữ VPN và thay đổi mạng
+Обновить	Cập nhật
+Обновить все	Cập nhật tất cả
+Обновлять	Cập nhật
+Обновлять подписки при запуске	Cập nhật gói đăng ký khi khởi động
+Общий профиль Tutun	Hồ sơ Tutun dùng chung
+Обычный	Bình thường
+Окна	Cửa sổ
+Определять домены (sniffing)	Nhận diện tên miền (sniffing)
+Отключение…	Đang ngắt kết nối…
+Открыть Tutun	Mở Tutun
+Отменить	Hủy bỏ
+Отсканируйте камерой телефона или в Tutun на другом устройстве. В коде — ключ сервера, не показывайте посторонним.	Quét bằng camera điện thoại hoặc Tutun trên thiết bị khác. Mã chứa khóa máy chủ — đừng cho người khác xem.
+Папка с журналом	Thư mục nhật ký
+Первый	Đầu tiên
+Переименовать…	Đổi tên…
+Переподключение · интернет заблокирован	Đang kết nối lại · internet bị chặn
+По задержке	Theo độ trễ
+По имени	Theo tên
+По одному в строке: example.com (с поддоменами), geosite:…, full:…, regexp:…	Mỗi dòng một mục: example.com (kèm tên miền con), geosite:…, full:…, regexp:…
+По правилам: российские сайты и банки напрямую, остальное через VPN.	Theo quy tắc: trang và ngân hàng Nga đi trực tiếp, còn lại qua VPN.
+Подключаться при запуске	Kết nối khi khởi động
+Подписка	Gói đăng ký
+Подписки	Gói đăng ký
+Подписок нет	Không có gói đăng ký
+Подпись новой версии не совпадает с текущей — установка отменена.	Chữ ký của phiên bản mới không khớp với phiên bản hiện tại — đã hủy cài đặt.
+Подробнее	Chi tiết
+Подходит и app.json с мака: серверы, подписки и настройки переносятся, ID устройства остаётся этим.	app.json từ Mac cũng dùng được: máy chủ, gói đăng ký và cài đặt được chuyển sang, thiết bị này giữ ID của mình.
+Последний	Dùng gần nhất
+Предупреждать об окончании подписки за, дней	Cảnh báo trước khi gói đăng ký hết hạn, ngày
+При ручном выборе сервера служба перейдёт на самый быстрый, если выбранный перестал отвечать.	Khi chọn máy chủ thủ công, dịch vụ sẽ chuyển sang máy chủ nhanh nhất nếu máy chủ đã chọn ngừng phản hồi.
+Принять и переподключить	Áp dụng và kết nối lại
+Проверять связь каждые, с	Kiểm tra kết nối mỗi, giây
+Профили в формате Happ (happ://routing/add/…) добавляются через «Добавить» или приходят с подпиской.	Hồ sơ định dạng Happ (happ://routing/add/…) được thêm qua “Thêm” hoặc đi kèm gói đăng ký.
+Профиль сохранён. В нём ключи серверов — храните как пароль.	Đã lưu hồ sơ. Hồ sơ chứa khóa máy chủ — hãy giữ như mật khẩu.
+Пусто — без пароля (не рекомендуется).	Để trống — không mật khẩu (không khuyến nghị).
+Раз в 3 дня	Mỗi 3 ngày
+Раздавать VPN в локальную сеть	Chia sẻ VPN trong mạng cục bộ
+Режет приветствие TLS на части — помогает, когда сервер блокируют по SNI.	Chia gói chào TLS thành nhiều phần — hữu ích khi máy chủ bị chặn theo SNI.
+Сейчас не Wi-Fi, или Windows не даёт имя сети (Параметры → Конфиденциальность → Расположение: разрешите приложениям доступ).	Hiện không dùng Wi-Fi, hoặc Windows ẩn tên mạng (Cài đặt → Quyền riêng tư → Vị trí: cho phép ứng dụng truy cập).
+Сервер вручную…	Máy chủ thủ công…
+Сервер из подписки: после сохранения появится его копия среди добавленных вручную, а подписка останется как есть.	Máy chủ từ gói đăng ký: sau khi lưu, bản sao sẽ xuất hiện trong mục thêm thủ công, còn gói đăng ký giữ nguyên.
+Скопировать JSON	Sao chép JSON
+Скопировать ссылку профиля	Sao chép liên kết hồ sơ
+Служба Tutun не отвечает	Dịch vụ Tutun không phản hồi
+Служба Tutun не отвечает — перезапустите её в «Ещё»	Dịch vụ Tutun không phản hồi — hãy khởi động lại trong “Thêm nữa”
+Служба не установлена — нажмите «Установить службу»	Dịch vụ chưa được cài — nhấn “Cài dịch vụ”
+Служба от другой версии Tutun — нажмите «Обновить службу».	Dịch vụ thuộc phiên bản Tutun khác — nhấn “Cập nhật dịch vụ”.
+Служба сама восстанавливает подключение после перезагрузки компьютера, даже без окна.	Dịch vụ tự khôi phục kết nối sau khi khởi động lại máy, kể cả khi không mở cửa sổ.
+Сортировка серверов	Sắp xếp máy chủ
+Сохранено. В файле ключи серверов — храните как пароль.	Đã lưu. Tệp chứa khóa máy chủ — hãy giữ như mật khẩu.
+Сохранить…	Lưu…
+Список виден при подключённом VPN в режиме «Весь трафик Windows».	Danh sách hiển thị khi VPN đang kết nối ở chế độ “Toàn bộ lưu lượng Windows”.
+Список серверов	Danh sách máy chủ
+Ссылка (vless://, vmess://, trojan://, ss://, hysteria2://, tuic://, wireguard://, socks://)	Liên kết (vless://, vmess://, trojan://, ss://, hysteria2://, tuic://, wireguard://, socks://)
+Ссылка подписки	Liên kết gói đăng ký
+Ссылка подписки (https://…), ссылки серверов (vless, vmess, trojan, ss, hysteria2, tuic, wireguard, socks), happ://add, tutun://, JSON или конфиг WireGuard. Можно перетащить файл в окно.	Liên kết gói đăng ký (https://…), liên kết máy chủ (vless, vmess, trojan, ss, hysteria2, tuic, wireguard, socks), happ://add, tutun://, JSON hoặc cấu hình WireGuard. Có thể kéo tệp vào cửa sổ.
+Ссылка профиля скопирована	Đã sao chép liên kết hồ sơ
+Ссылкой	Bằng liên kết
+Стратегия доменов	Chiến lược tên miền
+Таблиц переводов пока нет в папке l10n — интерфейс останется на русском.	Chưa có bảng dịch trong thư mục l10n — giao diện vẫn bằng tiếng Nga.
+Таймаут загрузки, с	Thời gian chờ tải, giây
+Таймаут, с	Thời gian chờ, giây
+Только в режиме «Весь трафик». Служба блокирует интернет (фильтр Windows Filtering Platform), обнаружив падение туннеля, и снимает блокировку, когда он поднимется. Короткий промежуток до обнаружения аварии не защищён. Если сама служба упала, блокировка тоже снимается.	Chỉ ở chế độ “Toàn bộ lưu lượng”. Dịch vụ chặn internet (bộ lọc Windows Filtering Platform) khi phát hiện đường hầm bị rớt và bỏ chặn khi đường hầm hoạt động lại. Khoảng ngắn trước khi phát hiện sự cố không được bảo vệ. Nếu chính dịch vụ bị lỗi, lệnh chặn cũng được gỡ.
+Только через VPN	Chỉ qua VPN
+У сервера нет исходной ссылки	Máy chủ không có liên kết gốc
+Удалить профиль	Xóa hồ sơ
+Удалить службу Tutun? VPN отключится, подключаться будет нельзя до новой установки.	Gỡ dịch vụ Tutun? VPN sẽ ngắt và không thể kết nối cho tới khi cài lại.
+Управление ссылками	Điều khiển bằng liên kết
+Устанавливаю…	Đang cài đặt…
+Установка и удаление спрашивают права администратора. Файлы службы — C:\Program Files\Tutun, данные — C:\ProgramData\Tutun.	Cài và gỡ cần quyền quản trị. Tệp dịch vụ: C:\Program Files\Tutun, dữ liệu: C:\ProgramData\Tutun.
+Установка отменена: нужны права администратора	Đã hủy cài đặt: cần quyền quản trị
+Установка отменена: нужны права администратора.	Đã hủy cài đặt: cần quyền quản trị.
+Файл слишком большой	Tệp quá lớn
+Формат tutun.profile v1 — для переноса серверов и сетевых настроек между Windows, Mac и Android. Сетевые настройки попадают в черновик: их нужно принять.	Định dạng tutun.profile v1 — để chuyển máy chủ và cài đặt mạng giữa Windows, Mac và Android. Cài đặt mạng vào bản nháp và cần được áp dụng.
+Через VPN по дням, 30 дней	Qua VPN theo ngày, 30 ngày
+Шумы (noises)	Nhiễu (noises)
+Экспорт профиля…	Xuất hồ sơ…
+Эта копия Tutun неполная (нет Tutun.Service.exe или bin\xray.exe, bin\sing-box.exe). Запустите Tutun.exe из папки собранной программы (dist\Tutun).	Bản Tutun này không đầy đủ (thiếu Tutun.Service.exe hoặc bin\xray.exe, bin\sing-box.exe). Hãy chạy Tutun.exe từ thư mục chương trình đã build (dist\Tutun).
+Эта сборка Tutun не подписана сертификатом, поэтому установить обновление сама не может. Скачайте новую версию со страницы «Все версии».	Bản build Tutun này chưa được ký bằng chứng chỉ nên không tự cài bản cập nhật được. Hãy tải phiên bản mới từ trang “Tất cả phiên bản”.
+без срока	không thời hạn
+проверка…	đang kiểm tra…
+сервер	máy chủ
+сервера	máy chủ
+серверов	máy chủ
+системный прокси	proxy hệ thống
+скорость…	tốc độ…
+Загружаю и устанавливаю…	Đang tải xuống và cài đặt…
+VPN не отключится: подключение держит служба, пока обновляется приложение.	VPN sẽ không ngắt: dịch vụ giữ kết nối trong lúc ứng dụng cập nhật.
+Держит VPN-подключение Tutun независимо от окна программы.	Giữ kết nối VPN Tutun độc lập với cửa sổ chương trình.
+сейчас здесь	đang ở đây
+Б/с	B/s
+КБ/с	KB/s
+МБ/с	MB/s
+Мбит/с	Mbit/s
+Повторить подключение	Thử kết nối lại

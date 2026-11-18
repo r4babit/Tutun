@@ -1,0 +1,156 @@
+ · от провайдера	 · sağlayıcıdan
+1.1.1.1 (будет DoH), https://…/dns-query, tls://…	1.1.1.1 (DoH kullanır), https://…/dns-query, tls://…
+ID устройства	Cihaz kimliği
+JSON сервера скопирован	Sunucu JSON'u kopyalandı
+Mux: потоков	Mux: akış sayısı
+Outbound в JSON (xray, или sing-box для TUIC/Hysteria2)	JSON olarak outbound (xray veya TUIC/Hysteria2 için sing-box)
+QR из картинки…	Görselden QR…
+TCP-соединение	TCP bağlantısı
+VPN не отключится во время обновления. Установить — в «Настройки → О Tutun»	Güncelleme sırasında VPN kesilmeyecek. Yüklemek için: “Ayarlar → Tutun Hakkında”
+Установить — «Настройки → О Tutun».	Yüklemek için: “Ayarlar → Tutun Hakkında”.
+VPN-клиент на xray и sing-box	xray ve sing-box tabanlı VPN istemcisi
+geosite/geoip ru, .ru, .su, .рф, Яндекс, VK, Госуслуги.	geosite/geoip ru, .ru, .su, .рф, Yandex, VK, Gosuslugi.
+tutun://connect, tutun://disconnect, tutun://toggle — можно вызывать из ярлыков и планировщика.	tutun://connect, tutun://disconnect, tutun://toggle — kısayollardan ve Görev Zamanlayıcı'dan çağrılabilir.
+Адреса, которые не попадают даже в xray. Только IP и подсети.	xray'e hiç girmeyen adresler. Yalnızca IP ve alt ağlar.
+Без профиля	Profil yok
+Блокировать рекламу	Reklamları engelle
+В архиве нет Tutun — установка отменена.	Arşivde Tutun yok — kurulum iptal edildi.
+В буфере нет текста	Panoda metin yok
+В выпуске нет контрольной суммы — установка отменена.	Sürümde sağlama toplamı yok — kurulum iptal edildi.
+В доверенных сетях Tutun отключается, в остальных (и по кабелю) — подключается. Срабатывает при смене сети.	Güvenilir ağlarda Tutun bağlantıyı keser, diğerlerinde (kablo dahil) bağlanır. Ağ değiştiğinde çalışır.
+В стране — только избранные серверы, если они есть	Ülke içinde — varsa yalnızca favori sunucular
+Версия в архиве не совпадает с выпуском — установка отменена.	Arşivdeki sürüm yayınla eşleşmiyor — kurulum iptal edildi.
+Весь трафик Windows	Tüm Windows trafiği
+Весь трафик — через виртуальный адаптер (wintun), работает для всех программ. Прокси — только для программ, которые учитывают системный прокси (браузеры).	Tüm trafik sanal bir bağdaştırıcıdan (wintun) geçer ve tüm programlarda çalışır. Proxy yalnızca sistem proxy'sini kullanan programlarda (tarayıcılar) çalışır.
+Восстановить…	Geri yükle…
+Вставьте ссылку	Bir bağlantı yapıştırın
+Выход	Çıkış
+Длина	Uzunluk
+Добавить текущую в доверенные	Geçerli ağı güvenilirlere ekle
+Доверенные сети Wi-Fi	Güvenilir Wi-Fi ağları
+Другие устройства подключаются к этому компьютеру как к прокси. Разрешите порты в брандмауэре Windows.	Diğer cihazlar bu bilgisayara proxy olarak bağlanır. Windows Güvenlik Duvarı'nda bağlantı noktalarına izin verin.
+Есть непринятые изменения	Uygulanmamış değişiklikler var
+Журнал службы	Hizmet günlüğü
+Журнал ядра	Çekirdek günlüğü
+Загружаю…	İndiriliyor…
+Запускать вместе с Windows (в трее)	Windows ile başlat (bildirim alanında)
+Из файла…	Dosyadan…
+Изменить сервер	Sunucuyu düzenle
+Имена программ: Telegram.exe, steam.exe. Работает в режиме «Весь трафик Windows».	Program adları: Telegram.exe, steam.exe. “Tüm Windows trafiği” modunda çalışır.
+Имена сетей (SSID), по одному в строке.	Ağ adları (SSID), satır başına bir tane.
+Импорт профиля…	Profil içe aktar…
+Имя	Ad
+Имя сервера	Sunucu adı
+Использовать серверы подписки	Aboneliğin sunucularını kullan
+Каждые 12 часов	12 saatte bir
+Каждые 3 часа	3 saatte bir
+Каждые 6 часов	6 saatte bir
+Каждый час	Saatte bir
+Как в подписке	Abonelikteki gibi
+Как задать	Nasıl belirtilir
+Контрольная сумма архива не совпала — установка отменена.	Arşivin sağlama toplamı eşleşmedi — kurulum iptal edildi.
+Мимо VPN	VPN dışında
+Найдёт QR-код подписки или сервера на любом экране	Herhangi bir ekranda abonelik veya sunucu QR kodunu bulur
+Настоящий запрос	Gerçek istek
+Настройки приняты	Ayarlar uygulandı
+Неверный владелец установки	Geçersiz kurulum sahibi
+Непринятые изменения настроек отменены	Uygulanmamış ayar değişiklikleri iptal edildi
+Несколько соединений в одном. Не для XHTTP и Vision.	Birden çok bağlantı tek bağlantıda. XHTTP ve Vision için değil.
+Неудачных проверок подряд до переключения	Geçişten önce art arda başarısız kontrol
+Нужно панелям с лимитом устройств (Remnawave и др.).	Cihaz sınırı olan paneller için gerekli (Remnawave vb.).
+Нужны права администратора: служба держит VPN и меняет сеть	Yönetici hakları gerekli: hizmet VPN'i tutar ve ağı değiştirir
+Обновить	Güncelle
+Обновить все	Tümünü güncelle
+Обновлять	Güncelle
+Обновлять подписки при запуске	Açılışta abonelikleri güncelle
+Общий профиль Tutun	Ortak Tutun profili
+Обычный	Normal
+Окна	Pencereler
+Определять домены (sniffing)	Alan adlarını algıla (sniffing)
+Отключение…	Bağlantı kesiliyor…
+Открыть Tutun	Tutun'u aç
+Отменить	Vazgeç
+Отсканируйте камерой телефона или в Tutun на другом устройстве. В коде — ключ сервера, не показывайте посторонним.	Telefon kamerasıyla veya başka bir cihazdaki Tutun ile tarayın. Kodda sunucu anahtarı var — başkalarına göstermeyin.
+Папка с журналом	Günlük klasörü
+Первый	İlk
+Переименовать…	Yeniden adlandır…
+Переподключение · интернет заблокирован	Yeniden bağlanıyor · internet engellendi
+По задержке	Gecikmeye göre
+По имени	Ada göre
+По одному в строке: example.com (с поддоменами), geosite:…, full:…, regexp:…	Satır başına bir tane: example.com (alt alan adlarıyla), geosite:…, full:…, regexp:…
+По правилам: российские сайты и банки напрямую, остальное через VPN.	Kurallara göre: Rus siteleri ve bankalar doğrudan, geri kalanı VPN üzerinden.
+Подключаться при запуске	Açılışta bağlan
+Подписка	Abonelik
+Подписки	Abonelikler
+Подписок нет	Abonelik yok
+Подпись новой версии не совпадает с текущей — установка отменена.	Yeni sürümün imzası mevcut sürümle eşleşmiyor — kurulum iptal edildi.
+Подробнее	Ayrıntılar
+Подходит и app.json с мака: серверы, подписки и настройки переносятся, ID устройства остаётся этим.	Mac'teki app.json da olur: sunucular, abonelikler ve ayarlar aktarılır, bu cihaz kendi kimliğini korur.
+Последний	Son kullanılan
+Предупреждать об окончании подписки за, дней	Abonelik bitmeden uyar, gün
+При ручном выборе сервера служба перейдёт на самый быстрый, если выбранный перестал отвечать.	Sunucu elle seçildiğinde, seçilen yanıt vermeyi keserse hizmet en hızlısına geçer.
+Принять и переподключить	Uygula ve yeniden bağlan
+Проверять связь каждые, с	Bağlantıyı kontrol et, her (sn)
+Профили в формате Happ (happ://routing/add/…) добавляются через «Добавить» или приходят с подпиской.	Happ biçimli profiller (happ://routing/add/…) “Ekle” ile eklenir veya abonelikle gelir.
+Профиль сохранён. В нём ключи серверов — храните как пароль.	Profil kaydedildi. Sunucu anahtarları içerir — parola gibi saklayın.
+Пусто — без пароля (не рекомендуется).	Boş — parolasız (önerilmez).
+Раз в 3 дня	3 günde bir
+Раздавать VPN в локальную сеть	VPN'i yerel ağda paylaş
+Режет приветствие TLS на части — помогает, когда сервер блокируют по SNI.	TLS selamlamasını parçalara böler — sunucu SNI ile engellendiğinde yardımcı olur.
+Сейчас не Wi-Fi, или Windows не даёт имя сети (Параметры → Конфиденциальность → Расположение: разрешите приложениям доступ).	Şu an Wi-Fi yok ya da Windows ağ adını vermiyor (Ayarlar → Gizlilik → Konum: uygulamalara erişim izni verin).
+Сервер вручную…	Elle sunucu…
+Сервер из подписки: после сохранения появится его копия среди добавленных вручную, а подписка останется как есть.	Abonelik sunucusu: kaydettikten sonra elle eklenenler arasında bir kopyası görünür, abonelik olduğu gibi kalır.
+Скопировать JSON	JSON'u kopyala
+Скопировать ссылку профиля	Profil bağlantısını kopyala
+Служба Tutun не отвечает	Tutun hizmeti yanıt vermiyor
+Служба Tutun не отвечает — перезапустите её в «Ещё»	Tutun hizmeti yanıt vermiyor — “Diğer” bölümünden yeniden başlatın
+Служба не установлена — нажмите «Установить службу»	Hizmet yüklü değil — “Hizmeti yükle”ye tıklayın
+Служба от другой версии Tutun — нажмите «Обновить службу».	Hizmet başka bir Tutun sürümüne ait — “Hizmeti güncelle”ye tıklayın.
+Служба сама восстанавливает подключение после перезагрузки компьютера, даже без окна.	Hizmet, bilgisayar yeniden başlatıldıktan sonra bağlantıyı pencere olmadan da kendisi geri getirir.
+Сортировка серверов	Sunucu sıralaması
+Сохранено. В файле ключи серверов — храните как пароль.	Kaydedildi. Dosyada sunucu anahtarları var — parola gibi saklayın.
+Сохранить…	Kaydet…
+Список виден при подключённом VPN в режиме «Весь трафик Windows».	Liste, VPN “Tüm Windows trafiği” modunda bağlıyken görünür.
+Список серверов	Sunucu listesi
+Ссылка (vless://, vmess://, trojan://, ss://, hysteria2://, tuic://, wireguard://, socks://)	Bağlantı (vless://, vmess://, trojan://, ss://, hysteria2://, tuic://, wireguard://, socks://)
+Ссылка подписки	Abonelik bağlantısı
+Ссылка подписки (https://…), ссылки серверов (vless, vmess, trojan, ss, hysteria2, tuic, wireguard, socks), happ://add, tutun://, JSON или конфиг WireGuard. Можно перетащить файл в окно.	Abonelik bağlantısı (https://…), sunucu bağlantıları (vless, vmess, trojan, ss, hysteria2, tuic, wireguard, socks), happ://add, tutun://, JSON veya WireGuard yapılandırması. Pencereye dosya sürükleyebilirsiniz.
+Ссылка профиля скопирована	Profil bağlantısı kopyalandı
+Ссылкой	Bağlantı olarak
+Стратегия доменов	Alan adı stratejisi
+Таблиц переводов пока нет в папке l10n — интерфейс останется на русском.	l10n klasöründe henüz çeviri tablosu yok — arayüz Rusça kalacak.
+Таймаут загрузки, с	İndirme zaman aşımı, sn
+Таймаут, с	Zaman aşımı, sn
+Только в режиме «Весь трафик». Служба блокирует интернет (фильтр Windows Filtering Platform), обнаружив падение туннеля, и снимает блокировку, когда он поднимется. Короткий промежуток до обнаружения аварии не защищён. Если сама служба упала, блокировка тоже снимается.	Yalnızca “Tüm trafik” modunda. Hizmet, tünelin düştüğünü fark edince interneti engeller (Windows Filtering Platform filtresi) ve tünel geri gelince kaldırır. Arızanın fark edilmesine kadarki kısa süre korunmaz. Hizmetin kendisi çökerse engel de kalkar.
+Только через VPN	Yalnızca VPN üzerinden
+У сервера нет исходной ссылки	Sunucunun özgün bağlantısı yok
+Удалить профиль	Profili sil
+Удалить службу Tutun? VPN отключится, подключаться будет нельзя до новой установки.	Tutun hizmeti kaldırılsın mı? VPN kesilecek ve yeniden yüklenene kadar bağlanılamayacak.
+Управление ссылками	Bağlantılarla denetim
+Устанавливаю…	Yükleniyor…
+Установка и удаление спрашивают права администратора. Файлы службы — C:\Program Files\Tutun, данные — C:\ProgramData\Tutun.	Yükleme ve kaldırma yönetici hakları ister. Hizmet dosyaları: C:\Program Files\Tutun, veriler: C:\ProgramData\Tutun.
+Установка отменена: нужны права администратора	Kurulum iptal edildi: yönetici hakları gerekli
+Установка отменена: нужны права администратора.	Kurulum iptal edildi: yönetici hakları gerekli.
+Файл слишком большой	Dosya çok büyük
+Формат tutun.profile v1 — для переноса серверов и сетевых настроек между Windows, Mac и Android. Сетевые настройки попадают в черновик: их нужно принять.	tutun.profile v1 biçimi — sunucuları ve ağ ayarlarını Windows, Mac ve Android arasında taşımak için. Ağ ayarları taslağa gider ve uygulanmaları gerekir.
+Через VPN по дням, 30 дней	Günlere göre VPN üzerinden, 30 gün
+Шумы (noises)	Gürültü (noises)
+Экспорт профиля…	Profili dışa aktar…
+Эта копия Tutun неполная (нет Tutun.Service.exe или bin\xray.exe, bin\sing-box.exe). Запустите Tutun.exe из папки собранной программы (dist\Tutun).	Bu Tutun kopyası eksik (Tutun.Service.exe veya bin\xray.exe, bin\sing-box.exe yok). Tutun.exe'yi derlenmiş program klasöründen (dist\Tutun) çalıştırın.
+Эта сборка Tutun не подписана сертификатом, поэтому установить обновление сама не может. Скачайте новую версию со страницы «Все версии».	Bu Tutun derlemesi sertifikayla imzalı değil, bu yüzden güncellemeyi kendisi yükleyemez. Yeni sürümü “Tüm sürümler” sayfasından indirin.
+без срока	süresiz
+проверка…	kontrol ediliyor…
+сервер	sunucu
+сервера	sunucu
+серверов	sunucu
+системный прокси	sistem proxy'si
+скорость…	hız…
+Загружаю и устанавливаю…	İndiriliyor ve yükleniyor…
+VPN не отключится: подключение держит служба, пока обновляется приложение.	VPN kesilmeyecek: uygulama güncellenirken bağlantıyı hizmet tutar.
+Держит VPN-подключение Tutun независимо от окна программы.	Tutun VPN bağlantısını program penceresinden bağımsız tutar.
+сейчас здесь	şu an burada
+Б/с	B/sn
+КБ/с	KB/sn
+МБ/с	MB/sn
+Мбит/с	Mbit/sn
+Повторить подключение	Bağlantıyı yeniden dene

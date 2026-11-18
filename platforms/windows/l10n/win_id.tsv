@@ -1,0 +1,156 @@
+ · от провайдера	 · dari penyedia
+1.1.1.1 (будет DoH), https://…/dns-query, tls://…	1.1.1.1 (memakai DoH), https://…/dns-query, tls://…
+ID устройства	ID perangkat
+JSON сервера скопирован	JSON server disalin
+Mux: потоков	Mux: aliran
+Outbound в JSON (xray, или sing-box для TUIC/Hysteria2)	Outbound dalam JSON (xray, atau sing-box untuk TUIC/Hysteria2)
+QR из картинки…	QR dari gambar…
+TCP-соединение	Koneksi TCP
+VPN не отключится во время обновления. Установить — в «Настройки → О Tutun»	VPN tidak akan terputus selama pembaruan. Pasang di “Pengaturan → Tentang Tutun”
+Установить — «Настройки → О Tutun».	Pasang di “Pengaturan → Tentang Tutun”.
+VPN-клиент на xray и sing-box	Klien VPN berbasis xray dan sing-box
+geosite/geoip ru, .ru, .su, .рф, Яндекс, VK, Госуслуги.	geosite/geoip ru, .ru, .su, .рф, Yandex, VK, Gosuslugi.
+tutun://connect, tutun://disconnect, tutun://toggle — можно вызывать из ярлыков и планировщика.	tutun://connect, tutun://disconnect, tutun://toggle — bisa dipanggil dari pintasan dan Penjadwal Tugas.
+Адреса, которые не попадают даже в xray. Только IP и подсети.	Alamat yang sama sekali tidak masuk ke xray. Hanya IP dan subnet.
+Без профиля	Tanpa profil
+Блокировать рекламу	Blokir iklan
+В архиве нет Tutun — установка отменена.	Arsip tidak berisi Tutun — pemasangan dibatalkan.
+В буфере нет текста	Tidak ada teks di papan klip
+В выпуске нет контрольной суммы — установка отменена.	Rilis tidak memiliki checksum — pemasangan dibatalkan.
+В доверенных сетях Tutun отключается, в остальных (и по кабелю) — подключается. Срабатывает при смене сети.	Di jaringan tepercaya Tutun memutus koneksi, di jaringan lain (termasuk kabel) menyambung. Bereaksi saat jaringan berganti.
+В стране — только избранные серверы, если они есть	Di dalam negara — hanya server favorit, jika ada
+Версия в архиве не совпадает с выпуском — установка отменена.	Versi dalam arsip tidak cocok dengan rilis — pemasangan dibatalkan.
+Весь трафик Windows	Semua lalu lintas Windows
+Весь трафик — через виртуальный адаптер (wintun), работает для всех программ. Прокси — только для программ, которые учитывают системный прокси (браузеры).	Semua lalu lintas melewati adaptor virtual (wintun) dan berlaku untuk semua program. Proksi hanya berlaku untuk program yang memakai proksi sistem (peramban).
+Восстановить…	Pulihkan…
+Вставьте ссылку	Tempel tautan
+Выход	Keluar
+Длина	Panjang
+Добавить текущую в доверенные	Tambahkan jaringan saat ini ke tepercaya
+Доверенные сети Wi-Fi	Jaringan Wi-Fi tepercaya
+Другие устройства подключаются к этому компьютеру как к прокси. Разрешите порты в брандмауэре Windows.	Perangkat lain terhubung ke komputer ini sebagai proksi. Izinkan port di Windows Firewall.
+Есть непринятые изменения	Ada perubahan yang belum diterapkan
+Журнал службы	Log layanan
+Журнал ядра	Log inti
+Загружаю…	Mengunduh…
+Запускать вместе с Windows (в трее)	Jalankan bersama Windows (di baki)
+Из файла…	Dari file…
+Изменить сервер	Ubah server
+Имена программ: Telegram.exe, steam.exe. Работает в режиме «Весь трафик Windows».	Nama program: Telegram.exe, steam.exe. Berlaku dalam mode “Semua lalu lintas Windows”.
+Имена сетей (SSID), по одному в строке.	Nama jaringan (SSID), satu per baris.
+Импорт профиля…	Impor profil…
+Имя	Nama
+Имя сервера	Nama server
+Использовать серверы подписки	Gunakan server langganan
+Каждые 12 часов	Setiap 12 jam
+Каждые 3 часа	Setiap 3 jam
+Каждые 6 часов	Setiap 6 jam
+Каждый час	Setiap jam
+Как в подписке	Seperti di langganan
+Как задать	Cara menentukan
+Контрольная сумма архива не совпала — установка отменена.	Checksum arsip tidak cocok — pemasangan dibatalkan.
+Мимо VPN	Lewati VPN
+Найдёт QR-код подписки или сервера на любом экране	Menemukan kode QR langganan atau server di layar mana pun
+Настоящий запрос	Permintaan nyata
+Настройки приняты	Pengaturan diterapkan
+Неверный владелец установки	Pemilik instalasi tidak valid
+Непринятые изменения настроек отменены	Perubahan pengaturan yang belum diterapkan dibatalkan
+Несколько соединений в одном. Не для XHTTP и Vision.	Beberapa koneksi dalam satu. Bukan untuk XHTTP atau Vision.
+Неудачных проверок подряд до переключения	Pemeriksaan gagal berturut-turut sebelum beralih
+Нужно панелям с лимитом устройств (Remnawave и др.).	Dibutuhkan panel dengan batas perangkat (Remnawave dll.).
+Нужны права администратора: служба держит VPN и меняет сеть	Perlu hak administrator: layanan menjaga VPN dan mengubah jaringan
+Обновить	Perbarui
+Обновить все	Perbarui semua
+Обновлять	Perbarui
+Обновлять подписки при запуске	Perbarui langganan saat dibuka
+Общий профиль Tutun	Profil Tutun bersama
+Обычный	Normal
+Окна	Jendela
+Определять домены (sniffing)	Deteksi domain (sniffing)
+Отключение…	Memutus…
+Открыть Tutun	Buka Tutun
+Отменить	Batalkan
+Отсканируйте камерой телефона или в Tutun на другом устройстве. В коде — ключ сервера, не показывайте посторонним.	Pindai dengan kamera ponsel atau Tutun di perangkat lain. Kode berisi kunci server — jangan tunjukkan ke orang lain.
+Папка с журналом	Folder log
+Первый	Pertama
+Переименовать…	Ganti nama…
+Переподключение · интернет заблокирован	Menyambung ulang · internet diblokir
+По задержке	Menurut latensi
+По имени	Menurut nama
+По одному в строке: example.com (с поддоменами), geosite:…, full:…, regexp:…	Satu per baris: example.com (dengan subdomain), geosite:…, full:…, regexp:…
+По правилам: российские сайты и банки напрямую, остальное через VPN.	Menurut aturan: situs dan bank Rusia langsung, sisanya lewat VPN.
+Подключаться при запуске	Sambungkan saat dibuka
+Подписка	Langganan
+Подписки	Langganan
+Подписок нет	Tidak ada langganan
+Подпись новой версии не совпадает с текущей — установка отменена.	Tanda tangan versi baru tidak cocok dengan yang sekarang — pemasangan dibatalkan.
+Подробнее	Rincian
+Подходит и app.json с мака: серверы, подписки и настройки переносятся, ID устройства остаётся этим.	app.json dari Mac juga bisa: server, langganan, dan pengaturan dipindahkan, perangkat ini tetap memakai ID-nya.
+Последний	Terakhir dipakai
+Предупреждать об окончании подписки за, дней	Peringatkan sebelum langganan berakhir, hari
+При ручном выборе сервера служба перейдёт на самый быстрый, если выбранный перестал отвечать.	Jika server dipilih manual, layanan beralih ke yang tercepat bila server terpilih berhenti merespons.
+Принять и переподключить	Terapkan dan sambungkan ulang
+Проверять связь каждые, с	Periksa koneksi tiap, d
+Профили в формате Happ (happ://routing/add/…) добавляются через «Добавить» или приходят с подпиской.	Profil format Happ (happ://routing/add/…) ditambahkan lewat “Tambah” atau datang bersama langganan.
+Профиль сохранён. В нём ключи серверов — храните как пароль.	Profil disimpan. Berisi kunci server — simpan seperti kata sandi.
+Пусто — без пароля (не рекомендуется).	Kosong — tanpa kata sandi (tidak disarankan).
+Раз в 3 дня	Setiap 3 hari
+Раздавать VPN в локальную сеть	Bagikan VPN ke jaringan lokal
+Режет приветствие TLS на части — помогает, когда сервер блокируют по SNI.	Memecah hello TLS menjadi beberapa bagian — membantu saat server diblokir lewat SNI.
+Сейчас не Wi-Fi, или Windows не даёт имя сети (Параметры → Конфиденциальность → Расположение: разрешите приложениям доступ).	Sekarang tidak memakai Wi-Fi, atau Windows menyembunyikan nama jaringan (Pengaturan → Privasi → Lokasi: izinkan akses aplikasi).
+Сервер вручную…	Server manual…
+Сервер из подписки: после сохранения появится его копия среди добавленных вручную, а подписка останется как есть.	Server dari langganan: setelah disimpan, salinannya muncul di antara yang ditambahkan manual, dan langganan tetap seperti semula.
+Скопировать JSON	Salin JSON
+Скопировать ссылку профиля	Salin tautan profil
+Служба Tutun не отвечает	Layanan Tutun tidak merespons
+Служба Tutun не отвечает — перезапустите её в «Ещё»	Layanan Tutun tidak merespons — mulai ulang di “Lainnya”
+Служба не установлена — нажмите «Установить службу»	Layanan belum dipasang — klik “Pasang layanan”
+Служба от другой версии Tutun — нажмите «Обновить службу».	Layanan berasal dari versi Tutun lain — klik “Perbarui layanan”.
+Служба сама восстанавливает подключение после перезагрузки компьютера, даже без окна.	Layanan memulihkan koneksi sendiri setelah komputer dinyalakan ulang, bahkan tanpa jendela.
+Сортировка серверов	Urutan server
+Сохранено. В файле ключи серверов — храните как пароль.	Disimpan. File berisi kunci server — simpan seperti kata sandi.
+Сохранить…	Simpan…
+Список виден при подключённом VPN в режиме «Весь трафик Windows».	Daftar terlihat saat VPN tersambung dalam mode “Semua lalu lintas Windows”.
+Список серверов	Daftar server
+Ссылка (vless://, vmess://, trojan://, ss://, hysteria2://, tuic://, wireguard://, socks://)	Tautan (vless://, vmess://, trojan://, ss://, hysteria2://, tuic://, wireguard://, socks://)
+Ссылка подписки	Tautan langganan
+Ссылка подписки (https://…), ссылки серверов (vless, vmess, trojan, ss, hysteria2, tuic, wireguard, socks), happ://add, tutun://, JSON или конфиг WireGuard. Можно перетащить файл в окно.	Tautan langganan (https://…), tautan server (vless, vmess, trojan, ss, hysteria2, tuic, wireguard, socks), happ://add, tutun://, JSON, atau konfigurasi WireGuard. File bisa diseret ke jendela.
+Ссылка профиля скопирована	Tautan profil disalin
+Ссылкой	Sebagai tautan
+Стратегия доменов	Strategi domain
+Таблиц переводов пока нет в папке l10n — интерфейс останется на русском.	Belum ada tabel terjemahan di folder l10n — antarmuka tetap berbahasa Rusia.
+Таймаут загрузки, с	Batas waktu unduh, d
+Таймаут, с	Batas waktu, d
+Только в режиме «Весь трафик». Служба блокирует интернет (фильтр Windows Filtering Platform), обнаружив падение туннеля, и снимает блокировку, когда он поднимется. Короткий промежуток до обнаружения аварии не защищён. Если сама служба упала, блокировка тоже снимается.	Hanya dalam mode “Semua lalu lintas”. Layanan memblokir internet (filter Windows Filtering Platform) saat mendeteksi terowongan jatuh, dan mencabutnya saat terowongan kembali. Jeda singkat sebelum gangguan terdeteksi tidak terlindungi. Jika layanan sendiri macet, blokir juga dicabut.
+Только через VPN	Hanya lewat VPN
+У сервера нет исходной ссылки	Server tidak punya tautan asli
+Удалить профиль	Hapus profil
+Удалить службу Tutun? VPN отключится, подключаться будет нельзя до новой установки.	Hapus layanan Tutun? VPN akan terputus dan tidak bisa tersambung sampai dipasang ulang.
+Управление ссылками	Kendali lewat tautan
+Устанавливаю…	Memasang…
+Установка и удаление спрашивают права администратора. Файлы службы — C:\Program Files\Tutun, данные — C:\ProgramData\Tutun.	Pemasangan dan penghapusan meminta hak administrator. File layanan: C:\Program Files\Tutun, data: C:\ProgramData\Tutun.
+Установка отменена: нужны права администратора	Pemasangan dibatalkan: perlu hak administrator
+Установка отменена: нужны права администратора.	Pemasangan dibatalkan: perlu hak administrator.
+Файл слишком большой	File terlalu besar
+Формат tutun.profile v1 — для переноса серверов и сетевых настроек между Windows, Mac и Android. Сетевые настройки попадают в черновик: их нужно принять.	Format tutun.profile v1 — untuk memindahkan server dan pengaturan jaringan antara Windows, Mac, dan Android. Pengaturan jaringan masuk ke draf dan harus diterapkan.
+Через VPN по дням, 30 дней	Lewat VPN per hari, 30 hari
+Шумы (noises)	Derau (noises)
+Экспорт профиля…	Ekspor profil…
+Эта копия Tutun неполная (нет Tutun.Service.exe или bin\xray.exe, bin\sing-box.exe). Запустите Tutun.exe из папки собранной программы (dist\Tutun).	Salinan Tutun ini tidak lengkap (tidak ada Tutun.Service.exe atau bin\xray.exe, bin\sing-box.exe). Jalankan Tutun.exe dari folder program hasil build (dist\Tutun).
+Эта сборка Tutun не подписана сертификатом, поэтому установить обновление сама не может. Скачайте новую версию со страницы «Все версии».	Build Tutun ini tidak ditandatangani sertifikat, jadi tidak bisa memasang pembaruan sendiri. Unduh versi baru dari halaman “Semua versi”.
+без срока	tanpa batas waktu
+проверка…	memeriksa…
+сервер	server
+сервера	server
+серверов	server
+системный прокси	proksi sistem
+скорость…	kecepatan…
+Загружаю и устанавливаю…	Mengunduh dan memasang…
+VPN не отключится: подключение держит служба, пока обновляется приложение.	VPN tidak akan terputus: layanan menjaga koneksi selama aplikasi diperbarui.
+Держит VPN-подключение Tutun независимо от окна программы.	Menjaga koneksi VPN Tutun terlepas dari jendela program.
+сейчас здесь	di sini sekarang
+Б/с	B/s
+КБ/с	KB/s
+МБ/с	MB/s
+Мбит/с	Mbit/s
+Повторить подключение	Coba sambungkan lagi

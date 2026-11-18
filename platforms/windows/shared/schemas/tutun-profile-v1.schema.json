@@ -1,0 +1,546 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "urn:tutun:profile:1",
+  "title": "Tutun configuration profile v1",
+  "type": "object",
+  "properties": {
+    "format": {
+      "const": "tutun.profile"
+    },
+    "schemaVersion": {
+      "const": 1
+    },
+    "servers": {
+      "type": "array",
+      "maxItems": 10000,
+      "items": {
+        "$ref": "#/$defs/server"
+      }
+    },
+    "subscriptions": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/subscription"
+      }
+    },
+    "routingProfiles": {
+      "type": "array",
+      "items": {
+        "$ref": "#/$defs/routingProfile"
+      }
+    },
+    "preferences": {
+      "$ref": "#/$defs/preferences"
+    }
+  },
+  "required": [
+    "format",
+    "schemaVersion",
+    "servers",
+    "subscriptions",
+    "routingProfiles",
+    "preferences"
+  ],
+  "additionalProperties": true,
+  "$defs": {
+    "server": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "name": {
+          "type": "string"
+        },
+        "proto": {
+          "type": "string"
+        },
+        "host": {
+          "type": "string",
+          "minLength": 1
+        },
+        "port": {
+          "type": "integer",
+          "minimum": 1,
+          "maximum": 65535
+        },
+        "transport": {
+          "type": "string"
+        },
+        "outboundJSON": {
+          "type": "string",
+          "contentMediaType": "application/json",
+          "contentSchema": {
+            "type": "object"
+          }
+        },
+        "engine": {
+          "type": "string",
+          "enum": [
+            "xray",
+            "singbox"
+          ]
+        },
+        "subscriptionID": {
+          "anyOf": [
+            {
+              "type": "string",
+              "format": "uuid"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "favorite": {
+          "type": "boolean"
+        },
+        "rawLink": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "proto",
+        "host",
+        "port",
+        "transport",
+        "outboundJSON"
+      ],
+      "additionalProperties": true
+    },
+    "subscription": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string",
+          "format": "uuid"
+        },
+        "name": {
+          "type": "string"
+        },
+        "url": {
+          "type": "string",
+          "format": "uri",
+          "pattern": "^[Hh][Tt][Tt][Pp][Ss]?://"
+        },
+        "updateIntervalHours": {
+          "type": "integer",
+          "minimum": 1,
+          "maximum": 168
+        },
+        "enabled": {
+          "type": "boolean"
+        },
+        "collapsed": {
+          "type": "boolean"
+        },
+        "lastUpdate": {
+          "anyOf": [
+            {
+              "type": "string",
+              "format": "date-time"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "expire": {
+          "anyOf": [
+            {
+              "type": "string",
+              "format": "date-time"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "lastError": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "announce": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "supportURL": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "webPageURL": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "upload": {
+          "type": "integer"
+        },
+        "download": {
+          "type": "integer"
+        },
+        "total": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "url"
+      ],
+      "additionalProperties": true
+    },
+    "routingProfile": {
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string",
+          "format": "uuid"
+        },
+        "name": {
+          "type": "string"
+        },
+        "globalProxy": {
+          "type": "boolean"
+        },
+        "fromSubscription": {
+          "anyOf": [
+            {
+              "type": "string",
+              "format": "uuid"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "directSites": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "directIPs": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "proxySites": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "proxyIPs": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "blockSites": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "blockIPs": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "domainStrategy": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "remoteDNS": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "directDNS": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "geoipURL": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "geositeURL": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        }
+      },
+      "required": [
+        "id",
+        "name",
+        "globalProxy",
+        "directSites",
+        "directIPs",
+        "proxySites",
+        "proxyIPs",
+        "blockSites",
+        "blockIPs"
+      ],
+      "additionalProperties": true
+    },
+    "preferences": {
+      "type": "object",
+      "properties": {
+        "blockAds": {
+          "type": "boolean"
+        },
+        "blockDomains": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "blockIPs": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "countryPick": {
+          "type": "string",
+          "enum": [
+            "fastest",
+            "lastUsed",
+            "first",
+            "random"
+          ]
+        },
+        "countryPreferFavorites": {
+          "type": "boolean"
+        },
+        "directDNS": {
+          "type": "string"
+        },
+        "directDomains": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "directIPs": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "domainStrategy": {
+          "type": "string"
+        },
+        "excludedRoutes": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "failover": {
+          "type": "boolean"
+        },
+        "fragment": {
+          "type": "boolean"
+        },
+        "fragmentInterval": {
+          "type": "string"
+        },
+        "fragmentLength": {
+          "type": "string"
+        },
+        "fragmentPackets": {
+          "type": "string"
+        },
+        "healthFailLimit": {
+          "type": "integer",
+          "minimum": 1,
+          "maximum": 10
+        },
+        "ipv6": {
+          "type": "boolean"
+        },
+        "mode": {
+          "type": "string",
+          "enum": [
+            "tun",
+            "proxy"
+          ]
+        },
+        "mux": {
+          "type": "boolean"
+        },
+        "muxConcurrency": {
+          "type": "integer",
+          "minimum": 1,
+          "maximum": 128
+        },
+        "noises": {
+          "type": "boolean"
+        },
+        "probeIntervalSec": {
+          "type": "integer",
+          "minimum": 10,
+          "maximum": 300
+        },
+        "proxyDomains": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "proxyIPs": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "remoteDNS": {
+          "type": "string"
+        },
+        "routingMode": {
+          "type": "string",
+          "enum": [
+            "rule",
+            "global",
+            "direct"
+          ]
+        },
+        "russiaDirect": {
+          "type": "boolean"
+        },
+        "sniffing": {
+          "type": "boolean"
+        },
+        "testTimeout": {
+          "type": "integer",
+          "minimum": 2,
+          "maximum": 30
+        },
+        "testURL": {
+          "type": "string",
+          "format": "uri",
+          "pattern": "^[Hh][Tt][Tt][Pp][Ss]?://"
+        },
+        "chainServerID": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "activeProfileID": {
+          "anyOf": [
+            {
+              "type": "string",
+              "format": "uuid"
+            },
+            {
+              "type": "null"
+            }
+          ]
+        }
+      },
+      "required": [
+        "blockAds",
+        "blockDomains",
+        "blockIPs",
+        "countryPick",
+        "countryPreferFavorites",
+        "directDNS",
+        "directDomains",
+        "directIPs",
+        "domainStrategy",
+        "excludedRoutes",
+        "failover",
+        "fragment",
+        "fragmentInterval",
+        "fragmentLength",
+        "fragmentPackets",
+        "healthFailLimit",
+        "ipv6",
+        "mode",
+        "mux",
+        "muxConcurrency",
+        "noises",
+        "probeIntervalSec",
+        "proxyDomains",
+        "proxyIPs",
+        "remoteDNS",
+        "routingMode",
+        "russiaDirect",
+        "sniffing",
+        "testTimeout",
+        "testURL"
+      ],
+      "additionalProperties": true
+    }
+  }
+}

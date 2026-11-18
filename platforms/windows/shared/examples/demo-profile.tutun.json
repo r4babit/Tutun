@@ -1,0 +1,69 @@
+{
+  "format" : "tutun.profile",
+  "preferences" : {
+    "blockAds" : false,
+    "blockDomains" : [
+
+    ],
+    "blockIPs" : [
+
+    ],
+    "countryPick" : "fastest",
+    "countryPreferFavorites" : true,
+    "directDNS" : "77.88.8.8",
+    "directDomains" : [
+
+    ],
+    "directIPs" : [
+
+    ],
+    "domainStrategy" : "IPIfNonMatch",
+    "excludedRoutes" : [
+
+    ],
+    "failover" : true,
+    "fragment" : false,
+    "fragmentInterval" : "10-20",
+    "fragmentLength" : "100-200",
+    "fragmentPackets" : "tlshello",
+    "healthFailLimit" : 3,
+    "ipv6" : false,
+    "mode" : "tun",
+    "mux" : false,
+    "muxConcurrency" : 8,
+    "noises" : false,
+    "probeIntervalSec" : 30,
+    "proxyDomains" : [
+
+    ],
+    "proxyIPs" : [
+
+    ],
+    "remoteDNS" : "1.1.1.1",
+    "routingMode" : "rule",
+    "russiaDirect" : true,
+    "sniffing" : true,
+    "testTimeout" : 5,
+    "testURL" : "https://www.gstatic.com/generate_204"
+  },
+  "routingProfiles" : [
+
+  ],
+  "schemaVersion" : 1,
+  "servers" : [
+    {
+      "engine" : "xray",
+      "favorite" : false,
+      "host" : "proxy.example.invalid",
+      "id" : "demo-socks",
+      "name" : "Example only",
+      "outboundJSON" : "{\"protocol\":\"socks\",\"settings\":{\"servers\":[{\"address\":\"proxy.example.invalid\",\"port\":1080}]}}",
+      "port" : 1080,
+      "proto" : "socks",
+      "transport" : "tcp"
+    }
+  ],
+  "subscriptions" : [
+
+  ]
+}

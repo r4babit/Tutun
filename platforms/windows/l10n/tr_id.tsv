@@ -1,0 +1,503 @@
+Как в системе	Sama seperti sistem
+Язык интерфейса	Bahasa
+Основные	Umum
+Маршруты	Perutean
+Сеть и туннель	Jaringan & tunnel
+Соединения	Koneksi
+Статистика	Statistik
+Журнал	Log
+Добавить	Tambah
+Ссылка на подписку от провайдера или ссылки серверов (vless://, vmess://, trojan://, ss://, hysteria2://, tuic://, wireguard://) — по одной в строке.	Tautan langganan dari penyedia atau tautan server (vless://, vmess://, trojan://, ss://, hysteria2://, tuic://, wireguard://) — satu per baris.
+Из буфера	Dari papan klip
+QR с экрана	QR dari layar
+QR-картинка	Gambar QR
+Файл	File
+Отмена	Batal
+Добавлен WireGuard «%@»	WireGuard “%@” ditambahkan
+Автозапуск: %@	Mulai saat login: %@
+Не удалось сохранить настройки: %@	Tidak dapat menyimpan pengaturan: %@
+Tutun: сервер сменился	Tutun: server berganti
+Сейчас: %@	Sekarang: %@
+Tutun подключён	Tutun terhubung
+Tutun: связь восстановлена	Tutun: koneksi dipulihkan
+Tutun переподключается	Tutun menyambung ulang
+Связь с сервером пропала	Koneksi ke server terputus
+Tutun отключён	Tutun terputus
+Tutun: ошибка подключения	Tutun: kesalahan koneksi
+Служба не запущена — установите её в настройках	Layanan tidak berjalan — instal di Pengaturan
+Служба устарела — нажмите «Обновить службу» в настройках	Layanan sudah usang — klik “Perbarui layanan” di Pengaturan
+Нет серверов — добавьте подписку	Tidak ada server — tambahkan langganan
+«%@»: %@. Выберите другой сервер.	“%@”: %@. Pilih server lain.
+Нет подходящих серверов	Tidak ada server yang cocok
+Самый быстрый	Tercepat
+Пропущены серверы, которые ядро не приняло: 	Server yang ditolak inti dilewati: 
+Не удалось подключиться: ядро не приняло несколько серверов подряд	Tidak dapat terhubung: inti menolak beberapa server berturut-turut
+Не удалось включить перехват трафика	Tidak dapat memulai penangkapan lalu lintas
+Не удалось подключиться	Tidak dapat terhubung
+ к «%@»	 ke “%@”
+Добавленные вручную	Ditambahkan manual
+Другие	Lainnya
+Такая подписка уже есть	Langganan ini sudah ada
+Пропущено: %@ — 	Dilewati: %@ — 
+Подписка «%@» заканчивается	Langganan “%@” akan berakhir
+Срок истёк	Kedaluwarsa
+Осталось дней: %@	Sisa hari: %@
+Пусто	Kosong
+серверов: %@	server: %@
+профилей маршрутов: %@	profil perutean: %@
+Ничего не распознано	Tidak ada yang dikenali
+Добавлено 	Ditambahkan 
+. Пропущено: %@	. Dilewati: %@
+QR-код не найден	Kode QR tidak ditemukan
+пусто	kosong
+Нерабочих серверов нет	Tidak ada server mati
+Убрано нерабочих серверов: %@	Server mati dihapus: %@
+Сервер не принят ядром	Server ditolak oleh inti
+%@: не удалось скачать тестовый файл	%@: tidak dapat mengunduh file uji
+Happ (VPN включён)	Happ (VPN aktif)
+Гео-базы обновлены	Basis data geo diperbarui
+Доверенная сеть «%@»	Jaringan tepercaya “%@”
+Профиль «%@» добавлен	Profil “%@” ditambahkan
+Восстановлено: серверов %@, подписок %@	Dipulihkan: %@ server, %@ langganan
+Служба установлена	Layanan terinstal
+Служба установлена, но не отвечает — смотрите /var/log/tutun.log	Layanan terinstal, tetapi tidak merespons — lihat /var/log/tutun.log
+Служба удалена	Layanan dihapus
+Служба не запущена	Layanan tidak berjalan
+Нет связи с сервером	Tidak ada koneksi ke server
+Подключено	Terhubung
+Подключение…	Menyambung…
+Переподключение…	Menyambung ulang…
+Ошибка подключения	Kesalahan koneksi
+Отключено	Terputus
+нет ответа	tidak ada respons
+%@ миллисекунд	%@ milidetik
+не проверен	belum diuji
+%@ мс	%@ md
+По правилам	Sesuai aturan
+Всё через VPN	Semua lewat VPN
+Напрямую	Langsung
+Российские сайты и банки напрямую, остальное через VPN	Situs dan bank Rusia langsung, sisanya lewat VPN
+Всё через VPN, включая российские сайты	Semuanya lewat VPN, termasuk situs Rusia
+VPN включён, но трафик идёт напрямую	VPN aktif, tetapi lalu lintas berjalan langsung
+Нет ресурсов приложения	Sumber daya app tidak ada
+Не найден %@. Запускайте собранное приложение Tutun.app	%@ tidak ditemukan. Jalankan Tutun.app yang sudah dibuild
+Отменено	Dibatalkan
+Добавить подписку или серверы	Tambah langganan atau server
+Настройки	Pengaturan
+Скрыть настройки	Sembunyikan pengaturan
+Показать настройки	Tampilkan pengaturan
+Серверы	Server
+Скрыть список серверов	Sembunyikan daftar server
+Показать список серверов	Tampilkan daftar server
+Задержка	Latensi
+Загрузка	Unduh
+В сети	Online
+Отдача	Unggah
+Установите службу, чтобы подключаться	Instal layanan untuk terhubung
+всё через VPN	semua lewat VPN
+Нажмите «Подключить»	Klik “Hubungkan”
+самый быстрый из списка	tercepat dalam daftar
+последний выбранный	terakhir dipilih
+первый в списке	pertama dalam daftar
+случайный из списка	acak dari daftar
+выбран автоматически	dipilih otomatis
+выбран вручную	dipilih manual
+Tutun выберет сам	Tutun akan memilih sendiri
+Обновить службу	Perbarui layanan
+Установить службу	Instal layanan
+Отключить	Putuskan
+Подключить	Hubungkan
+Осталась служба от прошлой версии — нажмите «Обновить службу».	Layanan dari versi sebelumnya masih terinstal — klik “Perbarui layanan”.
+Работает другой VPN: %@. Выключите его.	VPN lain sedang berjalan: %@. Matikan.
+Избранное	Favorit
+Серверов пока нет	Belum ada server
+Нажмите «Добавить» и вставьте ссылку на подписку	Klik “Tambah” dan tempel tautan langganan
+Добавить подписку	Tambah langganan
+Tutun выберет сам и переключит при обрыве	Tutun memilih sendiri dan berpindah jika terputus
+Свернуть	Ciutkan
+Развернуть	Luaskan
+Проверить задержку	Uji latensi
+Информация о подписке	Info langganan
+ · сейчас здесь	 · terhubung di sini
+Подключиться к самому быстрому серверу страны	Hubungkan ke server tercepat di negara ini
+Скрыть серверы	Sembunyikan server
+Показать серверы страны	Tampilkan server negara ini
+сейчас	sekarang
+Подключиться	Hubungkan
+Самый быстрый в стране «%@»	Tercepat di %@
+Тест скорости	Uji kecepatan
+Убрать из избранного	Hapus dari favorit
+В избранное	Tambah ke favorit
+Изменить…	Edit…
+Скопировать ссылку	Salin tautan
+Показать QR-код	Tampilkan kode QR
+Удалить	Hapus
+Скрыть	Sembunyikan
+В избранное — будет вверху списка	Tambah ke favorit — ditampilkan di atas daftar
+Открыть окно	Buka jendela
+Закрыть Tutun. VPN продолжит работать через службу	Keluar dari Tutun. VPN tetap berjalan lewat layanan
+Новый сервер	Server baru
+Сервер «%@»	Server “%@”
+Сервер из подписки: изменения сохранятся как отдельный сервер, а переименование — для этого же.	Server dari langganan: perubahan disimpan sebagai server terpisah, sedangkan penggantian nama berlaku untuk server ini.
+Название	Nama
+Ссылка	Tautan
+Сохранить	Simpan
+Слишком длинно для QR-кода	Terlalu panjang untuk kode QR
+Отсканируйте телефоном (Happ, INCY, v2RayTun и др.)	Pindai dengan ponsel (Happ, INCY, v2RayTun, dll.)
+Закрыть	Tutup
+напрямую	langsung
+через VPN	lewat VPN
+Б	B
+КБ	KB
+МБ	MB
+ГБ	GB
+ТБ	TB
+/с	/d
+%.1f Мбит/с	%.1f Mbps
+Сеть	Jaringan
+Ещё	Lainnya
+Принять изменения	Terapkan perubahan
+Переподключить VPN с новыми настройками	Sambungkan ulang VPN dengan pengaturan baru
+Выбрать	Pilih
+Другое значение…	Nilai kustom…
+От %@ до %@	Dari %@ hingga %@
+Число	Angka
+Подключение	Koneksi
+Режим	Mode
+Весь трафик мака	Semua lalu lintas Mac
+Системный прокси	Proksi sistem
+Аварийная блокировка при потере туннеля	Blokir darurat jika tunnel terputus
+В режиме всего трафика служба блокирует интернет, обнаружив падение туннеля, до его восстановления. Короткий промежуток до обнаружения аварии не защищён.	Dalam mode semua lalu lintas, layanan memblokir internet saat mendeteksi tunnel terputus, hingga dipulihkan. Jeda singkat sebelum gangguan terdeteksi tidak terlindungi.
+Запасной сервер	Server cadangan
+Если выбранный сервер перестал отвечать, Tutun переключится на самый быстрый из отвечающих.	Jika server yang dipilih berhenti merespons, Tutun beralih ke server tercepat yang merespons.
+Проверять связь каждые	Periksa koneksi setiap
+с	d
+Сервер не отвечает после	Server dianggap mati setelah
+проверок	pemeriksaan
+Автопереключение	Peralihan otomatis
+Пока сервер отвечает, Tutun остаётся на нём, даже если другой быстрее. Перестал отвечать — переходит на самый быстрый из рабочих в том же списке (самый быстрый, страна или запасной).	Selama server merespons, Tutun tetap di sana meski ada yang lebih cepat. Jika berhenti merespons, Tutun pindah ke yang tercepat dan berfungsi dalam daftar yang sama (tercepat, negara, atau cadangan).
+К какому серверу подключаться	Server mana yang dihubungkan
+Самый быстрый из списка	Tercepat dalam daftar
+Последний выбранный в стране	Terakhir dipilih di negara
+Первый в списке	Pertama dalam daftar
+Случайный	Acak
+Сначала избранные серверы страны	Server favorit negara lebih dulu
+Клик по стране	Klik pada negara
+Запуск	Mulai
+Открывать Tutun при входе в систему	Buka Tutun saat login
+Подключаться при запуске Tutun	Hubungkan saat Tutun dimulai
+Значок в Dock, пока открыто окно	Tampilkan di Dock saat jendela terbuka
+После перезагрузки мака VPN включается сам, даже без окна: подключение держит служба.	Setelah Mac dimulai ulang, VPN aktif sendiri, bahkan tanpa jendela: layanan menjaga koneksi.
+Уведомления	Notifikasi
+Показывать уведомления	Tampilkan notifikasi
+Подключение, обрыв, смена сервера, конец подписки.	Koneksi, terputus, pergantian server, langganan berakhir.
+Автоматически по Wi-Fi	Otomatis berdasarkan Wi-Fi
+Включать VPN в чужих сетях	Aktifkan VPN di jaringan asing
+В доверенных сетях Tutun отключается, в остальных — подключается сам.	Di jaringan tepercaya Tutun terputus; di jaringan lain terhubung sendiri.
+Нужен доступ к геопозиции	Perlu akses lokasi
+Разрешить	Izinkan
+Без него macOS не сообщает приложениям имя сети Wi-Fi.	Tanpa itu, macOS tidak memberi tahu app nama jaringan Wi-Fi.
+Текущая сеть	Jaringan saat ini
+неизвестна	tidak diketahui
+Доверенные сети	Jaringan tepercaya
+Имя сети Wi-Fi, по одному в строке	Nama jaringan Wi-Fi, satu per baris
+Добавить «%@» в доверенные	Tambahkan “%@” ke tepercaya
+Tutun берёт самый быстрый сервер страны и при обрыве сам переключается на другой сервер этой страны.	Tutun memakai server tercepat di negara dan, jika terputus, beralih sendiri ke server lain di negara itu.
+Tutun подключается к серверу, который вы последним выбрали в этой стране вручную. Если такого нет — к самому быстрому.	Tutun terhubung ke server yang terakhir Anda pilih manual di negara ini. Jika tidak ada, ke yang tercepat.
+Tutun подключается к первому серверу страны по алфавиту.	Tutun terhubung ke server pertama negara menurut abjad.
+Tutun подключается к случайному рабочему серверу страны.	Tutun terhubung ke server aktif acak di negara ini.
+ Если в стране есть серверы со звёздочкой, выбор идёт только среди них.	 Jika negara punya server berbintang, hanya itu yang dipertimbangkan.
+Что пускать через VPN	Yang lewat VPN
+Всё	Semua
+Ничего (напрямую)	Tidak ada (langsung)
+Российские сайты — напрямую	Situs Rusia — langsung
+Банки, Госуслуги, .ru, .рф и российские IP идут без VPN — так они не ломаются.	Bank, Gosuslugi, .ru, .рф, dan IP Rusia tidak lewat VPN agar tetap berfungsi.
+Блокировать рекламу и трекеры	Blokir iklan dan pelacak
+Профиль маршрутов	Profil perutean
+Профиль	Profil
+Нет	Tidak ada
+Напрямую: %@ · через VPN: %@ · блок: %@	Langsung: %@ · lewat VPN: %@ · blokir: %@
+happ://routing/add/… или JSON профиля	happ://routing/add/… atau JSON profil
+Профиль не распознан	Profil tidak dikenali
+Всегда через VPN	Selalu lewat VPN
+Всегда напрямую	Selalu langsung
+Блокировать	Blokir
+Сайты	Situs
+Домен на строку — с поддоменами. Можно geosite:…, full:…, regexp:…, keyword:…	Satu domain per baris, termasuk subdomain. Bisa memakai geosite:…, full:…, regexp:…, keyword:…
+Через VPN	Lewat VPN
+Мимо туннеля целиком	Lewati tunnel sepenuhnya
+10.0.0.0/8 — рабочая сеть, NAS	10.0.0.0/8 — jaringan kantor, NAS
+IP-адреса	Alamat IP
+Приложения	App
+Выбранные — мимо VPN	Yang dipilih — tanpa VPN
+Только выбранные — через VPN	Hanya yang dipilih — lewat VPN
+Имя процесса, по одному в строке	Nama proses, satu per baris
+Выбрать приложение…	Pilih app…
+Работает в режиме «Весь трафик мака».	Berfungsi dalam mode “Semua lalu lintas Mac”.
+Дополнительно	Lanjutan
+Как сопоставлять домены	Pencocokan domain
+Как есть	Apa adanya
+IP, если нет совпадения	IP jika tidak cocok
+Сразу по IP	Langsung ke IP
+1.1.1.1 или https://…	1.1.1.1 atau https://…
+Для российских сайтов	Untuk situs Rusia
+Фрагментация TLS	Fragmentasi TLS
+Помогает, когда провайдер режет VPN по признакам соединения (DPI).	Membantu saat ISP membatasi VPN berdasarkan ciri koneksi (DPI).
+Пакеты	Paket
+Длина, байт	Panjang, byte
+Интервал, мс	Interval, md
+Шумовые пакеты	Paket derau
+Несколько соединений в одном канале. К серверам с XTLS Vision и XHTTP не применяется.	Beberapa koneksi dalam satu saluran. Tidak berlaku untuk server dengan XTLS Vision dan XHTTP.
+Потоков	Aliran
+Определять сайты по трафику (sniffing)	Deteksi situs dari lalu lintas (sniffing)
+Обход блокировок	Melewati pemblokiran
+Раздавать VPN другим устройствам	Bagikan VPN ke perangkat lain
+SOCKS-порт	Port SOCKS
+HTTP-порт	Port HTTP
+Логин	Nama pengguna
+пусто — без пароля	kosong — tanpa kata sandi
+Пароль	Kata sandi
+Адрес для телефона	Alamat untuk ponsel
+IP мака	IP Mac
+Локальная сеть	Jaringan lokal
+На телефоне: Wi-Fi → Прокси → Вручную, указать адрес и порт.	Di ponsel: Wi-Fi → Proksi → Manual, masukkan alamat dan port.
+Проверка серверов	Pengujian server
+Способ	Metode
+Настоящий запрос через сервер	Permintaan nyata melalui server
+Только соединение (быстрее)	Hanya koneksi (lebih cepat)
+Адрес проверки	URL uji
+Ждать до	Batas waktu
+Проверять при запуске	Uji saat dibuka
+Проверять после обновления подписки	Uji setelah langganan diperbarui
+Соединений нет	Tidak ada koneksi
+Список виден при подключённом VPN в режиме «Весь трафик мака».	Daftar tampil saat VPN terhubung dalam mode “Semua lalu lintas Mac”.
+Сайт или приложение	Situs atau app
+%@ активных	%@ aktif
+Закрыть все	Tutup semua
+Соединений пока нет — они появятся, как только приложения выйдут в интернет	Belum ada koneksi — akan muncul begitu app terhubung ke internet
+Ничего не найдено	Tidak ada hasil
+«через VPN» — отдано ядру; российские сайты ядро дальше отправит напрямую по правилам.	“lewat VPN” berarti diserahkan ke inti; inti lalu mengirim situs Rusia langsung sesuai aturan.
+Закрыть соединение	Tutup koneksi
+Сегодня	Hari ini
+Этот месяц	Bulan ini
+Текущая сессия	Sesi saat ini
+По дням, 30 дней	Harian, 30 hari
+Пока пусто	Belum ada
+День	Hari
+Тип	Jenis
+По серверам	Per server
+IP-адрес	Alamat IP
+Без VPN	Tanpa VPN
+Проверить	Periksa
+Сбросить статистику	Reset statistik
+Найти в журнале	Cari di log
+Ошибки	Kesalahan
+Предупреждения	Peringatan
+Подробно	Info
+Отладка	Debug
+Открыть файл	Buka file
+Скопировать	Salin
+Открываются отдельным небольшим окном.	Dibuka di jendela kecil terpisah.
+Как Tutun запрашивает подписки	Cara Tutun mengambil langganan
+Отправлять ID устройства	Kirim ID perangkat
+Нужно провайдерам с лимитом устройств. ID этого мака: %@	Diperlukan penyedia dengan batas perangkat. ID Mac ini: %@
+Ждать ответа до	Batas waktu respons
+Обновлять при запуске	Perbarui saat dibuka
+Пропускать одинаковые серверы	Lewati server duplikat
+Предупреждать об окончании за	Peringatkan sebelum berakhir
+дн.	hari
+Добавлены вручную	Ditambahkan manual
+Скрыты	Disembunyikan
+Вернуть все	Pulihkan semua
+Скопировать все ссылки	Salin semua tautan
+Ссылки скопированы	Tautan disalin
+Убрать нерабочие	Hapus yang mati
+Служба	Layanan
+Состояние	Status
+работает, версия %@	berjalan, versi %@
+ — устарела	 — usang
+установлена, не отвечает	terinstal, tidak merespons
+не установлена	tidak terinstal
+Перезапусков ядра	Restart inti
+Переустановить службу	Instal ulang layanan
+Удалить службу	Hapus layanan
+Обновлять раз в неделю	Perbarui seminggu sekali
+Обновлены	Diperbarui
+ещё нет	belum
+Обновить сейчас	Perbarui sekarang
+Гео-базы	Basis data geo
+Списки стран и сайтов для правил. По умолчанию — runetfreedom для России.	Daftar negara dan situs untuk aturan. Default: runetfreedom untuk Rusia.
+Резервная копия	Cadangan
+Сохранить в файл…	Simpan ke file…
+Восстановить из файла…	Pulihkan dari file…
+Открыть папку данных	Buka folder data
+В копии подписки, серверы и настройки. Храните как пароль — там ключи серверов.	Cadangan berisi langganan, server, dan pengaturan. Simpan seperti kata sandi — ada kunci server di dalamnya.
+Управление из «Команд» и Терминала	Kontrol dari Pintasan dan Terminal
+Включить	Aktifkan
+Выключить	Nonaktifkan
+Переключить	Alihkan
+Ссылки vless://, vmess://, trojan://, ss://, hysteria2://, tuic://, wireguard:// открываются в Tutun по клику.	Tautan vless://, vmess://, trojan://, ss://, hysteria2://, tuic://, wireguard:// dibuka di Tutun saat diklik.
+Копия сохранена	Cadangan disimpan
+Не удалось восстановить: %@	Tidak dapat memulihkan: %@
+Трафик	Lalu lintas
+ из %@	 dari %@
+, без лимита	, tanpa batas
+Действует до	Berlaku hingga
+ · ещё %@ дн.	 · sisa %@ hari
+ · истекла	 · kedaluwarsa
+Серверов	Server
+Обновлена	Diperbarui
+Сообщение провайдера	Pesan dari penyedia
+Показать	Tampilkan
+Обновлять каждые	Perbarui setiap
+ч	j
+Показывать серверы этой подписки	Tampilkan server langganan ini
+Ссылка скопирована	Tautan disalin
+QR-код	Kode QR
+Поддержка	Dukungan
+Кабинет	Akun
+Удалить подписку	Hapus langganan
+Удалить подписку и все её серверы?	Hapus langganan beserta semua servernya?
+Вернуть можно, снова добавив ссылку на подписку.	Bisa dikembalikan dengan menambahkan tautan langganan lagi.
+Подписка работает	Langganan berfungsi
+Не удалось обновить	Tidak dapat memperbarui
+Ядро проверки не открыло порт	Inti pengujian tidak membuka port
+Ядро проверки не запустилось: 	Inti pengujian tidak dapat dimulai: 
+нет подходящих серверов	tidak ada server yang cocok
+Нужно от 1 до 25 серверов	Perlu 1 sampai 25 server
+Внешние файлы правил недопустимы в конфиге службы	File aturan eksternal tidak diizinkan dalam konfigurasi layanan
+Недопустимые параметры подключения	Parameter koneksi tidak valid
+Порты локальной сети совпадают или заняты Tutun	Port jaringan lokal bentrok atau dipakai Tutun
+Недопустимый протокол или доступ к файлам в конфиге сервера	Protokol tidak valid atau akses file dalam konfigurasi server
+Служба Tutun не запущена	Layanan Tutun tidak berjalan
+Ошибка связи со службой: %@	Kesalahan komunikasi dengan layanan: %@
+пустой ответ	respons kosong
+не поддерживается: %@	tidak didukung: %@
+ссылка повреждена: %@	tautan rusak: %@
+нет схемы	tanpa skema
+AmneziaWG (его не умеет ни xray, ни sing-box)	AmneziaWG (xray maupun sing-box tidak mendukungnya)
+зашифрованная ссылка Happ — открывается только в Happ	tautan Happ terenkripsi — hanya bisa dibuka di Happ
+JSON не читается	JSON tidak dapat dibaca
+конфиг %@: нет сервера	konfigurasi %@: tidak ada server
+Сервер %@	Server %@
+%@: нет ключа	%@: tidak ada kunci
+Shadowsocks с плагином	Shadowsocks dengan plugin
+tuic: нет uuid	tuic: tidak ada uuid
+wireguard: нет ключей	wireguard: tidak ada kunci
+конфиг WireGuard	konfigurasi WireGuard
+без шифрования — новая версия xray такие запрещает	tanpa enkripsi — xray versi baru melarangnya
+Не удалось прочитать настройки	Tidak dapat membaca pengaturan
+Неверная ссылка подписки	Tautan langganan tidak valid
+Сервер подписки ответил ошибкой %@	Server langganan merespons dengan kesalahan %@
+Провайдер: превышен лимит устройств. Удалите старое устройство в кабинете/боте провайдера и обновите подписку.	Penyedia: batas perangkat tercapai. Hapus perangkat lama di akun/bot penyedia dan perbarui langganan.
+Провайдер не выдал серверы этому устройству (включите «Отправлять ID устройства»).	Penyedia tidak memberikan server ke perangkat ini (aktifkan “Kirim ID perangkat”).
+В подписке нет поддерживаемых серверов	Langganan tidak memiliki server yang didukung
+Некорректные общие сетевые настройки	Pengaturan jaringan bersama tidak valid
+Профиль больше 16 МБ	Profil lebih dari 16 MB
+Неподдерживаемый формат или версия профиля	Format atau versi profil tidak didukung
+Слишком много серверов или повторяются идентификаторы	Terlalu banyak server atau ID duplikat
+Некорректный сервер или отсутствует связанная подписка	Server tidak valid atau langganan terkait tidak ada
+Некорректная подписка	Langganan tidak valid
+Некорректные настройки или ссылки на отсутствующие элементы	Pengaturan tidak valid atau merujuk ke item yang tidak ada
+Отсутствует подписка профиля маршрутов	Langganan profil perutean tidak ada
+Нет конфига	Tidak ada konfigurasi
+Нет конфига TUN	Tidak ada konfigurasi TUN
+Обновите приложение: требуется описание подключения	Perbarui app: deskripsi koneksi diperlukan
+xray не принял конфиг: 	xray menolak konfigurasi: 
+sing-box не принял конфиг: 	sing-box menolak konfigurasi: 
+Не записать конфиг: 	Tidak dapat menulis konfigurasi: 
+Новые гео-базы не подошли, вернул старые: 	Basis data geo baru tidak cocok, yang lama dipulihkan: 
+Обновлено: 	Diperbarui: 
+Неверный запрос: 	Permintaan tidak valid: 
+Tutun узнаёт имя Wi-Fi, чтобы выключать VPN в доверенных сетях.	Tutun membaca nama Wi-Fi untuk mematikan VPN di jaringan tepercaya.
+Версия %@	Versi %@
+VPN-клиент для Mac на xray и sing-box	Klien VPN untuk Mac berbasis xray dan sing-box
+Обновления	Pembaruan
+Что нового	Yang baru
+Установить и перезапустить	Pasang dan mulai ulang
+Проверить обновления	Periksa pembaruan
+Проект	Proyek
+Страница на GitHub	Halaman GitHub
+Все версии	Semua versi
+Ещё не проверялось	Belum diperiksa
+Проверяю…	Memeriksa…
+У вас последняя версия	Anda memakai versi terbaru
+Доступна версия %@	Versi %@ tersedia
+Загружаю и устанавливаю…	Mengunduh dan memasang…
+О программе	Tentang
+О Tutun	Tentang Tutun
+GitHub ответил ошибкой %@	GitHub mengembalikan galat %@
+В релизе %@ нет файла Tutun.zip	Rilis %@ tidak memiliki file Tutun.zip
+Доступно обновление Tutun %@	Tutun %@ tersedia
+Нет прав на запись в папку %@	Tidak ada izin menulis ke %@
+Не удалось скачать обновление	Tidak dapat mengunduh pembaruan
+Контрольная сумма не совпала — файл повреждён	Checksum tidak cocok — file rusak
+В архиве не то приложение	Arsip berisi app yang salah
+%@ завершился с ошибкой %@	%@ gagal dengan galat %@
+Проверять автоматически	Periksa otomatis
+Как часто	Seberapa sering
+Раз в день	Sekali sehari
+Раз в неделю	Sekali seminggu
+Раз в 2 недели	Setiap 2 minggu
+Раз в месяц	Sekali sebulan
+Обновления приходят из выпусков GitHub. Если вышла новая версия службы, приложение предложит её обновить.	Pembaruan berasal dari rilis GitHub. Jika versi layanan baru dirilis, app akan menawarkan untuk memperbaruinya.
+VPN не отключится: подключение держит служба, пока обновляется приложение.	VPN tetap aktif: layanan menjaga koneksi selama app diperbarui.
+Доступна версия %@ — нажмите, чтобы обновить. VPN не отключится.	Versi %@ tersedia — klik untuk memperbarui. VPN tetap aktif.
+VPN не отключится во время обновления. Установить — в «Настройки → О программе».	VPN tetap aktif selama pembaruan. Instal di “Pengaturan → Tentang”.
+Разрешить подписки по http	Izinkan langganan http
+Небезопасно: по http ключи серверов видны провайдеру и любому в сети, список могут подменить. Включайте только для своей панели без https. ID устройства по http не отправляется.	Tidak aman: lewat http, penyedia Anda dan siapa pun di jaringan bisa melihat kunci server dan mengganti daftarnya. Aktifkan hanya untuk panel Anda sendiri tanpa https. ID perangkat tidak pernah dikirim lewat http.
+Подписка по http:// не защищена. Если это ваша панель без https, включите «Разрешить подписки по http» в настройках подписок.	Langganan http:// ini tidak terlindungi. Jika ini panel Anda sendiri tanpa https, aktifkan «Izinkan langganan http» di pengaturan langganan.
+Сайты страны — напрямую	Situs negara — langsung
+Нет — всё по остальным правилам	Tidak ada — ikuti aturan lain
+Россия	Rusia
+Китай	Tiongkok
+Иран	Iran
+Мьянма	Myanmar
+Турция	Turki
+ОАЭ	UEA
+Банки, госуслуги и местные сервисы выбранной страны идут без VPN. Россия, Китай, Иран — готовые списки сайтов и IP-адреса страны; Мьянма — банки и доменная зона; Турция, ОАЭ — только доменная зона (.tr, .ae).	Bank, layanan pemerintah, dan situs lokal negara yang dipilih berjalan tanpa VPN. Rusia, Tiongkok, Iran — daftar situs siap pakai dan alamat IP negara; Myanmar — bank dan zona domain; Turki, UEA — hanya zona domain (.tr, .ae).
+Для сайтов страны (напрямую)	Untuk situs negara (langsung)
+77.88.8.8 — для России; при другой стране вместо него берётся DNS провайдера.	77.88.8.8 untuk Rusia; untuk negara lain dipakai DNS penyedia.
+Неизвестная страна для правил «напрямую»	Negara tidak dikenal untuk aturan langsung
+Отключить VPN?	Putuskan VPN?
+Команду отключения передала другая программа или сайт по ссылке tutun://.	Aplikasi atau situs web lain mengirim perintah pemutusan melalui tautan tutun://.
+Добавить из ссылки?	Tambahkan dari tautan?
+Ссылку передала другая программа или сайт: %@	Tautan ini dikirim oleh aplikasi atau situs web lain: %@
+обязательно	wajib
+Для раздачи в локальную сеть задайте логин и пароль	Atur login dan kata sandi untuk berbagi VPN di jaringan lokal
+Нет свободного порта для проверки	Tidak ada port kosong untuk pengujian
+Устанавливаю службу…	Memasang layanan…
+Обновляю службу…	Memperbarui layanan…
+Запускаю службу…	Memulai layanan…
+В резервной копии — ссылки подписок и ключи серверов. Храните её как пароль и никому не отправляйте.	Cadangan berisi tautan langganan dan kunci server. Simpan seperti kata sandi dan jangan kirim ke siapa pun.
+Работает, пока Tutun запущен (значок в строке меню). Если закрыть Tutun, VPN останется, а переключение по Wi-Fi — нет.	Berfungsi selama Tutun berjalan (ikon di bilah menu). Jika Tutun ditutup, VPN tetap aktif, tetapi peralihan menurut Wi-Fi berhenti.
+Считается, пока Tutun запущен.	Dihitung selama Tutun berjalan.
+Эта версия Tutun отозвана — установите обновление %@	Versi Tutun ini telah ditarik — pasang pembaruan %@
+Подпись обновления не прошла проверку — файл не от автора Tutun	Tanda tangan pembaruan gagal diverifikasi — berkas bukan dari pembuat Tutun
+Провайдер перенёс подписку на новый адрес: %@	Penyedia memindahkan langganan ke alamat baru: %@
+Подробнее	Selengkapnya
+обновляются по ссылке провайдера	diperbarui dari tautan penyedia
+Адреса серверов	Alamat server
+через DNS провайдера	melalui DNS penyedia
+включается, если не включён у вас	diaktifkan jika Anda belum mengaktifkannya
+Настройки провайдера	Pengaturan penyedia
+Написать в поддержку	Email dukungan
+Обновить подписку и проверить задержку	Perbarui langganan dan periksa latensi
+Показывать	Tampilkan
+По странам	Per negara
+Списком	Sebagai daftar
+Сортировка	Urutan
+По имени	Menurut nama
+По числу серверов	Menurut jumlah server
+По задержке	Menurut latensi
+Как у провайдера	Seperti dari penyedia
+Вид и сортировка	Tampilan dan urutan
+Обновить подписку	Perbarui langganan
+Повторить	Coba lagi
+Трафик вне VPN заблокирован	Lalu lintas di luar VPN diblokir
+Недавние	Terbaru
+Сохранить диагностический отчёт…	Simpan laporan diagnostik…
+Не удалось проверить обновление	Pembaruan tidak dapat diverifikasi
+Добавляет пакеты в начало соединения. Включайте по рекомендации провайдера VPN.	Menambahkan paket di awal koneksi. Aktifkan jika disarankan penyedia VPN.
+Помогает применить правила для сайтов, когда приложению известен только IP-адрес.	Membantu menerapkan aturan situs saat aplikasi hanya mengetahui alamat IP.
+Устанавливаю базы…	Memasang basis data…

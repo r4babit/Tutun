@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.Tutun" parent="android:Theme.Material.NoActionBar">
+        <item name="android:windowBackground">#11141B</item>
+        <item name="android:statusBarColor">#11141B</item>
+        <item name="android:navigationBarColor">#11141B</item>
+    </style>
+</resources>
